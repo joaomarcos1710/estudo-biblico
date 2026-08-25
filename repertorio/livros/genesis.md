@@ -1,6 +1,6 @@
 # Gênesis
 
-Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentários de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])* e [Gênesis — Derek Kidner, Tyndale](../fontes/comentarios/kidner-genesis.md) *(Fonte: [KIDNER])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
+Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentários de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])*, [Gênesis — Derek Kidner, Tyndale](../fontes/comentarios/kidner-genesis.md) *(Fonte: [KIDNER])* e [Genesis: A Verse-By-Verse Study — Charlie Garrett](../fontes/comentarios/garrett-genesis.md) *(Fonte: [GARRETT])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
 
 ## Sobre o livro
 
@@ -77,6 +77,9 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 **Comentários:**
 - *Elohim* (Deus) tem forma plural em hebraico mas verbo no singular — indica "plenitude de poder", grandeza ilimitada. *Bara* ("criou") é verbo usado exclusivamente para com Deus: descreve o milagre de algo absolutamente novo, criado do nada pelo poder soberano de Deus.
 *Fonte: [MOODY]*
+
+- Introdução ao livro parte de uma reflexão sobre pensar com clareza sobre a existência de Deus, usando os "Doze Primeiros Princípios" (lógica clássica sobre Ser Necessário vs. ser contingente) pra mostrar que a existência de Deus é racionalmente sustentável, não só uma questão de fé cega. Bom pra conversas com quem está em dúvida racional. Ver resumo completo em [garrett-genesis.md](../fontes/comentarios/garrett-genesis.md).
+*Fonte: [GARRETT]*
 
 ### Gênesis 1:2
 > Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.

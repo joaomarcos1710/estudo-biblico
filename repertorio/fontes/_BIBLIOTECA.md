@@ -16,6 +16,7 @@ Todo material que entra no repertório (comentário, verbete, vídeo, artigo) re
 | `MOODY` | Comentário bíblico | Comentário Bíblico Moody | Moody Bible Institute of Chicago | EUA (trad. português) | — |
 | `KIDNER` | Comentário bíblico | Gênesis: Introdução e Comentário (Tyndale OT Commentaries) | Derek Kidner — InterVarsity Press | Inglaterra (trad. Edições Vida Nova, Brasil) | — |
 | `GRACA-SOBERANA` | Coletânea de sermões | Graça Soberana | C. Harinck, C. H. Spurgeon, J. Edwards, G. Whitefield — compilado por W. Chr. Hammink, Dutch Reformed Tract Society | Holanda/Inglaterra/EUA (trad. português) | — |
+| `GARRETT` | Comentário bíblico (verse-by-verse) | Genesis: A Verse-By-Verse Study | Pastor Charlie Garrett (© 2021) | EUA (original em inglês) | — |
 
 ## Formato de citação nos arquivos
 
