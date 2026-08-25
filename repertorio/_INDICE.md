@@ -35,7 +35,7 @@ Repertório de textos, vídeos e comentários para consulta em emocionais (acons
 
 ## Livros já iniciados
 
-*(atualizado conforme formos adicionando)*
+- [Gênesis](livros/genesis.md)
 
 ## Temas já iniciados
 
