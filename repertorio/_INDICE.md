@@ -46,7 +46,7 @@ Repertório de textos, vídeos e comentários para consulta em emocionais (acons
 
 ## Assuntos já iniciados
 
-*(atualizado conforme formos adicionando)*
+- [Graça](assuntos/graca.md)
 
 ## Visuais já iniciados
 
