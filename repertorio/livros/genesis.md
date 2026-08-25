@@ -68,20 +68,56 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 ## Versículos-chave
 
-*(aponte os versículos que você usa em emocionais — capítulo, versículo, e se tiver vídeo/comentário/tema. Vou adicionando aqui conforme cada trecho, no formato abaixo.)*
-
-```markdown
 ### Gênesis 1:1
-> Texto do versículo (NVI)
+> No princípio Deus criou os céus e a terra.
 *Fonte: [NVI]*
 
-**Tags:** #tema #assunto
-
-**Vídeos:**
-- [Título](link) — nota
-*Fonte: [CÓDIGO]*
+**Tags:** #criação #Deus
 
 **Comentários:**
-- Nota pessoal ou trecho do Moody
+- *Elohim* (Deus) tem forma plural em hebraico mas verbo no singular — indica "plenitude de poder", grandeza ilimitada. *Bara* ("criou") é verbo usado exclusivamente para com Deus: descreve o milagre de algo absolutamente novo, criado do nada pelo poder soberano de Deus.
 *Fonte: [MOODY]*
-```
+
+### Gênesis 1:2
+> Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
+*Fonte: [NVI]*
+
+**Tags:** #criação #EspíritoSanto
+
+**Comentários:**
+- O Espírito de Deus "pairava" (*rúâh merahepet*) sobre o caos como uma ave devotada à volta do seu ninho — presença de Deus envolvendo e acariciando a terra incompleta, preparando-se para completar a criação.
+*Fonte: [MOODY]*
+
+### Gênesis 1:3-5
+> Disse Deus: "Haja luz", e houve luz. [...] Deus chamou à luz dia, e às trevas chamou noite. Passaram-se a tarde e a manhã; esse foi o primeiro dia.
+*Fonte: [NVI]*
+
+**Tags:** #criação #luz
+
+**Comentários:**
+- Primeira palavra criativa de Deus: facilidade incrível e ação deliberada (cf. Sl 33:6,9). A luz foi a resposta de Deus ao domínio das trevas. "Deus é luz" (1 Jo 1:5). Como isso ocorre antes da criação do sol e da lua, não é um dia de 24h no sentido comum — é um "dia de Deus".
+*Fonte: [MOODY]*
+
+### Gênesis 1:26-28
+> Então disse Deus: "Façamos o homem à nossa imagem, conforme a nossa semelhança. [...]" Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou. Deus os abençoou e lhes disse: "Sejam férteis e multipliquem-se! Encham e subjuguem a terra! Dominem sobre os peixes do mar, sobre as aves do céu e sobre todos os animais que se movem pela terra."
+*Fonte: [NVI]*
+
+**Tags:** #criação #identidade #propósito #Deus
+
+**Comentários:**
+- Momento supremo da criação. O homem, feito à imagem (*selem*) e semelhança (*demut*) de Deus, é distintamente diferente dos animais: criado para ser imortal, para ter comunhão com o Criador, dotado do privilégio da escolha, constituído representante e mordomo responsável de Deus sobre a terra (cf. Sl 8:5-7). Bom para falar de identidade e valor humano — a pessoa não é acidente, é criada com propósito.
+*Fonte: [MOODY]*
+
+### Gênesis 1:31
+> E Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; esse foi o sexto dia.
+*Fonte: [NVI]*
+
+**Tags:** #criação #bondadeDeDeus
+
+**Comentários:**
+- Ao olhar para o resultado final de Sua obra, Deus expressa deleite e satisfação extrema — "uma linda sinfonia". Útil pra lembrar que a criação (e a pessoa) tem valor aos olhos de Deus, não é falha ou acidente.
+*Fonte: [MOODY]*
+
+---
+
+*(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*

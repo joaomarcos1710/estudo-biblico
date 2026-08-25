@@ -73,3 +73,25 @@ Gênesis 1-11 apresenta a narrativa da vida do homem desde a criação até ao c
   13. Jacó e os Filhos de José. 47:28–48:22.
   14. A Bênção Solene. 49:1-27.
   15. Dias Finais. 49:28–50:26.
+
+## Comentário por capítulo
+
+### Gênesis 1 — A Criação (1:1–2:25)
+
+Deus é o Criador de todas as coisas. Desde o começo, a poderosa luz da revelação focaliza o Todo-Poderoso. Ele é o Princípio, a Causa, a Fonte de tudo o que existe.
+
+**v.1 — "No princípio... Criou Deus".** O autor leva o leitor para além do limite do tempo, para a eternidade insondável, sem dar indicação de data tangível. *Elohim* ("Deus") é plural em sua forma mas usado com verbo no singular — talvez melhor explicado como "plenitude de poder" ou grandeza ilimitada. *Bara* ("criou") é um verbo usado exclusivamente para com Deus: descreve o milagre completo, algo absolutamente novo dado à luz pelo poder soberano e criativo de Deus. "Os céus e a terra" inclui o universo completo, todo o material primário necessário para tudo que viria a existir.
+
+**v.2 — "sem forma e vazia" / "o Espírito de Deus pairava".** A terra é descrita em estado incompleto — caótico, ermo, vazio, escuro. O Espírito de Deus "pairava" (*rúâh merahepet*) descreve a presença de Deus envolvendo e acariciando o caos, como uma ave devotada à volta do seu ninho, preparando-se para completar a criação.
+
+**v.3-5 — "Haja luz".** Primeira palavra criativa de Deus: facilidade incrível e ação deliberada (cf. Sl 33:6,9). A luz foi a resposta de Deus ao domínio das trevas — a primeira ação positiva para concluir o programa da criação. "Deus é luz" (1 Jo 1:5). "Tarde e manhã": no relato, a tarde sempre precede a manhã; como isso ocorre antes da criação do sol e da lua, é incorreto falar de dias de 24h nesse ponto — é um "dia de Deus".
+
+**v.6-9 — Firmamento e terra seca.** O firmamento (*râquîa*) sugere uma expansão acima da terra retendo reservatórios de água. No terceiro dia Deus faz emergir a terra da massa de águas (cf. Sl 104:6-8; Jó 38:8-11) e cobre-a de vegetação.
+
+**v.14 — "Haja luzeiros".** Os luminares (*mêôrôt*) governam dia e noite, servem de sinais para as estações, e dão luz à terra — criados e colocados por Deus para executar Sua vontade.
+
+**v.20-22 — Seres vivos das águas e aves.** Aparecimento súbito de vida e atividade sobre a terra, toda feita pela mão de Deus, que os abençoa e ordena que se multipliquem — o progresso da criação subindo em direção ao homem.
+
+**v.26-28 — "Façamos o homem".** O momento supremo da criação. O plural é entendido por alguns como convocação da Trindade, por outros como "plural de majestade". O homem, feito à imagem (*selem*) e semelhança (*demut*) de Deus, é distintamente diferente dos animais: criado para ser imortal, para ter comunhão com o Criador, dotado do privilégio da escolha (inclusive de desobedecer), constituído representante e mordomo responsável de Deus sobre a terra, com domínio sobre a criação (cf. Sl 8:5-7).
+
+**v.31 — "Muito bom".** Ao olhar para o resultado final de Sua obra, Deus expressa deleite peculiar e satisfação extrema — "uma linda sinfonia".
