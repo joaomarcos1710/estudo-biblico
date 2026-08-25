@@ -1,6 +1,6 @@
 # Gênesis
 
-Texto: NVI (`repertorio/fontes/NVI/GEN.json`). Comentário de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md).
+Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentário de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
 
 ## Sobre o livro
 
@@ -73,12 +73,15 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 ```markdown
 ### Gênesis 1:1
 > Texto do versículo (NVI)
+*Fonte: [NVI]*
 
 **Tags:** #tema #assunto
 
 **Vídeos:**
 - [Título](link) — nota
+*Fonte: [CÓDIGO]*
 
 **Comentários:**
 - Nota pessoal ou trecho do Moody
+*Fonte: [MOODY]*
 ```
