@@ -1,6 +1,6 @@
 # Gênesis
 
-Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentário de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
+Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentários de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])* e [Gênesis — Derek Kidner, Tyndale](../fontes/comentarios/kidner-genesis.md) *(Fonte: [KIDNER])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
 
 ## Sobre o livro
 
