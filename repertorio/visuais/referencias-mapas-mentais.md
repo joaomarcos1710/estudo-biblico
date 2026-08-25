@@ -28,3 +28,30 @@ O conteúdo (personagens, versículos-chave, eventos) já está sendo estruturad
 ## Status
 
 Ainda não montado no Figma. Próximo passo: gerar o mapa mental de Gênesis nessa estrutura, com a marca, quando o conteúdo do livro estiver mais completo em `dados/`.
+
+---
+
+# Referências — árvore genealógica
+
+Duas imagens de exemplo recebidas mostrando árvores genealógicas de Gênesis (caixas com nomes, ligadas por linhas hierárquicas pai/mãe → filhos).
+
+## O que os exemplos mostram (estrutura a reaproveitar)
+
+- **Caixas de nome** ligadas por linhas retas indicando geração (pai/mãe no topo, filhos abaixo).
+- Casais lado a lado (ex: Abrão + Sarai, Isaque + Rebeca) antes de descer pros filhos.
+- Uniões secundárias/concubinas marcadas de forma diferenciada (ex: Agar como serva de Sara, ligada a Ismael).
+- Anotações curtas ao lado de nomes-chave (ex: "pai dos árabes", "renomeado Israel", "morta por Caim").
+- Blocos separados no canto pra eventos não-genealógicos que se cruzam com a árvore (Criação, Dilúvio, Torre de Babel), ligados por setas ao ponto da linhagem onde acontecem.
+- Uma das referências é bem "rabiscada"/hand-drawn (estilo sketchnote); a outra mais limpa, com caixas retangulares e cor de destaque (amarelo) pros nomes centrais da linhagem escolhida (Adán, Abram, Isaac, Jacob).
+
+## Adaptação pra nossa marca
+
+- Caixas com cantos retos, borda fina preta, texto em Hanken Grotesk.
+- Nome da pessoa central da linhagem (Abraão, Isaque, Jacó) destacado com o vermelho `#E5341E` no lugar do amarelo dos exemplos — mesmo princípio de "trilha principal" iluminada.
+- Linhas de conexão retas, sem efeito rabiscado, no preto/cinza (`--rule`).
+- Título do livro (GÊNESIS) em League Gothic, como nos exemplos, mas sem o traço decorativo à mão.
+- Eventos cruzados (Criação, Dilúvio, Babel) como blocos à parte, ligados por linha reta ou seta fina — não ilustração fofa, ícone de linha ou nenhuma imagem.
+
+## Fonte de dados
+
+Mesma base: os relacionamentos de parentesco devem primeiro existir em [`../dados/entidades.json`](../dados/entidades.json) (campo de relação familiar) antes de virar árvore no Figma — a árvore é a visualização, não o dado original.
