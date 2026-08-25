@@ -8,6 +8,7 @@ Repertório de textos, vídeos e comentários para consulta em emocionais (acons
 - `temas/` — um arquivo por tema/emoção (ex: ansiedade, luto, medo, culpa). Cada entrada aponta de volta para a referência bíblica em `livros/`.
 - `assuntos/` — um arquivo por assunto/entidade (ex: Deus, Jesus, Fé, Nínive). Mesma lógica dos temas, mas para pessoas, lugares e doutrinas em vez de emoções/situações.
 - `visuais/` — links para diagramas visuais (árvores genealógicas, mapas, linhas do tempo) montados no Figma, referenciando os versículos/assuntos relacionados.
+- `fontes/` — texto bíblico completo em JSON por tradução (hoje: NVI), usado como fonte pra copiar os versículos certinhos ao criar entradas em `livros/`. Veja [`fontes/README.md`](fontes/README.md).
 
 ## Formato de cada entrada (em `livros/`)
 
