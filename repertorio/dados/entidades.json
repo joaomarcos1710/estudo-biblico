@@ -1,0 +1,38 @@
+[
+  {
+    "id": "deus",
+    "tipo": "pessoa-divina",
+    "nome": "Deus",
+    "aliases": ["Elohim", "YHWH", "o Criador", "Todo-Poderoso"],
+    "resumo": "O Criador soberano de tudo o que existe. Em Gênesis 1, é apresentado como a Fonte de todas as coisas — pessoal, único, e Aquele que se revela.",
+    "versiculos": ["gen-1-1", "gen-1-2", "gen-1-3-5", "gen-1-26-28", "gen-1-31"],
+    "relacionados": ["espirito-santo", "homem", "criacao"]
+  },
+  {
+    "id": "espirito-santo",
+    "tipo": "pessoa-divina",
+    "nome": "Espírito de Deus",
+    "aliases": ["Espírito Santo", "rúâh"],
+    "resumo": "A presença de Deus atuando diretamente na criação — descrito em Gênesis 1:2 como pairando sobre as águas, preparando o caos para ser ordenado.",
+    "versiculos": ["gen-1-2"],
+    "relacionados": ["deus", "criacao"]
+  },
+  {
+    "id": "homem",
+    "tipo": "tema",
+    "nome": "Homem / Humanidade",
+    "aliases": ["Adão", "imagem de Deus", "ser humano"],
+    "resumo": "Criado à imagem e semelhança de Deus, distinto dos animais, com propósito, identidade e responsabilidade (mordomia sobre a criação).",
+    "versiculos": ["gen-1-26-28"],
+    "relacionados": ["deus", "criacao"]
+  },
+  {
+    "id": "criacao",
+    "tipo": "evento",
+    "nome": "A Criação",
+    "aliases": ["os seis dias", "criação do mundo"],
+    "resumo": "O evento fundacional de Gênesis 1: Deus formando o universo, a terra, a vida e o homem a partir do caos inicial, declarando cada etapa \"boa\".",
+    "versiculos": ["gen-1-1", "gen-1-2", "gen-1-3-5", "gen-1-26-28", "gen-1-31"],
+    "relacionados": ["deus", "espirito-santo", "homem"]
+  }
+]

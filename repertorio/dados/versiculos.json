@@ -1,0 +1,101 @@
+[
+  {
+    "id": "gen-1-1",
+    "ref": "Gênesis 1:1",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 1,
+    "versiculoFim": 1,
+    "texto": "No princípio Deus criou os céus e a terra.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "Deus"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Elohim (Deus) tem forma plural em hebraico mas verbo no singular — indica \"plenitude de poder\", grandeza ilimitada. Bara (\"criou\") é verbo usado exclusivamente para com Deus: descreve o milagre de algo absolutamente novo, criado do nada pelo poder soberano de Deus."
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-2",
+    "ref": "Gênesis 1:2",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 2,
+    "versiculoFim": 2,
+    "texto": "Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "Espírito Santo"],
+    "entidades": ["deus", "espirito-santo", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "O Espírito de Deus \"pairava\" (rúâh merahepet) sobre o caos como uma ave devotada à volta do seu ninho — presença de Deus envolvendo e acariciando a terra incompleta, preparando-se para completar a criação."
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-3-5",
+    "ref": "Gênesis 1:3-5",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 3,
+    "versiculoFim": 5,
+    "texto": "Disse Deus: \"Haja luz\", e houve luz. [...] Deus chamou à luz dia, e às trevas chamou noite. Passaram-se a tarde e a manhã; esse foi o primeiro dia.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "luz"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Primeira palavra criativa de Deus: facilidade incrível e ação deliberada (cf. Sl 33:6,9). A luz foi a resposta de Deus ao domínio das trevas. \"Deus é luz\" (1 Jo 1:5). Como isso ocorre antes da criação do sol e da lua, não é um dia de 24h no sentido comum — é um \"dia de Deus\"."
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-26-28",
+    "ref": "Gênesis 1:26-28",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 26,
+    "versiculoFim": 28,
+    "texto": "Então disse Deus: \"Façamos o homem à nossa imagem, conforme a nossa semelhança...\" Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou. Deus os abençoou e lhes disse: \"Sejam férteis e multipliquem-se! Encham e subjuguem a terra!...\"",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "identidade", "propósito", "Deus"],
+    "entidades": ["deus", "homem", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Momento supremo da criação. O homem, feito à imagem (selem) e semelhança (demut) de Deus, é distintamente diferente dos animais: criado para ser imortal, para ter comunhão com o Criador, dotado do privilégio da escolha, constituído representante e mordomo responsável de Deus sobre a terra (cf. Sl 8:5-7). Bom para falar de identidade e valor humano — a pessoa não é acidente, é criada com propósito."
+      },
+      {
+        "fonte": "KIDNER",
+        "texto": "A constituição do homem à imagem de Deus é onde a vocação do homem tem raiz — não só perante Deus, mas também na sociedade: a autoridade tem sua origem germinal aqui, na prioridade dada ao ser humano sobre a criação (1 Co 11:3,8 remete a este ponto)."
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-31",
+    "ref": "Gênesis 1:31",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 31,
+    "versiculoFim": 31,
+    "texto": "E Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; esse foi o sexto dia.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "bondade de Deus"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Ao olhar para o resultado final de Sua obra, Deus expressa deleite e satisfação extrema — \"uma linda sinfonia\". Útil pra lembrar que a criação (e a pessoa) tem valor aos olhos de Deus, não é falha ou acidente."
+      }
+    ],
+    "videos": []
+  }
+]
