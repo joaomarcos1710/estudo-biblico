@@ -7,6 +7,7 @@ Todo material que entra no repertório (comentário, verbete, vídeo, artigo) re
 1. Nova fonte chega → cadastro aqui com código, tipo, autor/instituição, país/idioma de origem e link (se houver).
 2. Todo trecho extraído dela, em qualquer arquivo do repertório, leva `*Fonte: [CÓDIGO]*` logo abaixo.
 3. Códigos são curtos e estáveis (ex: `MOODY`, `NVI`, `SCOFIELD`, `TIME-BÍBLIA`) — não mudam depois de criados.
+4. **Fonte em outro idioma → sempre traduzida pro português** no conteúdo salvo no repertório. A tabela abaixo registra o idioma original pra rastreabilidade, mas o texto usado em `livros/`, `temas/`, `assuntos/` e nos resumos de `fontes/comentarios/` é sempre em português.
 
 ## Fontes cadastradas
 
