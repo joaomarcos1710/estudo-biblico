@@ -68,6 +68,8 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 ## Versículos-chave
 
+*(entradas abaixo estão no formato antigo — Texto/Tags/Comentários. Novas entradas seguem o formato de 6 blocos descrito em [`_INDICE.md`](../_INDICE.md): Texto bíblico, Observação, O que dizem as fontes, Nossa interpretação, Aplicação pastoral, Questões em aberto.)*
+
 ### Gênesis 1:1
 > No princípio Deus criou os céus e a terra.
 *Fonte: [NVI]*

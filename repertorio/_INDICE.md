@@ -15,18 +15,38 @@ Repertório de textos, vídeos e comentários para consulta em emocionais (acons
 
 ## Formato de cada entrada (em `livros/`)
 
+Seis blocos fixos — a ideia é nunca deixar ambíguo o que é texto bíblico, o que é observação, o que é conclusão de uma fonte, e o que é nossa própria leitura:
+
 ```markdown
-### [Livro Capítulo:Versículo](#)
-> Texto do versículo (versão utilizada)
+### Livro Capítulo:Versículo
+
+**Texto bíblico**
+> Texto do versículo
+*Fonte: [NVI]*
 
 **Tags:** #tema1 #assunto1
 
-**Vídeos:**
+**Observação**
+O que o texto diz literalmente — personagens, ação, palavras que se repetem, contraste. Sem interpretar ainda.
+
+**O que dizem as fontes**
+- Resumo do que cada comentário diz, atribuído por nome.
+*Fonte: [CÓDIGO]*
+
+**Nossa interpretação**
+O que concluímos a partir do texto + fontes — deixando claro que é leitura nossa, não "o que a Bíblia diz" automaticamente.
+
+**Aplicação pastoral**
+Pra que situação/emocional isso serve, o que dizer, pra quem indicar.
+
+**Vídeos**
 - [Título do vídeo](link) — breve nota do que aborda
 
-**Comentários:**
-- Observação pessoal, contexto de uso, para quem indicar, etc.
+**Questões em aberto**
+Pontos que ainda precisam de mais fonte, ou onde há divergência entre comentaristas — sem fingir consenso que não existe.
 ```
+
+Nem toda entrada precisa preencher os seis blocos completos (um versículo simples pode não ter "questões em aberto"), mas a ordem e os títulos ficam padronizados.
 
 ## Formato de cada entrada (em `temas/` e `assuntos/`)
 
