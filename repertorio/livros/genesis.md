@@ -93,6 +93,9 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - O Espírito de Deus "pairava" (*rúâh merahepet*) sobre o caos como uma ave devotada à volta do seu ninho — presença de Deus envolvendo e acariciando a terra incompleta, preparando-se para completar a criação.
 *Fonte: [MOODY]*
 
+- "Sem forma e vazia" (*tohu v'vohu*) — mesma expressão usada só mais uma vez na Bíblia, em Jeremias 4:23, descrevendo juízo. *Rúâh* ("Espírito") pode significar "vento", mas "Espírito" faz mais sentido no contexto e paralela João 3. Aplicação: se o Espírito pairava sobre a criação então, ainda paira sobre ela agora — Deus continua presente e dirigindo Sua criação.
+*Fonte: [GARRETT]*
+
 ### Gênesis 1:3-5
 > Disse Deus: "Haja luz", e houve luz. [...] Deus chamou à luz dia, e às trevas chamou noite. Passaram-se a tarde e a manhã; esse foi o primeiro dia.
 *Fonte: [NVI]*
@@ -102,6 +105,77 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 **Comentários:**
 - Primeira palavra criativa de Deus: facilidade incrível e ação deliberada (cf. Sl 33:6,9). A luz foi a resposta de Deus ao domínio das trevas. "Deus é luz" (1 Jo 1:5). Como isso ocorre antes da criação do sol e da lua, não é um dia de 24h no sentido comum — é um "dia de Deus".
 *Fonte: [MOODY]*
+
+- Defende leitura literal de 6 dias de 24h (cita James Barr, professor de Oxford, reconhecendo — mesmo sem crer nisso — que o texto pretende dias literais). A luz do dia 1 seria literal e distinta do sol/estrelas (só "colocados" no dia 4) — toda a matéria teria sido criada instantaneamente e reorganizada nos dias seguintes. O dia bíblico começa ao pôr do sol.
+*Fonte: [GARRETT]*
+
+**Questões em aberto**
+Moody e Garrett discordam sobre se "dia" em Gênesis 1 é literal (24h) ou não — reflexo de um debate real e não resolvido entre cristãos que levam o texto a sério (não é questão de "quem tem mais fé", é diferença de leitura exegética/científica genuína). Bom não apresentar nenhum dos dois lados como o único cristianismo legítimo.
+
+### Gênesis 1:6-8
+
+**Texto bíblico**
+> Depois disse Deus: "Haja entre as águas um firmamento que separe águas de águas". Então Deus fez o firmamento e separou as águas que ficaram abaixo do firmamento das que ficaram por cima. E assim foi. Ao firmamento, Deus chamou céu. Passaram-se a tarde e a manhã; esse foi o segundo dia.
+*Fonte: [NVI]*
+
+**Tags:** #criação
+
+**O que dizem as fontes**
+- Propõe a "teoria do dossel de água": o firmamento (*raquia*) teria sido uma camada sólida de água congelada, funcionando como escudo contra radiação — explicando a longevidade extrema antes do Dilúvio e a ausência de arco-íris antes de Gênesis 9.
+*Fonte: [GARRETT]* (nível de confiança: baixo — teoria de nicho, não consenso nem entre defensores de dias literais)
+
+**Questões em aberto**
+Essa teoria específica não tem apoio amplo mesmo dentro do campo apologético cristão — tratar como especulação interessante, não como ensino estabelecido.
+
+---
+
+### Gênesis 1:9-10
+
+**Texto bíblico**
+> E disse Deus: "Ajuntem-se num só lugar as águas que estão debaixo do céu, e apareça a parte seca". E assim foi. À parte seca Deus chamou terra, e chamou mares ao conjunto das águas. E Deus viu que ficou bom.
+*Fonte: [NVI]*
+
+**Tags:** #criação
+
+**O que dizem as fontes**
+- Cita Jó 38:4-11 (Deus questionando Jó sobre quem estabeleceu os limites do mar) como retrato da soberania de Deus sobre a formação da terra.
+*Fonte: [GARRETT]*
+
+---
+
+### Gênesis 1:11-13
+
+**Texto bíblico**
+> Então disse Deus: "Cubra-se a terra de vegetação [...]" E assim foi. [...] E Deus viu que ficou bom.
+*Fonte: [NVI]*
+
+**Tags:** #criação #provisão
+
+**Observação**
+Único dia da criação em que "e Deus viu que era bom" aparece duas vezes no relato (v.10 e v.12) — algumas tradições judaicas associam isso à escolha de terça-feira para casamentos.
+
+**O que dizem as fontes**
+- Observa que toda a alimentação humana e animal até o Dilúvio seria vegetal, segundo o relato (permissão pra comer carne só viria depois do Dilúvio).
+*Fonte: [GARRETT]*
+
+---
+
+### Gênesis 1:14-19
+
+**Texto bíblico**
+> Disse Deus: "Haja luminares no firmamento do céu [...] Sirvam eles de sinais para marcar estações, dias e anos [...]" Deus fez os dois grandes luminares [...] fez também as estrelas.
+*Fonte: [NVI]*
+
+**Tags:** #criação #propósito
+
+**O que dizem as fontes**
+- As estrelas como "sinais" (*owth*) para eventos divinos — explicitamente não uma licença pra astrologia (proibida na Bíblia). Cita Gênesis 49:10 (profecia do cetro de Judá) como possível referência à estrela de Belém, e Jó 9:8-10 (constelações como obra de Deus).
+*Fonte: [GARRETT]*
+
+**Questões em aberto**
+A fonte reconhece, sem resolver, a tensão entre uma terra jovem (~6.000 anos, na leitura do autor) e a luz de galáxias distantes que levaria milhões de anos pra chegar até nós — um dos pontos mais debatidos dessa linha apologética, sem solução consensual mesmo entre quem defende essa posição.
+
+---
 
 ### Gênesis 1:26-28
 > Então disse Deus: "Façamos o homem à nossa imagem, conforme a nossa semelhança. [...]" Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou. Deus os abençoou e lhes disse: "Sejam férteis e multipliquem-se! Encham e subjuguem a terra! Dominem sobre os peixes do mar, sobre as aves do céu e sobre todos os animais que se movem pela terra."
