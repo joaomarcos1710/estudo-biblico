@@ -21,3 +21,7 @@ Formato de cada arquivo (`fontes/NVI/<CÓDIGO>.json`):
 ```
 
 Códigos seguem abreviação em inglês (ex: `GEN`, `JON`, `MAT`, `JHN`, `REV`).
+
+## Como as referências são formatadas
+
+As citações de todas as fontes seguem a **ABNT NBR 6023:2025** (Informação e documentação — Referências — Elaboração). Ver [`_BIBLIOTECA.md`](_BIBLIOTECA.md) para a tabela de referências completas e os modelos usados pra cada tipo de fonte (livro, capítulo, vídeo, PDF, site).

@@ -40,6 +40,11 @@
         "fonte": "MOODY",
         "texto": "O Espírito de Deus \"pairava\" (rúâh merahepet) sobre o caos como uma ave devotada à volta do seu ninho — presença de Deus envolvendo e acariciando a terra incompleta, preparando-se para completar a criação.",
         "nivelConfianca": "alto"
+      },
+      {
+        "fonte": "GARRETT",
+        "texto": "\"Sem forma e vazia\" (tohu v'vohu) — mesma expressão usada só mais uma vez na Bíblia, em Jeremias 4:23, descrevendo juízo. Rúâh (\"Espírito\") pode significar \"vento\", mas \"Espírito\" faz mais sentido no contexto e paralela João 3. Se o Espírito pairava sobre a criação então, ainda paira sobre ela agora.",
+        "nivelConfianca": "medio"
       }
     ],
     "videos": []
@@ -60,8 +65,97 @@
         "fonte": "MOODY",
         "texto": "Primeira palavra criativa de Deus: facilidade incrível e ação deliberada (cf. Sl 33:6,9). A luz foi a resposta de Deus ao domínio das trevas. \"Deus é luz\" (1 Jo 1:5). Como isso ocorre antes da criação do sol e da lua, não é um dia de 24h no sentido comum — é um \"dia de Deus\".",
         "nivelConfianca": "medio"
+      },
+      {
+        "fonte": "GARRETT",
+        "texto": "Defende leitura literal de 6 dias de 24h (cita James Barr, professor de Oxford, reconhecendo — mesmo sem crer nisso — que o texto pretende dias literais). A luz do dia 1 seria literal e distinta do sol/estrelas (só \"colocados\" no dia 4). O dia bíblico começa ao pôr do sol.",
+        "nivelConfianca": "medio"
       }
     ],
+    "questoesEmAberto": "Moody e Garrett discordam sobre se \"dia\" em Gênesis 1 é literal (24h) ou não — debate real e não resolvido entre cristãos que levam o texto a sério, não questão de \"quem tem mais fé\".",
+    "videos": []
+  },
+  {
+    "id": "gen-1-6-8",
+    "ref": "Gênesis 1:6-8",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 6,
+    "versiculoFim": 8,
+    "texto": "Depois disse Deus: \"Haja entre as águas um firmamento que separe águas de águas\". Então Deus fez o firmamento e separou as águas que ficaram abaixo do firmamento das que ficaram por cima. E assim foi. Ao firmamento, Deus chamou céu. Passaram-se a tarde e a manhã; esse foi o segundo dia.",
+    "fonteTexto": "NVI",
+    "tags": ["criação"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "GARRETT",
+        "texto": "Propõe a \"teoria do dossel de água\": o firmamento (raquia) teria sido uma camada sólida de água congelada, funcionando como escudo contra radiação — explicando a longevidade extrema antes do Dilúvio e a ausência de arco-íris antes de Gênesis 9.",
+        "nivelConfianca": "baixo"
+      }
+    ],
+    "questoesEmAberto": "Essa teoria específica não tem apoio amplo mesmo dentro do campo apologético cristão — tratar como especulação interessante, não como ensino estabelecido.",
+    "videos": []
+  },
+  {
+    "id": "gen-1-9-10",
+    "ref": "Gênesis 1:9-10",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 9,
+    "versiculoFim": 10,
+    "texto": "E disse Deus: \"Ajuntem-se num só lugar as águas que estão debaixo do céu, e apareça a parte seca\". E assim foi. À parte seca Deus chamou terra, e chamou mares ao conjunto das águas. E Deus viu que ficou bom.",
+    "fonteTexto": "NVI",
+    "tags": ["criação"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "GARRETT",
+        "texto": "Cita Jó 38:4-11 (Deus questionando Jó sobre quem estabeleceu os limites do mar) como retrato da soberania de Deus sobre a formação da terra.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-11-13",
+    "ref": "Gênesis 1:11-13",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 11,
+    "versiculoFim": 13,
+    "texto": "Então disse Deus: \"Cubra-se a terra de vegetação [...]\" E assim foi. [...] E Deus viu que ficou bom.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "provisão"],
+    "entidades": ["deus", "criacao"],
+    "observacao": "Único dia da criação em que \"e Deus viu que era bom\" aparece duas vezes no relato (v.10 e v.12).",
+    "comentarios": [
+      {
+        "fonte": "GARRETT",
+        "texto": "Observa que toda a alimentação humana e animal até o Dilúvio seria vegetal, segundo o relato (permissão pra comer carne só viria depois do Dilúvio).",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-14-19",
+    "ref": "Gênesis 1:14-19",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 14,
+    "versiculoFim": 19,
+    "texto": "Disse Deus: \"Haja luminares no firmamento do céu [...] Sirvam eles de sinais para marcar estações, dias e anos [...]\" Deus fez os dois grandes luminares [...] fez também as estrelas.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "propósito"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "GARRETT",
+        "texto": "As estrelas como \"sinais\" (owth) para eventos divinos — explicitamente não uma licença pra astrologia. Cita Gênesis 49:10 (profecia do cetro de Judá) como possível referência à estrela de Belém, e Jó 9:8-10 (constelações como obra de Deus).",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "questoesEmAberto": "A fonte reconhece, sem resolver, a tensão entre uma terra jovem (~6.000 anos, na leitura do autor) e a luz de galáxias distantes que levaria milhões de anos pra chegar até nós.",
     "videos": []
   },
   {
