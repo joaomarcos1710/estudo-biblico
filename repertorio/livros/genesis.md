@@ -1,6 +1,6 @@
 # Gênesis
 
-Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentários de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])*, [Gênesis — Derek Kidner, Tyndale](../fontes/comentarios/kidner-genesis.md) *(Fonte: [KIDNER])* e [Genesis: A Verse-By-Verse Study — Charlie Garrett](../fontes/comentarios/garrett-genesis.md) *(Fonte: [GARRETT])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
+Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentários de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])*, [Gênesis — Derek Kidner, Tyndale](../fontes/comentarios/kidner-genesis.md) *(Fonte: [KIDNER])*, [Genesis: A Verse-By-Verse Study — Charlie Garrett](../fontes/comentarios/garrett-genesis.md) *(Fonte: [GARRETT])* e [Comentário Bíblico Beacon](../fontes/comentarios/beacon-genesis.md) *(Fonte: [BEACON])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
 
 ## Sobre o livro
 
@@ -83,6 +83,9 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - Estudo em 4 partes: o Deus **da** Criação (eterno, imutável, monoteísmo demonstrado por lógica — os "Doze Primeiros Princípios"), o Deus **acima** da Criação (criou do nada — *Ex Nihilo* — e sustenta tudo, contra o Deísmo), o Deus **na** Criação (presente e ativo, fora do tempo, mas agindo nele), e o Deus **Pessoal** (se revela por profetas, pela Escritura, e pela encarnação de Cristo). Bom pra dúvida racional ("não consigo crer") e pra sensação de distância de Deus. Ver texto completo em [garrett-genesis.md](../fontes/comentarios/garrett-genesis.md).
 *Fonte: [GARRETT]*
 
+- "No princípio... Deus" responde a duas perguntas: "quem fez todas as coisas?" e "quem é anterior e maior que todas as coisas?". O céu e a terra não são Deus nem deuses, nem Deus é igual à natureza — Deus é o Criador, a natureza é Seu trabalho manual. Embora feita por Deus, a terra ainda não estava pronta pro homem (v.2): desordem, sem forma, vazia, sem luz — mas já havia atividade, o Espírito de Deus se movendo sobre as águas.
+*Fonte: [BEACON]*
+
 ### Gênesis 1:2
 > Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
 *Fonte: [NVI]*
@@ -109,6 +112,9 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - Defende leitura literal de 6 dias de 24h (cita James Barr, professor de Oxford, reconhecendo — mesmo sem crer nisso — que o texto pretende dias literais). A luz do dia 1 seria literal e distinta do sol/estrelas (só "colocados" no dia 4) — toda a matéria teria sido criada instantaneamente e reorganizada nos dias seguintes. O dia bíblico começa ao pôr do sol.
 *Fonte: [GARRETT]*
 
+- Energia é necessidade vital pro hábitat do homem, e luz é energia. A primeira ordem de Deus foi "Haja luz" — a ênfase na palavra falada de Deus é tão grande que cada dia criativo começa com uma ordem, seguida da execução e da declaração culminante "era bom".
+*Fonte: [BEACON]*
+
 **Questões em aberto**
 Moody e Garrett discordam sobre se "dia" em Gênesis 1 é literal (24h) ou não — reflexo de um debate real e não resolvido entre cristãos que levam o texto a sério (não é questão de "quem tem mais fé", é diferença de leitura exegética/científica genuína). Bom não apresentar nenhum dos dois lados como o único cristianismo legítimo.
 
@@ -123,6 +129,9 @@ Moody e Garrett discordam sobre se "dia" em Gênesis 1 é literal (24h) ou não 
 **O que dizem as fontes**
 - Propõe a "teoria do dossel de água": o firmamento (*raquia*) teria sido uma camada sólida de água congelada, funcionando como escudo contra radiação — explicando a longevidade extrema antes do Dilúvio e a ausência de arco-íris antes de Gênesis 9.
 *Fonte: [GARRETT]* (nível de confiança: baixo — teoria de nicho, não consenso nem entre defensores de dias literais)
+
+- "Expansão"/"firmamento" (*raqia*) não enfatiza o material em si, mas o ato de expandir-se. Em diversos lugares do AT o ato de "estender os céus" é proeminente (Jó 9:8; 26:7; Sl 104:2; Is 45:12; 51:13; Jr 51:15; Zc 12:1) — a evidência de que Deus é Criador está no ato de estender, não no caráter do que foi formado.
+*Fonte: [BEACON]*
 
 **Questões em aberto**
 Essa teoria específica não tem apoio amplo mesmo dentro do campo apologético cristão — tratar como especulação interessante, não como ensino estabelecido.
@@ -141,6 +150,9 @@ Essa teoria específica não tem apoio amplo mesmo dentro do campo apologético 
 - Cita Jó 38:4-11 (Deus questionando Jó sobre quem estabeleceu os limites do mar) como retrato da soberania de Deus sobre a formação da terra.
 *Fonte: [GARRETT]*
 
+- "Apareça a porção seca" não é admissão de que a matéria inorgânica tinha poder inerente de produzir vida — a vida está, no final das contas, na palavra criativa de Deus.
+*Fonte: [BEACON]*
+
 ---
 
 ### Gênesis 1:11-13
@@ -158,6 +170,9 @@ Essa teoria específica não tem apoio amplo mesmo dentro do campo apologético 
 - Observa que toda a alimentação humana e animal até o Dilúvio seria vegetal, segundo o relato (permissão pra comer carne só viria depois do Dilúvio).
 *Fonte: [GARRETT]*
 
+- Padrão de pares se repete: luz/trevas, águas de cima/de baixo, terra/mares — depois vem uma série de grupos de três (erva, erva com semente, árvore frutífera). "Conforme a sua espécie" indica limite aos poderes de reprodução — a segurança observável da natureza (trevo produz trevo, trigo produz trigo).
+*Fonte: [BEACON]*
+
 ---
 
 ### Gênesis 1:14-19
@@ -171,6 +186,9 @@ Essa teoria específica não tem apoio amplo mesmo dentro do campo apologético 
 **O que dizem as fontes**
 - As estrelas como "sinais" (*owth*) para eventos divinos — explicitamente não uma licença pra astrologia (proibida na Bíblia). Cita Gênesis 49:10 (profecia do cetro de Judá) como possível referência à estrela de Belém, e Jó 9:8-10 (constelações como obra de Deus).
 *Fonte: [GARRETT]*
+
+- Os pagãos adoravam sol, lua e estrelas como deuses. Na narrativa, o "luminar maior" e o "luminar menor" nem mesmo são nomeados — têm dignidade de governo e nada mais. "Que golpe contra o paganismo!"
+*Fonte: [BEACON]*
 
 **Questões em aberto**
 A fonte reconhece, sem resolver, a tensão entre uma terra jovem (~6.000 anos, na leitura do autor) e a luz de galáxias distantes que levaria milhões de anos pra chegar até nós — um dos pontos mais debatidos dessa linha apologética, sem solução consensual mesmo entre quem defende essa posição.
@@ -187,6 +205,12 @@ A fonte reconhece, sem resolver, a tensão entre uma terra jovem (~6.000 anos, n
 - Momento supremo da criação. O homem, feito à imagem (*selem*) e semelhança (*demut*) de Deus, é distintamente diferente dos animais: criado para ser imortal, para ter comunhão com o Criador, dotado do privilégio da escolha, constituído representante e mordomo responsável de Deus sobre a terra (cf. Sl 8:5-7). Bom para falar de identidade e valor humano — a pessoa não é acidente, é criada com propósito.
 *Fonte: [MOODY]*
 
+- A constituição do homem à imagem de Deus é onde a vocação do homem tem raiz — não só perante Deus, mas também na sociedade.
+*Fonte: [KIDNER]*
+
+- "Imagem" (*selem*): certa semelhança com a realidade divina, mas sem plenitude. "Semelhança" (*demut*): similitude geral, não duplicata exata — não é pra ser "um pequeno Deus", mas está relacionado a Ele, portador de características espirituais que o distinguem dos animais. O direito de dominar (v.28) ressalta que Deus equipou o homem pra agir como governante: capacidade intelectual (argumentar, organizar, planejar, avaliar), capacidade emocional (desejar o bem-estar dos súditos, apreciar o bom/verdadeiro/belo, amar a Deus) e capacidade volitiva (escolher o certo, obedecer, entregar-se em adoração). A imagem foi distribuída sem distinção de macho e fêmea — iguais diante de Deus (Ec 7:29; Ef 4:24; Cl 3:10). A autoridade de dominar é delegada, um governo subordinado pelo qual o homem presta contas a Deus — controlar a vida animal não dá direito de abusar dela.
+*Fonte: [BEACON]*
+
 ### Gênesis 1:31
 > E Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; esse foi o sexto dia.
 *Fonte: [NVI]*
@@ -196,6 +220,32 @@ A fonte reconhece, sem resolver, a tensão entre uma terra jovem (~6.000 anos, n
 **Comentários:**
 - Ao olhar para o resultado final de Sua obra, Deus expressa deleite e satisfação extrema — "uma linda sinfonia". Útil pra lembrar que a criação (e a pessoa) tem valor aos olhos de Deus, não é falha ou acidente.
 *Fonte: [MOODY]*
+
+---
+
+### Gênesis 2:1-3
+
+**Texto bíblico**
+> Assim foram concluídos os céus e a terra, e tudo o que neles há. No sétimo dia Deus já havia concluído a obra que realizara, e nesse dia descansou. Abençoou Deus o sétimo dia e o santificou, porque nele descansou de toda a obra que realizara na criação.
+*Fonte: [NVI]*
+
+**Tags:** #criação #descanso #sábado
+
+**Observação**
+Primeiro item declarado "santo" em toda a Bíblia não é uma coisa, um lugar, um animal ou uma pessoa — é uma porção de tempo.
+
+**O que dizem as fontes**
+- A palavra hebraica *sheibat* ("descansou") pode ser traduzida por "desistiu" ou "cessou" — Deus não parou por cansaço, parou porque a obra estava completa.
+*Fonte: [MOODY]*
+
+- Rabinos antigos ficaram incomodados por parecer que Deus "trabalhou" no sábado — Rashi respondeu que o que faltava ao mundo era descanso, e o último ato de Deus foi criar o Sábado, onde há quietude e repouso. Nos Dez Mandamentos, os seis dias de trabalho de Deus servem de base pro descanso do homem (Êx 20:8-11) — um dia estabelecido por Deus, onde a ordem de "conquistar a natureza" é posta de lado e o homem reconhece uma lei superior, entregando-se a Deus. Salmo 95:11 fala de Deus negando "descanso" a quem O desobedece — Hebreus 4:11 retoma isso: "Procuremos, pois, entrar naquele repouso." Diferente do *sabbattu* babilônico (onde demônios perambulavam livremente), o sábado bíblico foi santificado por Deus — dia de alegria, renovação interior, louvor. Na tradição cristã, a base do sábado foi trocada do evento da criação para o da ressurreição — daí a mudança do sábado pro domingo, mas o mesmo princípio persiste: seis dias para o domínio do homem sobre a natureza, o sétimo é o Dia do Senhor.
+*Fonte: [BEACON]*
+
+**Aplicação pastoral**
+Base bíblica direta pra falar de descanso, esgotamento e burnout — descansar não é falta de fé ou preguiça, é seguir um padrão que o próprio Deus estabeleceu antes de existir qualquer trabalho ou pecado no mundo. Útil com quem carrega culpa por parar.
+
+**Questões em aberto**
+A transição sábado→domingo na tradição cristã é reconhecida pelas fontes, mas não é debatida em profundidade aqui — vale registrar como ponto a aprofundar se surgir fonte específica sobre isso.
 
 ---
 

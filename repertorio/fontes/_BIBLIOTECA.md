@@ -19,6 +19,7 @@ Todo material que entra no repertório (comentário, verbete, vídeo, artigo) re
 | `KIDNER` | Comentário bíblico | Inglaterra (trad. Edições Vida Nova, Brasil) | KIDNER, Derek. *Gênesis*: introdução e comentário. Tradução: Odayr Olivetti. São Paulo: Vida Nova, [1979 ou post.]. Título original: Genesis: An Introduction and Commentary. (Tyndale Old Testament Commentaries). |
 | `GRACA-SOBERANA` | Coletânea de sermões | Holanda/Inglaterra/EUA (trad. português) | HARINCK, C.; SPURGEON, C. H.; EDWARDS, J.; WHITEFIELD, G. *Graça soberana*. Compilado por W. Chr. Hammink. [S. l.]: Dutch Reformed Tract Society, [20--?]. |
 | `GARRETT` | Comentário bíblico (verse-by-verse) | EUA (original em inglês) | GARRETT, Charlie. *Genesis*: a verse-by-verse study. [S. l.: s. n.], 2021. |
+| `BEACON` | Comentário bíblico (coleção) | EUA (trad. CPAD, Brasil) | COMENTÁRIO BÍBLICO BEACON: Gênesis. Tradução: Luís Aron de Macedo. 4. impr. Rio de Janeiro: CPAD, 2012. ISBN 85-263-0685-5. Título original: Beacon Bible Commentary (10 Volume Set). Kansas City: Beacon Hill Press of Kansas City / Nazarene Publishing House, 1969. |
 
 *Campos entre colchetes (`[S. l.]`, `[s. n.]`, `[19--?]`) indicam dado que a fonte recebida não informou — não foi inventado. Se você tiver a edição/ano exatos de algum desses materiais, me manda que eu atualizo a referência.*
 

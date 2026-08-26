@@ -4,7 +4,8 @@ Repertório de genealogias bíblicas — linhagens, famílias, tribos, linhagens
 
 ## Como funciona
 
-- Cada genealogia é uma pasta aqui, com um `README.md` (a ficha completa) e os diagramas (`.svg`/`.png`).
+- Cada genealogia é uma pasta aqui, com um `README.md` (a ficha completa) e o diagrama (`.png`, exportado do Figma).
+- **O Figma é a ferramenta oficial pra montar as árvores** — arquivo [Estudo Bíblico — Genealogias](https://www.figma.com/design/0vyDCNSrEPu6K0CkFUsEw4), um frame por genealogia. Usar auto-layout evita sobreposição de caixas automaticamente (problema que tínhamos com SVG feito à mão). Depois de montar/ajustar lá, exporta como PNG e substitui o arquivo aqui na pasta correspondente.
 - Os **dados estruturados** (a mesma informação, em formato que a busca/app consegue cruzar) ficam em [`../dados/genealogias.json`](../dados/genealogias.json).
 - As **relações de parentesco** (pai, mãe, filhos, cônjuges, irmãos) ficam nas próprias pessoas em [`../dados/entidades.json`](../dados/entidades.json) — uma genealogia aqui é um "recorte" nomeado e visual dessas relações, não uma fonte de dados paralela. Isso evita ter duas versões da mesma informação.
 
