@@ -15,7 +15,8 @@
     "eventosRelacionados": ["criacao", "queda"],
     "observacoes": "Parcialmente processada: Adão e Eva → Caim, Abel, Sete (Caim excluído da linhagem escolhida após o homicídio; Abel morto; Sete \"destinado\" a assumir seu lugar) → Enos (início da adoração coletiva) → [gerações intermediárias de Gênesis 5 ainda não processadas: Cainã, Maalaleel, Jarede] → Enoque (\"andou com Deus\", trasladado) → [Matusalém, Lameque ainda não processados] → Noé (ainda não processado).",
     "fontes": ["MOODY"],
-    "imagensDisponiveis": ["genealogias/linhagem-adao-noe/diagrama.svg"]
+    "imagensDisponiveis": ["genealogias/linhagem-adao-noe/diagrama.png"],
+    "figmaUrl": "https://www.figma.com/design/0vyDCNSrEPu6K0CkFUsEw4"
   },
   {
     "id": "familia-abraao",

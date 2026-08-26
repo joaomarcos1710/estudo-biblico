@@ -34,4 +34,5 @@ Note-se que Gênesis também menciona um Enoque filho de Caim (Gn 4:17) — pess
 
 ## Imagens disponíveis
 
-- `diagrama.svg` — árvore parcial (Adão até Enoque, com as lacunas marcadas), seguindo o [sistema visual do estudo bíblico](../../design/sistema-visual.md). Linha em preto porque ainda não é tratada como a genealogia messiânica confirmada (o vermelho é reservado só pra isso) — quando cruzarmos com a Genealogia de Jesus, essa cor pode mudar.
+- `diagrama.png` — pré-visualização rápida, exportada do Figma. Árvore parcial (Adão até Noé, com as lacunas marcadas), seguindo o [sistema visual do estudo bíblico](../../design/sistema-visual.md). Linha em preto (borda grossa) porque ainda não é tratada como a genealogia messiânica confirmada — o vermelho fica reservado pra quando cruzarmos com a Genealogia de Jesus. Gênero indicado por ponto azul-ardósia (homem) / rosa-terroso (mulher) no cabeçalho de cada caixa.
+- **Arquivo editável no Figma:** [Estudo Bíblico — Genealogias](https://www.figma.com/design/0vyDCNSrEPu6K0CkFUsEw4) — frame "Genealogia - Adão a Noé". Usar auto-layout no Figma evita sobreposição automaticamente; ajustar/expandir a árvore lá conforme novas gerações forem processadas, depois re-exportar o PNG pra cá.
