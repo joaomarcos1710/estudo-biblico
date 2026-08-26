@@ -1,6 +1,6 @@
 # Gênesis
 
-Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentários de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])*, [Gênesis — Derek Kidner, Tyndale](../fontes/comentarios/kidner-genesis.md) *(Fonte: [KIDNER])* e [Genesis: A Verse-By-Verse Study — Charlie Garrett](../fontes/comentarios/garrett-genesis.md) *(Fonte: [GARRETT])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
+Texto: NVI *(Fonte: [NVI])* — `repertorio/fontes/NVI/GEN.json`. Comentários de apoio: [Comentário Bíblico Moody](../fontes/comentarios/moody-genesis.md) *(Fonte: [MOODY])*, [Gênesis — Derek Kidner, Tyndale](../fontes/comentarios/kidner-genesis.md) *(Fonte: [KIDNER])*, [Genesis: A Verse-By-Verse Study — Charlie Garrett](../fontes/comentarios/garrett-genesis.md) *(Fonte: [GARRETT])* e [Comentário Bíblico Beacon](../fontes/comentarios/beacon-genesis.md) *(Fonte: [BEACON])*. Registro completo de fontes: [`fontes/_BIBLIOTECA.md`](../fontes/_BIBLIOTECA.md).
 
 ## Sobre o livro
 
@@ -82,6 +82,9 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 - Estudo em 4 partes: o Deus **da** Criação (eterno, imutável, monoteísmo demonstrado por lógica — os "Doze Primeiros Princípios"), o Deus **acima** da Criação (criou do nada — *Ex Nihilo* — e sustenta tudo, contra o Deísmo), o Deus **na** Criação (presente e ativo, fora do tempo, mas agindo nele), e o Deus **Pessoal** (se revela por profetas, pela Escritura, e pela encarnação de Cristo). Bom pra dúvida racional ("não consigo crer") e pra sensação de distância de Deus. Ver texto completo em [garrett-genesis.md](../fontes/comentarios/garrett-genesis.md).
 *Fonte: [GARRETT]*
+
+- "No princípio... Deus" responde a duas perguntas: "quem fez todas as coisas?" e "quem é anterior e maior que todas as coisas?". O céu e a terra não são Deus nem deuses, nem Deus é igual à natureza — Deus é o Criador, a natureza é Seu trabalho manual. Embora feita por Deus, a terra ainda não estava pronta pro homem (v.2): desordem, sem forma, vazia, sem luz — mas já havia atividade, o Espírito de Deus se movendo sobre as águas.
+*Fonte: [BEACON]*
 
 ### Gênesis 1:2
 > Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
