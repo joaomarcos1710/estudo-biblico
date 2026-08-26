@@ -63,12 +63,13 @@ Nem toda entrada precisa preencher os seis blocos completos (um versículo simpl
 
 ## Temas já iniciados
 
-*(atualizado conforme formos adicionando)*
+- [Ira](temas/ira.md)
 
 ## Assuntos já iniciados
 
 - [Graça](assuntos/graca.md)
 - [Casamento](assuntos/casamento.md)
+- [A Queda](assuntos/a-queda.md)
 
 ## Visuais já iniciados
 

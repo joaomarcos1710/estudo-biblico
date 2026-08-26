@@ -111,3 +111,55 @@ Deus é o Criador de todas as coisas. Desde o começo, a poderosa luz da revela�
 **v.21-23 — A criação da mulher.** Deus induziu Adão a um sono profundo (*tardimâ*) — "certamente a misericórdia divina foi exibida neste milagre". Uma citação (autor não identificado) resume bem o comentário: "a mulher foi tirada não da cabeça do homem para governar sobre ele, não dos seus pés para ser pisada por ele, mas do seu lado, para ser protegida, e de perto do seu coração, para ser amada." Homem e mulher são mutuamente incompletos um sem o outro — "essa é a vontade de Deus". *'Ishshâ* ("mulher") e *ish* ("varão") são parecidas até no som, embora léxicos mais recentes discordem quanto à etimologia comum.
 
 **v.24 — "Uma só carne".** Base do casamento monogâmico. Rashi (comentador judeu) via este versículo como comentário direto do Espírito Santo. Jesus cita esse versículo em Mc 10:7-9, tornando os laços matrimoniais "terminantemente indissolúveis" — "o que Deus ajuntou não o separe o homem". O relacionamento se baseia na ordem da criação, na liderança do marido na família, na santidade eterna dos votos matrimoniais e no tipo de amor que une esposo e esposa — tipificando a relação de Cristo com a Igreja.
+
+### Gênesis 3 — A Tentação e a Queda (3:1-24)
+
+Os seres humanos, moralmente honestos mas dotados do poder de escolha, estavam sujeitos ao tentador a qualquer momento — o teste era inevitável. A única proibição (a árvore do conhecimento do bem e do mal) formou a atmosfera onde o apelo do tentador foi acolhido.
+
+**v.1 — A serpente (neiheish).** Palavra que carrega ideia de astúcia excepcional. A exegese posterior identifica a serpente com Satanás (Ap 12:9: "o grande dragão, a velha serpente, chamada o diabo e Satanás"; Jo 8:44: "é mentiroso, e pai da mentira"). Paulo diz que Satanás se mascara de "anjo de luz" (2 Co 11:14) — escolheu o animal mais sutil e o controlou para sua tarefa. O método: distorcer a proibição de Deus e depois ridicularizá-la, semeando dúvida sobre os motivos de Deus.
+
+**v.3 — A resposta de Eva.** Ao responder, ela já revela um perigoso desejo de negociar com o tentador — e cita a proibição de forma errada, acrescentando "nem lhe tocareis" (o que Deus não tinha dito).
+
+**v.5 — "Sereis como Deus".** O argumento mais poderoso do tentador: acusar o Criador de egoísmo, como se Ele não quisesse que Suas criaturas fossem como Ele.
+
+**v.6-7 — A queda.** "Vendo... tomou... comeu... deu" — verbos que contam a história de forma viva. Ela queria o alimento, a beleza e o poder que o fruto prometia. "Tomou... comeu" foi automático; o tentador já não era mais necessário. *Peikah* ("abriram-se os olhos") descreve um milagre súbito — a promessa se cumpriu, mas o que viram foi muito diferente do prometido: nudez espiritual e física, vergonha, medo. "Uma terrível solidão apossou-se deles."
+
+**v.8-9 — "Onde estás?".** Deus vem "pela viração do dia" — podiam se esconder d'Ele, mas não escapar. Deus sabia onde estavam; a pergunta era um apelo cheio de ternura, buscando levá-los à convicção do pecado. "Embora a Justiça estivesse ditando o procedimento, a Misericórdia era quem dirigia."
+
+**v.12-13 — As desculpas.** Em vez de confessar, ambos passam a culpa adiante — Adão para Deus ("a mulher que me deste"), Eva para a serpente.
+
+**v.14-15 — A maldição da serpente e o protoevangelho.** *'Ebá* ("inimizade") indica hostilidade profundamente enraizada. *Shup* ("ferirás/esmagarás") é o mesmo verbo em ambas as cláusulas — profecia de luta contínua entre a semente da mulher e a da serpente. Esta passagem, chamada *protevangelium* ("primeiro evangelho"), aponta pra a vinda do Messias e vitória final — a primeira promessa de redenção dada à raça humana.
+
+**v.16-17 — As consequências para a mulher e o homem.** Sujeição e dor no parto para a mulher; trabalho árduo, espinhos e ervas daninhas para o homem, que antes só precisava "cultivar" o jardim (2:15) com fartura garantida.
+
+**v.20 — Eva (hauuâ).** Nome relacionado à "vida" — ela seria mãe de toda a humanidade. A vida continuaria, apesar da sentença de morte já declarada.
+
+**v.22-24 — A expulsão.** Ato "necessário e misericordioso" — Deus não permitiria que o homem rebelde comesse da árvore da vida e perpetuasse eternamente sua condição caída. Os querubins (*kerubim*) e a espada refulgente guardam o caminho de volta — mas "Jeová não se esqueceu de Suas criaturas; Ele já fizera provisões para a sua triunfante volta" (referência ao protoevangelho do v.15).
+
+### Gênesis 4 — Os Dois Irmãos (4:1-26)
+
+**v.1-2 — Caim e Abel.** *Qayin* ("Caim") associado a "adquirir/obter" — Eva exclama "obtive um homem". *Hebel* ("Abel") significa "um hálito fugaz" ou "vapor". Abel torna-se pastor; Caim segue o pai na agricultura.
+
+**v.4 — As ofertas.** *Minhâ* ("oferta") expressava gratidão e adoração — primeiro ato de adoração registrado na história humana. O texto não explica diretamente por que a oferta de Caim foi rejeitada, mas Hebreus 11:4 dá a explicação inspirada: "Pela fé Abel ofereceu a Deus maior sacrifício do que Caim." A diferença central está no espírito/fé dos dois homens, não apenas no tipo de oferta.
+
+**v.5-7 — A ira de Caim e o aviso de Deus.** O orgulho ferido produziu inveja e espírito de vingança. Mesmo assim, Deus lida com paciência: se Caim se arrepender, será aceito. Mas adverte: "o pecado (*hatt'at*) jaz (*reibas*) à porta" como uma fera pronta a saltar — Caim precisa dominá-lo, não ser dominado. "O seu destino estava em suas mãos. Não era tarde demais."
+
+**v.9 — "Onde está Abel, teu irmão?".** Pergunta que buscava confissão, preparando caminho pra misericórdia. A resposta de Caim ("Sou eu tutor de meu irmão?") é descarada e desafiadora — o pecado já o dominava completamente.
+
+**v.10 — O sangue que clama.** Referência citada em Hebreus 12:24 ("o sangue da aspersão, que fala melhor do que o de Abel").
+
+**v.12-14 — A maldição de Caim.** Banimento do solo produtivo — vida de fugitivo e errante, insegurança e temor constantes. Caim está mais preocupado com o castigo do que com o próprio pecado.
+
+**v.15 — O sinal em Caim.** Não é um sinal para avisar o mundo de que ele era assassino, mas um sinal de proteção e cuidado — "embora um assassino, era um recipiente dos favores divinos."
+
+**v.16-17 — Terra de Node; a esposa de Caim.** "Terra de peregrinação/fuga", não localizável geograficamente. Sobre a esposa de Caim: o texto não responde diretamente, mas como toda vida veio do casal original, e um longo período (possivelmente séculos) se passou antes do casamento de Caim, ela seria uma das muitas filhas de Adão e Eva — não é preciso postular outra raça de pessoas.
+
+**v.25-26 — Sete e Enos.** *Shêt* ("Sete") tem semelhança com *shât* ("destinado/estabelecido") — ele foi "destinado" a assumir o lugar de Abel na linhagem escolhida por Deus, já que Caim perdeu esse direito. Com Enos, "os homens começaram a invocar o nome do Senhor" — origem da oração pública e adoração espiritual coletiva.
+
+### Gênesis 5 — Sete e Seus Descendentes (5:1-32) — trecho sobre Enoque
+
+**v.22 — "Andou Enoque com Deus".** No meio de uma lista monótona de nascimentos e mortes, o autor introduz Enoque, que "agradou o Senhor e viveu em Sua presença imediata" — em um período de deterioração espiritual, uma demonstração notável de piedade.
+
+**v.24 — "Deus o tomou para si".** Foi levado desta terra sem morrer — "seu desaparecimento foi súbito e completamente sem aviso". Hebreus 11:5: "Pela fé Enoque foi trasladado, para não ver a morte."
+
+*(Nota: este Enoque, da linhagem de Sete, é diferente do Enoque filho de Caim mencionado em Gênesis 4:17 — mesma grafia em português, pessoas distintas no texto hebraico.)*

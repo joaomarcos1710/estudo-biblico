@@ -197,4 +197,190 @@ O comentário do Moody é de tradição bastante tradicional quanto a papéis de
 
 ---
 
+### Gênesis 3:6-7
+
+**Texto bíblico**
+> Quando a mulher viu que a árvore parecia agradável ao paladar, era atraente aos olhos e, além disso, desejável para dela se obter discernimento, tomou do seu fruto, comeu-o e o deu a seu marido, que comeu também. Os olhos dos dois se abriram, e perceberam que estavam nus; então juntaram folhas de figueira para cobrir-se.
+*Fonte: [NVI]*
+
+**Tags:** #queda #vergonha #culpa
+
+**Observação**
+Sequência de verbos rápida e direta: viu, tomou, comeu, deu. Nenhuma hesitação registrada depois da decisão. A primeira reação após o pecado não é medo de punição, é vergonha da própria nudez.
+
+**O que dizem as fontes**
+- A promessa da serpente se cumpriu tecnicamente ("os olhos se abriram"), mas o que viram foi muito diferente do prometido: nudez espiritual e física, vergonha, medo. "Uma terrível solidão apossou-se deles."
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Útil pra nomear o padrão emocional do pecado: a promessa parece boa antes, mas o resultado imediato é vergonha e isolamento, não a satisfação prometida. Ajuda a pessoa a reconhecer esse padrão em vícios e decisões impulsivas.
+
+---
+
+### Gênesis 3:9
+
+**Texto bíblico**
+> Mas o SENHOR Deus chamou o homem, perguntando: "Onde está você?"
+*Fonte: [NVI]*
+
+**Tags:** #queda #busca-de-Deus #graça
+
+**Observação**
+Deus pergunta sabendo a resposta — a pergunta não é informativa, é relacional. É Deus quem toma a iniciativa de ir atrás do homem escondido, não o contrário.
+
+**O que dizem as fontes**
+- "É claro que Deus sabia onde estavam o homem e a mulher. Mas apelava para eles, procurando com ternura e amor obter uma reação favorável... Embora a Justiça estivesse ditando o procedimento, a Misericórdia era quem dirigia."
+*Fonte: [MOODY]*
+
+**Nossa interpretação**
+Esse é um dos primeiros retratos bíblicos de Deus buscando o pecador, não o contrário — padrão que se repete até a cruz.
+
+**Aplicação pastoral**
+Excelente pra quem está se escondendo de Deus por vergonha ou culpa (afastado da igreja, evitando orar) — mostra que Deus já está chamando antes da pessoa sequer pensar em voltar.
+
+---
+
+### Gênesis 3:15
+
+**Texto bíblico**
+> Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela; este ferirá a sua cabeça, e você lhe ferirá o calcanhar.
+*Fonte: [NVI]*
+
+**Tags:** #queda #esperança #Jesus #protoevangelho
+
+**Observação**
+Ainda dentro da sentença de julgamento sobre a serpente, aparece a primeira promessa de vitória futura — antes de qualquer punição ser anunciada ao homem ou à mulher.
+
+**O que dizem as fontes**
+- Chamada de *protevangelium* ("primeiro evangelho"). O verbo "ferir/esmagar" (*shup*) é o mesmo nas duas cláusulas — profecia de luta contínua entre a semente da mulher e a da serpente, terminando em vitória para a semente da mulher, apontando pra o Messias.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Mostra que a graça de Deus aparece antes mesmo do julgamento estar completo — no pior momento da história humana, a primeira palavra de Deus já contém esperança de redenção. Bom pra combater a ideia de que "Deus só age depois que eu mereço".
+
+---
+
+### Gênesis 3:22-24
+
+**Texto bíblico**
+> Então disse o SENHOR Deus: "Agora o homem se tornou como um de nós, conhecendo o bem e o mal. Não se deve, pois, permitir que ele tome também do fruto da árvore da vida e o coma, e viva para sempre". Por isso o SENHOR Deus o mandou embora do jardim do Éden [...] Depois de expulsar o homem, colocou a leste do jardim do Éden querubins e uma espada flamejante que se movia, guardando o caminho para a árvore da vida.
+*Fonte: [NVI]*
+
+**Tags:** #queda #julgamento #misericórdia
+
+**Observação**
+A expulsão impede o acesso à árvore da vida — a consequência é apresentada como proteção contra algo pior (viver para sempre em estado caído), não só punição.
+
+**O que dizem as fontes**
+- "Ato necessário e misericordioso" — Deus não permitiria que o homem rebelde perpetuasse eternamente sua condição caída. Mas "Jeová não se esqueceu de Suas criaturas; Ele já fizera provisões para a sua triunfante volta" (referência ao protoevangelho de 3:15).
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Útil pra reformular consequências difíceis da vida não como abandono de Deus, mas às vezes como proteção — sem forçar essa leitura em toda situação de sofrimento (ver questão abaixo).
+
+**Questões em aberto**
+Cuidado pastoral: nem toda consequência dolorosa na vida de alguém é "proteção divina" — esse princípio vale pra esse contexto específico (a queda), não é uma fórmula genérica pra explicar todo sofrimento.
+
+---
+
+### Gênesis 4:6-7
+
+**Texto bíblico**
+> O SENHOR disse a Caim: "Por que você está furioso? Por que se transtornou o seu rosto? Se você fizer o bem, não será aceito? Mas, se não o fizer, saiba que o pecado o ameaça à porta; ele deseja conquistá-lo, mas você deve dominá-lo".
+*Fonte: [NVI]*
+
+**Tags:** #ira #pecado #escolha #Caim
+
+**Observação**
+Deus fala com Caim antes de qualquer ato de violência acontecer — a advertência vem no estágio da emoção (ira), não depois do crime.
+
+**O que dizem as fontes**
+- *Hatt'at* ("pecado") *reibas* ("jaz/ameaça") — descrito como uma fera pronta a saltar. "A palavra de Deus exigia ação imediata... dependia do próprio Caim vencer o pecado em si mesmo, para controlar e não ser controlado. O seu destino estava em suas mãos. Não era tarde demais para escolher o caminho de Deus."
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Um dos melhores versículos sobre lidar com raiva antes que vire ação destrutiva — mostra que a emoção não é o pecado em si, mas o ponto onde a escolha ainda é possível. Bom pra conversas sobre controle da ira, ciúme, ressentimento.
+
+---
+
+### Gênesis 4:9
+
+**Texto bíblico**
+> Então o SENHOR perguntou a Caim: "Onde está seu irmão Abel?" Respondeu ele: "Não sei; sou eu o responsável por meu irmão?"
+*Fonte: [NVI]*
+
+**Tags:** #Caim #responsabilidade #negação
+
+**Observação**
+Paralelo direto com "Onde estás?" de 3:9 — mas aqui a resposta de Caim é hostil, não medrosa. Ele nega responsabilidade em vez de se esconder.
+
+**O que dizem as fontes**
+- "Que resposta desavergonhada para a pergunta de um Pai amoroso! [...] O pecado já o tinha agarrado em seu domínio."
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Contraste pastoral útil: em 3:9 o pecador se esconde (ainda sente vergonha); aqui o pecador confronta e nega (endurecimento). Serve pra ilustrar como o coração pode progressivamente perder a sensibilidade ao pecado repetido.
+
+---
+
+### Gênesis 4:15
+
+**Texto bíblico**
+> Mas o SENHOR lhe respondeu: "Não será assim; se alguém matar Caim, sofrerá sete vezes a vingança". E o SENHOR colocou em Caim um sinal, para que ninguém que viesse a encontrá-lo o matasse.
+*Fonte: [NVI]*
+
+**Tags:** #graça #Caim #misericórdia
+
+**Observação**
+Mesmo após um assassinato confesso e uma resposta hostil (v.9), Deus ainda protege Caim — a proteção vem depois da culpa estabelecida, não antes.
+
+**O que dizem as fontes**
+- O sinal não era pra marcar Caim como assassino publicamente, mas um "sinal especial de cuidado amoroso e proteção... embora um assassino, era um recipiente dos favores divinos."
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Forte pra quem sente que "fiz algo grave demais pra Deus ainda cuidar de mim" — mesmo o primeiro assassino da Bíblia recebe proteção de Deus depois do crime confesso.
+
+---
+
+### Gênesis 4:25-26
+
+**Texto bíblico**
+> Novamente Adão teve relações com sua mulher, e ela deu à luz outro filho, a quem chamou Sete, dizendo: "Deus me concedeu um filho no lugar de Abel, visto que Caim o matou". Também a Sete nasceu um filho, a quem deu o nome de Enos. Nessa época começou-se a invocar o nome do SENHOR.
+*Fonte: [NVI]*
+
+**Tags:** #Sete #Enos #esperança #adoração
+
+**Observação**
+Depois da perda de Abel e da desgraça de Caim, a narrativa retoma esperança através de um terceiro filho — e é só nessa geração (Enos) que a adoração coletiva a Deus começa a acontecer.
+
+**O que dizem as fontes**
+- *Shêt* ("Sete") é semelhante a *shât* ("destinado/estabelecido") — ele foi "destinado" a assumir o lugar de Abel na linhagem escolhida por Deus. Com Enos, "os homens começaram a invocar o nome do Senhor" — origem da oração pública e adoração espiritual coletiva.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom pra falar de recomeço depois de perda ou tragédia familiar — Deus continua Seu plano mesmo depois do luto e da desgraça, não apesar da família, mas através dela.
+
+---
+
+### Gênesis 5:22,24
+
+**Texto bíblico**
+> Depois que gerou Matusalém, Enoque andou com Deus 300 anos e gerou outros filhos e filhas. [...] Enoque andou com Deus; e já não foi encontrado, pois Deus o havia arrebatado.
+*Fonte: [NVI]*
+
+**Tags:** #Enoque #comunhão #fé
+
+**Observação**
+No meio de uma lista repetitiva de nascimentos e mortes ("viveu... gerou... morreu"), a vida de Enoque quebra o padrão — é descrita em termos de relacionamento ("andou com Deus"), não só de biografia.
+
+**O que dizem as fontes**
+- "Em um período de deterioração, Enoque deu notável demonstração de piedade recomendável." Foi trasladado sem ver a morte (cf. Hb 11:5). *Importante: este Enoque, da linhagem de Sete, é diferente do Enoque filho de Caim (Gn 4:17) — mesmo nome em português, pessoas distintas no hebraico.*
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom exemplo de que é possível uma vida de comunhão genuína com Deus mesmo num contexto de decadência geral ao redor — não depende do ambiente, depende da caminhada pessoal.
+
+---
+
 *(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*
