@@ -34,4 +34,4 @@ Note-se que Gênesis também menciona um Enoque filho de Caim (Gn 4:17) — pess
 
 ## Imagens disponíveis
 
-*(nenhuma ainda — diagrama depende da linhagem completa até Noé)*
+- `diagrama.svg` — árvore parcial (Adão até Enoque, com as lacunas marcadas), seguindo o [guia de marca](../../design/guia-de-marca.md).
