@@ -55,3 +55,11 @@ Duas imagens de exemplo recebidas mostrando árvores genealógicas de Gênesis (
 ## Fonte de dados
 
 Mesma base: os relacionamentos de parentesco devem primeiro existir em [`../dados/entidades.json`](../dados/entidades.json) (campo de relação familiar) antes de virar árvore no Figma — a árvore é a visualização, não o dado original.
+
+---
+
+# Referência — BibleForge (leitor bíblico)
+
+[bibleforge/BibleForge](https://github.com/bibleforge/BibleForge) — app de estudo bíblico open source (MIT), código de 2008, último commit 2022. Não vale portar o código (JS puro sem framework, servidor Node/DB próprio que não precisamos — nosso leitor é estático a partir de `dados/*.json`).
+
+**Ideia a guardar pro futuro:** o diferencial do BibleForge é análise interlinear — clicar numa palavra do versículo e ver o termo original em hebraico/grego. Não é prioridade agora, mas é um recurso possível pro Leitor Bíblico (protótipo em Artifact) quando o conteúdo estiver mais maduro.
