@@ -125,4 +125,76 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 ---
 
+### Gênesis 2:7
+
+**Texto bíblico**
+> Então o SENHOR Deus formou o homem do pó da terra e soprou em suas narinas o fôlego de vida, e o homem se tornou um ser vivente.
+*Fonte: [NVI]*
+
+**Tags:** #criação #Adão #identidade
+
+**Observação**
+Primeira aparição do nome composto "SENHOR Deus" (Yahweh + Elohim) no texto — liga o Deus pessoal da aliança ao Criador de Gênesis 1. Três verbos em sequência: formou, soprou, o homem "passou a ser" — dois passos distintos (corpo + fôlego) pra um resultado.
+
+**O que dizem as fontes**
+- *Yeiseir* ("formou") é a mesma palavra usada pra um oleiro moldando barro com as mãos (cf. Jr 18:3-4). O corpo veio do pó; o espírito veio do fôlego de Deus — "uma criatura de dois mundos". A linguagem não sugere semelhança física com Deus, mas semelhança nos poderes espirituais (pensar, sentir, discernir, escolher).
+*Fonte: [MOODY]*
+
+**Nossa interpretação**
+O versículo separa claramente matéria (pó) e vida (fôlego de Deus) — a dignidade do ser humano não vem do material de que é feito, mas do sopro direto de Deus.
+
+**Aplicação pastoral**
+Bom pra conversas sobre autoimagem ligada a aparência ou origem/condição social ("venho de família pobre", "não tenho nada de especial") — o valor da pessoa vem do fôlego de Deus, não das circunstâncias materiais de origem.
+
+---
+
+### Gênesis 2:18
+
+**Texto bíblico**
+> Então o SENHOR Deus declarou: "Não é bom que o homem esteja só; farei para ele alguém que o auxilie e lhe corresponda".
+*Fonte: [NVI]*
+
+**Tags:** #solidão #casamento #Adão
+
+**Observação**
+Primeira vez em Gênesis 1-2 que Deus declara algo "não bom" — contraste direto com o refrão "e viu Deus que era bom" do capítulo 1. Vem antes da queda: a solidão do homem é reconhecida como problema mesmo num mundo ainda sem pecado.
+
+**O que dizem as fontes**
+- *'Izer kenegdô* ("auxiliadora idônea") significa literalmente "uma auxiliadora que o atenda" — alguém pra partilhar responsabilidades, corresponder com amor e compreensão, e cooperar no plano de Deus. O homem só desfrutaria plenamente da vida através do amor e devoção no círculo familiar.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Um dos melhores versículos pra validar o sentimento de solidão sem espiritualizar de menos ("é só falta de fé") nem de mais ("Deus não se importa com isso") — a própria Escritura chama a solidão de "não bom", antes mesmo de existir pecado no mundo.
+
+**Questões em aberto**
+O texto não promete casamento pra todo mundo que se sente só — a aplicação pastoral deve tomar cuidado pra não virar promessa que a Bíblia não faz. Vale equilibrar com textos sobre suficiência em Cristo (ex: 1 Co 7) quando for usar com solteiros.
+
+---
+
+### Gênesis 2:21-24
+
+**Texto bíblico**
+> Então o SENHOR Deus fez o homem cair em profundo sono e, enquanto este dormia, tirou-lhe uma das costelas, fechando o lugar com carne. Com a costela que havia tirado do homem, o SENHOR Deus fez uma mulher e a levou até ele. Disse então o homem: "Esta, sim, é osso dos meus ossos e carne da minha carne! Ela será chamada mulher, porque do homem foi tirada". Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, e eles se tornarão uma só carne.
+*Fonte: [NVI]*
+
+**Tags:** #casamento #Adão #mulher
+
+**Observação**
+A mulher é formada a partir do próprio corpo do homem (não do pó, como ele) — texto enfatiza a igualdade de natureza ("osso dos meus ossos, carne da minha carne") antes de estabelecer o padrão do casamento.
+
+**O que dizem as fontes**
+- A mulher foi tirada "não da cabeça do homem para governar sobre ele, não dos seus pés para ser pisada por ele, mas do seu lado, para ser protegida, e de perto do seu coração, para ser amada" (citação sem autoria identificada no comentário). Homem e mulher são mutuamente incompletos um sem o outro. O v.24 é a base do casamento monogâmico; Jesus o cita em Mc 10:7-9 como fundamento da indissolubilidade do casamento.
+*Fonte: [MOODY]*
+
+**Nossa interpretação**
+O texto estabelece igualdade de dignidade (mesma "carne") junto com uma união que é descrita como desejada por Deus desde a criação, não como invenção cultural humana.
+
+**Aplicação pastoral**
+Base forte pra aconselhamento pré-matrimonial e pra crises conjugais — o casamento não é contrato social renegociável, é união que reflete a própria intenção de Deus na criação. Útil também em conversas sobre solidão/desejo de casar: mostra que o desejo de união não é falha de caráter, é como Deus projetou.
+
+**Questões em aberto**
+O comentário do Moody é de tradição bastante tradicional quanto a papéis de gênero no casamento ("o homem, que é o mais forte...") — vale cruzar com outras fontes antes de usar esse ponto específico como ensino, já que é uma leitura mais cultural do que exegética direta do texto.
+
+---
+
 *(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*

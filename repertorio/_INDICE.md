@@ -67,6 +67,7 @@ Nem toda entrada precisa preencher os seis blocos completos (um versículo simpl
 ## Assuntos já iniciados
 
 - [Graça](assuntos/graca.md)
+- [Casamento](assuntos/casamento.md)
 
 ## Visuais já iniciados
 

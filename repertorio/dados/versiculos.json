@@ -108,5 +108,75 @@
       }
     ],
     "videos": []
+  },
+  {
+    "id": "gen-2-7",
+    "ref": "Gênesis 2:7",
+    "livro": "genesis",
+    "capitulo": 2,
+    "versiculoInicio": 7,
+    "versiculoFim": 7,
+    "texto": "Então o SENHOR Deus formou o homem do pó da terra e soprou em suas narinas o fôlego de vida, e o homem se tornou um ser vivente.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "Adão", "identidade"],
+    "entidades": ["deus", "adao", "eden", "homem"],
+    "observacao": "Primeira aparição do nome composto \"SENHOR Deus\" (Yahweh + Elohim) — liga o Deus pessoal da aliança ao Criador de Gênesis 1. Três verbos em sequência: formou, soprou, o homem \"passou a ser\".",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Yeiseir (\"formou\") é a mesma palavra usada pra um oleiro moldando barro com as mãos (cf. Jr 18:3-4). O corpo veio do pó; o espírito veio do fôlego de Deus — \"uma criatura de dois mundos\". A linguagem não sugere semelhança física com Deus, mas semelhança nos poderes espirituais.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "interpretacao": "O versículo separa claramente matéria (pó) e vida (fôlego de Deus) — a dignidade do ser humano não vem do material de que é feito, mas do sopro direto de Deus.",
+    "aplicacaoPastoral": "Bom pra conversas sobre autoimagem ligada a aparência ou origem/condição social — o valor da pessoa vem do fôlego de Deus, não das circunstâncias materiais de origem.",
+    "videos": []
+  },
+  {
+    "id": "gen-2-18",
+    "ref": "Gênesis 2:18",
+    "livro": "genesis",
+    "capitulo": 2,
+    "versiculoInicio": 18,
+    "versiculoFim": 18,
+    "texto": "Então o SENHOR Deus declarou: \"Não é bom que o homem esteja só; farei para ele alguém que o auxilie e lhe corresponda\".",
+    "fonteTexto": "NVI",
+    "tags": ["solidão", "casamento", "Adão"],
+    "entidades": ["deus", "adao", "mulher", "casamento"],
+    "observacao": "Primeira vez em Gênesis 1-2 que Deus declara algo \"não bom\" — contraste com o refrão \"e viu Deus que era bom\" do capítulo 1. Isso ocorre antes da queda.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "'Izer kenegdô (\"auxiliadora idônea\") significa literalmente \"uma auxiliadora que o atenda\" — alguém pra partilhar responsabilidades, corresponder com amor e compreensão, e cooperar no plano de Deus.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Um dos melhores versículos pra validar o sentimento de solidão sem espiritualizar de menos nem de mais — a própria Escritura chama a solidão de \"não bom\", antes mesmo de existir pecado no mundo.",
+    "questoesEmAberto": "O texto não promete casamento pra todo mundo que se sente só — vale equilibrar com textos sobre suficiência em Cristo (ex: 1 Co 7) quando usado com solteiros.",
+    "videos": []
+  },
+  {
+    "id": "gen-2-21-24",
+    "ref": "Gênesis 2:21-24",
+    "livro": "genesis",
+    "capitulo": 2,
+    "versiculoInicio": 21,
+    "versiculoFim": 24,
+    "texto": "Então o SENHOR Deus fez o homem cair em profundo sono e, enquanto este dormia, tirou-lhe uma das costelas, fechando o lugar com carne. Com a costela que havia tirado do homem, o SENHOR Deus fez uma mulher e a levou até ele. Disse então o homem: \"Esta, sim, é osso dos meus ossos e carne da minha carne! Ela será chamada mulher, porque do homem foi tirada\". Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, e eles se tornarão uma só carne.",
+    "fonteTexto": "NVI",
+    "tags": ["casamento", "Adão", "mulher"],
+    "entidades": ["deus", "adao", "mulher", "casamento"],
+    "observacao": "A mulher é formada a partir do próprio corpo do homem (não do pó, como ele) — o texto enfatiza igualdade de natureza antes de estabelecer o padrão do casamento.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A mulher foi tirada \"não da cabeça do homem para governar sobre ele, não dos seus pés para ser pisada por ele, mas do seu lado, para ser protegida, e de perto do seu coração, para ser amada\". O v.24 é a base do casamento monogâmico; Jesus o cita em Mc 10:7-9 como fundamento da indissolubilidade do casamento.",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "interpretacao": "O texto estabelece igualdade de dignidade (mesma \"carne\") junto com uma união desejada por Deus desde a criação, não invenção cultural humana.",
+    "aplicacaoPastoral": "Base forte pra aconselhamento pré-matrimonial e crises conjugais — o casamento não é contrato social renegociável, é união que reflete a intenção de Deus na criação.",
+    "questoesEmAberto": "O comentário do Moody segue tradição bastante tradicional quanto a papéis de gênero no casamento — vale cruzar com outras fontes antes de ensinar esse ponto específico, já que é leitura mais cultural do que exegese direta do texto.",
+    "videos": []
   }
 ]
