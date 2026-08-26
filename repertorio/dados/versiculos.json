@@ -1,0 +1,382 @@
+[
+  {
+    "id": "gen-1-1",
+    "ref": "Gênesis 1:1",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 1,
+    "versiculoFim": 1,
+    "texto": "No princípio Deus criou os céus e a terra.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "Deus"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Elohim (Deus) tem forma plural em hebraico mas verbo no singular — indica \"plenitude de poder\", grandeza ilimitada. Bara (\"criou\") é verbo usado exclusivamente para com Deus: descreve o milagre de algo absolutamente novo, criado do nada pelo poder soberano de Deus.",
+        "nivelConfianca": "alto"
+      },
+      {
+        "fonte": "GARRETT",
+        "texto": "Estudo em 4 partes: o Deus da Criação (eterno, imutável, monoteísmo demonstrado por lógica — os \"Doze Primeiros Princípios\"), o Deus acima da Criação (criou do nada — Ex Nihilo — e sustenta tudo, contra o Deísmo), o Deus na Criação (presente e ativo, fora do tempo, mas agindo nele), e o Deus Pessoal (se revela por profetas, pela Escritura, e pela encarnação de Cristo). Bom pra dúvida racional (\"não consigo crer\") e pra sensação de distância de Deus.",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-2",
+    "ref": "Gênesis 1:2",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 2,
+    "versiculoFim": 2,
+    "texto": "Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "Espírito Santo"],
+    "entidades": ["deus", "espirito-santo", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "O Espírito de Deus \"pairava\" (rúâh merahepet) sobre o caos como uma ave devotada à volta do seu ninho — presença de Deus envolvendo e acariciando a terra incompleta, preparando-se para completar a criação.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-3-5",
+    "ref": "Gênesis 1:3-5",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 3,
+    "versiculoFim": 5,
+    "texto": "Disse Deus: \"Haja luz\", e houve luz. [...] Deus chamou à luz dia, e às trevas chamou noite. Passaram-se a tarde e a manhã; esse foi o primeiro dia.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "luz"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Primeira palavra criativa de Deus: facilidade incrível e ação deliberada (cf. Sl 33:6,9). A luz foi a resposta de Deus ao domínio das trevas. \"Deus é luz\" (1 Jo 1:5). Como isso ocorre antes da criação do sol e da lua, não é um dia de 24h no sentido comum — é um \"dia de Deus\".",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-26-28",
+    "ref": "Gênesis 1:26-28",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 26,
+    "versiculoFim": 28,
+    "texto": "Então disse Deus: \"Façamos o homem à nossa imagem, conforme a nossa semelhança...\" Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou. Deus os abençoou e lhes disse: \"Sejam férteis e multipliquem-se! Encham e subjuguem a terra!...\"",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "identidade", "propósito", "Deus"],
+    "entidades": ["deus", "homem", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Momento supremo da criação. O homem, feito à imagem (selem) e semelhança (demut) de Deus, é distintamente diferente dos animais: criado para ser imortal, para ter comunhão com o Criador, dotado do privilégio da escolha, constituído representante e mordomo responsável de Deus sobre a terra (cf. Sl 8:5-7). Bom para falar de identidade e valor humano — a pessoa não é acidente, é criada com propósito.",
+        "nivelConfianca": "alto"
+      },
+      {
+        "fonte": "KIDNER",
+        "texto": "A constituição do homem à imagem de Deus é onde a vocação do homem tem raiz — não só perante Deus, mas também na sociedade: a autoridade tem sua origem germinal aqui, na prioridade dada ao ser humano sobre a criação (1 Co 11:3,8 remete a este ponto).",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-1-31",
+    "ref": "Gênesis 1:31",
+    "livro": "genesis",
+    "capitulo": 1,
+    "versiculoInicio": 31,
+    "versiculoFim": 31,
+    "texto": "E Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; esse foi o sexto dia.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "bondade de Deus"],
+    "entidades": ["deus", "criacao"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Ao olhar para o resultado final de Sua obra, Deus expressa deleite e satisfação extrema — \"uma linda sinfonia\". Útil pra lembrar que a criação (e a pessoa) tem valor aos olhos de Deus, não é falha ou acidente.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "gen-2-7",
+    "ref": "Gênesis 2:7",
+    "livro": "genesis",
+    "capitulo": 2,
+    "versiculoInicio": 7,
+    "versiculoFim": 7,
+    "texto": "Então o SENHOR Deus formou o homem do pó da terra e soprou em suas narinas o fôlego de vida, e o homem se tornou um ser vivente.",
+    "fonteTexto": "NVI",
+    "tags": ["criação", "Adão", "identidade"],
+    "entidades": ["deus", "adao", "eden", "homem"],
+    "observacao": "Primeira aparição do nome composto \"SENHOR Deus\" (Yahweh + Elohim) — liga o Deus pessoal da aliança ao Criador de Gênesis 1. Três verbos em sequência: formou, soprou, o homem \"passou a ser\".",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Yeiseir (\"formou\") é a mesma palavra usada pra um oleiro moldando barro com as mãos (cf. Jr 18:3-4). O corpo veio do pó; o espírito veio do fôlego de Deus — \"uma criatura de dois mundos\". A linguagem não sugere semelhança física com Deus, mas semelhança nos poderes espirituais.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "interpretacao": "O versículo separa claramente matéria (pó) e vida (fôlego de Deus) — a dignidade do ser humano não vem do material de que é feito, mas do sopro direto de Deus.",
+    "aplicacaoPastoral": "Bom pra conversas sobre autoimagem ligada a aparência ou origem/condição social — o valor da pessoa vem do fôlego de Deus, não das circunstâncias materiais de origem.",
+    "videos": []
+  },
+  {
+    "id": "gen-2-18",
+    "ref": "Gênesis 2:18",
+    "livro": "genesis",
+    "capitulo": 2,
+    "versiculoInicio": 18,
+    "versiculoFim": 18,
+    "texto": "Então o SENHOR Deus declarou: \"Não é bom que o homem esteja só; farei para ele alguém que o auxilie e lhe corresponda\".",
+    "fonteTexto": "NVI",
+    "tags": ["solidão", "casamento", "Adão"],
+    "entidades": ["deus", "adao", "mulher", "casamento"],
+    "observacao": "Primeira vez em Gênesis 1-2 que Deus declara algo \"não bom\" — contraste com o refrão \"e viu Deus que era bom\" do capítulo 1. Isso ocorre antes da queda.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "'Izer kenegdô (\"auxiliadora idônea\") significa literalmente \"uma auxiliadora que o atenda\" — alguém pra partilhar responsabilidades, corresponder com amor e compreensão, e cooperar no plano de Deus.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Um dos melhores versículos pra validar o sentimento de solidão sem espiritualizar de menos nem de mais — a própria Escritura chama a solidão de \"não bom\", antes mesmo de existir pecado no mundo.",
+    "questoesEmAberto": "O texto não promete casamento pra todo mundo que se sente só — vale equilibrar com textos sobre suficiência em Cristo (ex: 1 Co 7) quando usado com solteiros.",
+    "videos": []
+  },
+  {
+    "id": "gen-2-21-24",
+    "ref": "Gênesis 2:21-24",
+    "livro": "genesis",
+    "capitulo": 2,
+    "versiculoInicio": 21,
+    "versiculoFim": 24,
+    "texto": "Então o SENHOR Deus fez o homem cair em profundo sono e, enquanto este dormia, tirou-lhe uma das costelas, fechando o lugar com carne. Com a costela que havia tirado do homem, o SENHOR Deus fez uma mulher e a levou até ele. Disse então o homem: \"Esta, sim, é osso dos meus ossos e carne da minha carne! Ela será chamada mulher, porque do homem foi tirada\". Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, e eles se tornarão uma só carne.",
+    "fonteTexto": "NVI",
+    "tags": ["casamento", "Adão", "mulher"],
+    "entidades": ["deus", "adao", "mulher", "casamento"],
+    "observacao": "A mulher é formada a partir do próprio corpo do homem (não do pó, como ele) — o texto enfatiza igualdade de natureza antes de estabelecer o padrão do casamento.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A mulher foi tirada \"não da cabeça do homem para governar sobre ele, não dos seus pés para ser pisada por ele, mas do seu lado, para ser protegida, e de perto do seu coração, para ser amada\". O v.24 é a base do casamento monogâmico; Jesus o cita em Mc 10:7-9 como fundamento da indissolubilidade do casamento.",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "interpretacao": "O texto estabelece igualdade de dignidade (mesma \"carne\") junto com uma união desejada por Deus desde a criação, não invenção cultural humana.",
+    "aplicacaoPastoral": "Base forte pra aconselhamento pré-matrimonial e crises conjugais — o casamento não é contrato social renegociável, é união que reflete a intenção de Deus na criação.",
+    "questoesEmAberto": "O comentário do Moody segue tradição bastante tradicional quanto a papéis de gênero no casamento — vale cruzar com outras fontes antes de ensinar esse ponto específico, já que é leitura mais cultural do que exegese direta do texto.",
+    "videos": []
+  },
+  {
+    "id": "gen-3-6-7",
+    "ref": "Gênesis 3:6-7",
+    "livro": "genesis",
+    "capitulo": 3,
+    "versiculoInicio": 6,
+    "versiculoFim": 7,
+    "texto": "Quando a mulher viu que a árvore parecia agradável ao paladar, era atraente aos olhos e, além disso, desejável para dela se obter discernimento, tomou do seu fruto, comeu-o e o deu a seu marido, que comeu também. Os olhos dos dois se abriram, e perceberam que estavam nus; então juntaram folhas de figueira para cobrir-se.",
+    "fonteTexto": "NVI",
+    "tags": ["queda", "vergonha", "culpa"],
+    "entidades": ["adao", "mulher", "serpente", "queda"],
+    "observacao": "Sequência de verbos rápida e direta: viu, tomou, comeu, deu. Nenhuma hesitação registrada depois da decisão. A primeira reação após o pecado não é medo de punição, é vergonha da própria nudez.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A promessa da serpente se cumpriu tecnicamente (\"os olhos se abriram\"), mas o que viram foi muito diferente do prometido: nudez espiritual e física, vergonha, medo. \"Uma terrível solidão apossou-se deles.\"",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Útil pra nomear o padrão emocional do pecado: a promessa parece boa antes, mas o resultado imediato é vergonha e isolamento, não a satisfação prometida. Ajuda a pessoa a reconhecer esse padrão em vícios e decisões impulsivas.",
+    "videos": []
+  },
+  {
+    "id": "gen-3-9",
+    "ref": "Gênesis 3:9",
+    "livro": "genesis",
+    "capitulo": 3,
+    "versiculoInicio": 9,
+    "versiculoFim": 9,
+    "texto": "Mas o SENHOR Deus chamou o homem, perguntando: \"Onde está você?\"",
+    "fonteTexto": "NVI",
+    "tags": ["queda", "busca de Deus", "graça"],
+    "entidades": ["deus", "adao", "queda"],
+    "observacao": "Deus pergunta sabendo a resposta — a pergunta não é informativa, é relacional. É Deus quem toma a iniciativa de ir atrás do homem escondido, não o contrário.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "\"É claro que Deus sabia onde estavam o homem e a mulher. Mas apelava para eles, procurando com ternura e amor obter uma reação favorável... Embora a Justiça estivesse ditando o procedimento, a Misericórdia era quem dirigia.\"",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "interpretacao": "Esse é um dos primeiros retratos bíblicos de Deus buscando o pecador, não o contrário — padrão que se repete até a cruz.",
+    "aplicacaoPastoral": "Excelente pra quem está se escondendo de Deus por vergonha ou culpa (afastado da igreja, evitando orar) — mostra que Deus já está chamando antes da pessoa sequer pensar em voltar.",
+    "videos": []
+  },
+  {
+    "id": "gen-3-15",
+    "ref": "Gênesis 3:15",
+    "livro": "genesis",
+    "capitulo": 3,
+    "versiculoInicio": 15,
+    "versiculoFim": 15,
+    "texto": "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela; este ferirá a sua cabeça, e você lhe ferirá o calcanhar.",
+    "fonteTexto": "NVI",
+    "tags": ["queda", "esperança", "Jesus", "protoevangelho"],
+    "entidades": ["deus", "serpente", "mulher", "queda"],
+    "observacao": "Ainda dentro da sentença de julgamento sobre a serpente, aparece a primeira promessa de vitória futura — antes de qualquer punição ser anunciada ao homem ou à mulher.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Chamada de protevangelium (\"primeiro evangelho\"). O verbo \"ferir/esmagar\" (shup) é o mesmo nas duas cláusulas — profecia de luta contínua entre a semente da mulher e a da serpente, terminando em vitória para a semente da mulher, apontando pra o Messias.",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "aplicacaoPastoral": "Mostra que a graça de Deus aparece antes mesmo do julgamento estar completo — no pior momento da história humana, a primeira palavra de Deus já contém esperança de redenção. Bom pra combater a ideia de que 'Deus só age depois que eu mereço'.",
+    "videos": []
+  },
+  {
+    "id": "gen-3-22-24",
+    "ref": "Gênesis 3:22-24",
+    "livro": "genesis",
+    "capitulo": 3,
+    "versiculoInicio": 22,
+    "versiculoFim": 24,
+    "texto": "Então disse o SENHOR Deus: \"Agora o homem se tornou como um de nós, conhecendo o bem e o mal. Não se deve, pois, permitir que ele tome também do fruto da árvore da vida e o coma, e viva para sempre\". Por isso o SENHOR Deus o mandou embora do jardim do Éden [...] Depois de expulsar o homem, colocou a leste do jardim do Éden querubins e uma espada flamejante que se movia, guardando o caminho para a árvore da vida.",
+    "fonteTexto": "NVI",
+    "tags": ["queda", "julgamento", "misericórdia"],
+    "entidades": ["deus", "adao", "mulher", "eden", "queda"],
+    "observacao": "A expulsão impede o acesso à árvore da vida — a consequência é apresentada como proteção contra algo pior (viver para sempre em estado caído), não só punição.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "\"Ato necessário e misericordioso\" — Deus não permitiria que o homem rebelde perpetuasse eternamente sua condição caída. Mas \"Jeová não se esqueceu de Suas criaturas; Ele já fizera provisões para a sua triunfante volta\" (referência ao protoevangelho de 3:15).",
+        "nivelConfianca": "medio"
+      }
+    ],
+    "aplicacaoPastoral": "Útil pra reformular consequências difíceis da vida não como abandono de Deus, mas às vezes como proteção — sem forçar essa leitura em toda situação de sofrimento.",
+    "questoesEmAberto": "Nem toda consequência dolorosa na vida de alguém é 'proteção divina' — esse princípio vale pra esse contexto específico (a queda), não é uma fórmula genérica pra explicar todo sofrimento.",
+    "videos": []
+  },
+  {
+    "id": "gen-4-6-7",
+    "ref": "Gênesis 4:6-7",
+    "livro": "genesis",
+    "capitulo": 4,
+    "versiculoInicio": 6,
+    "versiculoFim": 7,
+    "texto": "O SENHOR disse a Caim: \"Por que você está furioso? Por que se transtornou o seu rosto? Se você fizer o bem, não será aceito? Mas, se não o fizer, saiba que o pecado o ameaça à porta; ele deseja conquistá-lo, mas você deve dominá-lo\".",
+    "fonteTexto": "NVI",
+    "tags": ["ira", "pecado", "escolha", "Caim"],
+    "entidades": ["deus", "caim", "abel"],
+    "observacao": "Deus fala com Caim antes de qualquer ato de violência acontecer — a advertência vem no estágio da emoção (ira), não depois do crime.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Hatt'at (\"pecado\") reibas (\"jaz/ameaça\") — descrito como uma fera pronta a saltar. \"A palavra de Deus exigia ação imediata... dependia do próprio Caim vencer o pecado em si mesmo, para controlar e não ser controlado. O seu destino estava em suas mãos. Não era tarde demais para escolher o caminho de Deus.\"",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Um dos melhores versículos sobre lidar com raiva antes que vire ação destrutiva — mostra que a emoção não é o pecado em si, mas o ponto onde a escolha ainda é possível. Bom pra conversas sobre controle da ira, ciúme, ressentimento.",
+    "videos": []
+  },
+  {
+    "id": "gen-4-9",
+    "ref": "Gênesis 4:9",
+    "livro": "genesis",
+    "capitulo": 4,
+    "versiculoInicio": 9,
+    "versiculoFim": 9,
+    "texto": "Então o SENHOR perguntou a Caim: \"Onde está seu irmão Abel?\" Respondeu ele: \"Não sei; sou eu o responsável por meu irmão?\"",
+    "fonteTexto": "NVI",
+    "tags": ["Caim", "responsabilidade", "negação"],
+    "entidades": ["deus", "caim", "abel"],
+    "observacao": "Paralelo direto com \"Onde estás?\" de 3:9 — mas aqui a resposta de Caim é hostil, não medrosa. Ele nega responsabilidade em vez de se esconder.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "\"Que resposta desavergonhada para a pergunta de um Pai amoroso! [...] O pecado já o tinha agarrado em seu domínio.\"",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Contraste pastoral útil: em 3:9 o pecador se esconde (ainda sente vergonha); aqui o pecador confronta e nega (endurecimento). Serve pra ilustrar como o coração pode progressivamente perder a sensibilidade ao pecado repetido.",
+    "videos": []
+  },
+  {
+    "id": "gen-4-15",
+    "ref": "Gênesis 4:15",
+    "livro": "genesis",
+    "capitulo": 4,
+    "versiculoInicio": 15,
+    "versiculoFim": 15,
+    "texto": "Mas o SENHOR lhe respondeu: \"Não será assim; se alguém matar Caim, sofrerá sete vezes a vingança\". E o SENHOR colocou em Caim um sinal, para que ninguém que viesse a encontrá-lo o matasse.",
+    "fonteTexto": "NVI",
+    "tags": ["graça", "Caim", "misericórdia"],
+    "entidades": ["deus", "caim"],
+    "observacao": "Mesmo após um assassinato confesso e uma resposta hostil (v.9), Deus ainda protege Caim — a proteção vem depois da culpa estabelecida, não antes.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "O sinal não era pra marcar Caim como assassino publicamente, mas um \"sinal especial de cuidado amoroso e proteção... embora um assassino, era um recipiente dos favores divinos.\"",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Forte pra quem sente que 'fiz algo grave demais pra Deus ainda cuidar de mim' — mesmo o primeiro assassino da Bíblia recebe proteção de Deus depois do crime confesso.",
+    "videos": []
+  },
+  {
+    "id": "gen-4-25-26",
+    "ref": "Gênesis 4:25-26",
+    "livro": "genesis",
+    "capitulo": 4,
+    "versiculoInicio": 25,
+    "versiculoFim": 26,
+    "texto": "Novamente Adão teve relações com sua mulher, e ela deu à luz outro filho, a quem chamou Sete, dizendo: \"Deus me concedeu um filho no lugar de Abel, visto que Caim o matou\". Também a Sete nasceu um filho, a quem deu o nome de Enos. Nessa época começou-se a invocar o nome do SENHOR.",
+    "fonteTexto": "NVI",
+    "tags": ["Sete", "Enos", "esperança", "adoração"],
+    "entidades": ["adao", "mulher", "sete", "enos", "caim", "abel"],
+    "observacao": "Depois da perda de Abel e da desgraça de Caim, a narrativa retoma esperança através de um terceiro filho — e é só nessa geração (Enos) que a adoração coletiva a Deus começa a acontecer.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Shêt (\"Sete\") é semelhante a shât (\"destinado/estabelecido\") — ele foi \"destinado\" a assumir o lugar de Abel na linhagem escolhida por Deus. Com Enos, \"os homens começaram a invocar o nome do Senhor\" — origem da oração pública e adoração espiritual coletiva.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Bom pra falar de recomeço depois de perda ou tragédia familiar — Deus continua Seu plano mesmo depois do luto e da desgraça, não apesar da família, mas através dela.",
+    "videos": []
+  },
+  {
+    "id": "gen-5-22-24",
+    "ref": "Gênesis 5:22,24",
+    "livro": "genesis",
+    "capitulo": 5,
+    "versiculoInicio": 22,
+    "versiculoFim": 24,
+    "texto": "Depois que gerou Matusalém, Enoque andou com Deus 300 anos e gerou outros filhos e filhas. [...] Enoque andou com Deus; e já não foi encontrado, pois Deus o havia arrebatado.",
+    "fonteTexto": "NVI",
+    "tags": ["Enoque", "comunhão", "fé"],
+    "entidades": ["enoque", "sete", "deus"],
+    "observacao": "No meio de uma lista repetitiva de nascimentos e mortes (\"viveu... gerou... morreu\"), a vida de Enoque quebra o padrão — é descrita em termos de relacionamento (\"andou com Deus\"), não só de biografia.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "\"Em um período de deterioração, Enoque deu notável demonstração de piedade recomendável.\" Foi trasladado sem ver a morte (cf. Hb 11:5). Importante: este Enoque, da linhagem de Sete, é diferente do Enoque filho de Caim (Gn 4:17) — mesmo nome em português, pessoas distintas no hebraico.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Bom exemplo de que é possível uma vida de comunhão genuína com Deus mesmo num contexto de decadência geral ao redor — não depende do ambiente, depende da caminhada pessoal.",
+    "videos": []
+  }
+]
