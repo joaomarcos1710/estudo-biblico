@@ -7,9 +7,9 @@
     .name-main { fill: #ffffff; }
     .name-excluded { fill: #6b6b68; }
     .ref { font-size: 10px; fill: #6b6b68; }
-    .ref-main { fill: #e5341e; }
+    .ref-main { fill: #0e0e0e; font-weight: 600; }
     .line { stroke: #0e0e0e; stroke-width: 1.5; fill: none; }
-    .line-main { stroke: #e5341e; stroke-width: 2; fill: none; }
+    .line-main { stroke: #0e0e0e; stroke-width: 2; fill: none; }
     .line-dashed { stroke: #6b6b68; stroke-width: 1.5; stroke-dasharray: 4 3; fill: none; }
     .label { font-size: 11px; fill: #6b6b68; font-style: italic; }
     .title { font-size: 26px; font-weight: 800; fill: #0e0e0e; letter-spacing: 0.5px; }

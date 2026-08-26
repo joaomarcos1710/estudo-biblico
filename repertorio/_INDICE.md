@@ -11,7 +11,8 @@ Repertório de textos, vídeos e comentários para consulta em emocionais (acons
 - `fontes/` — texto bíblico completo em JSON por tradução (hoje: NVI), comentários e outros materiais de origem. Veja [`fontes/README.md`](fontes/README.md).
 - `fontes/_BIBLIOTECA.md` — **registro de todas as fontes** (traduções, comentários, autores, instituições, país de origem). Toda citação usada no repertório carrega um código daqui (`*Fonte: [CÓDIGO]*`), pra sempre dar pra rastrear de onde veio.
 - `dados/` — versículos e entidades (personagens, lugares, eventos, temas) em JSON, interligados entre si. É a base que alimenta a página de busca.
-- `design/guia-de-marca.md` — identidade visual (cores, tipografia, forma) usada em qualquer peça nova do repertório (páginas de busca, artifacts, exports).
+- `design/guia-de-marca.md` — identidade visual pessoal (cores, tipografia, forma) usada em qualquer peça nova do repertório (páginas de busca, artifacts, exports).
+- `design/sistema-visual.md` — **sistema visual do estudo bíblico** (v1.0), que estende o guia de marca com paleta semântica própria (vermelho = só Cristo/Messias, azul = divergências, terracota = contexto histórico, ocre = sacerdócio), regras de genealogia, ícones e separação visual entre texto bíblico/interpretação/aplicação. Usar sempre que criar um diagrama, genealogia, mapa ou peça visual nova.
 - `genealogias/` — linhagens, famílias, tribos, linhagens reais e sacerdotais, com diagramas (SVG) e dados estruturados em `dados/genealogias.json`. Ver [`genealogias/README.md`](genealogias/README.md).
 
 ## Formato de cada entrada (em `livros/`)
