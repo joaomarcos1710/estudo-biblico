@@ -71,3 +71,11 @@ Mesma base: os relacionamentos de parentesco devem primeiro existir em [`../dado
 [danzuep/OpenBible](https://github.com/danzuep/OpenBible) — app de estudo bíblico multiplataforma sério e ativo (C#/.NET MAUI + Blazor), com parsing de formatos bíblicos padrão (USX/USJ) e romanização de idiomas (japonês, cantonês etc.).
 
 **Não adotar a stack** — é .NET, ecossistema diferente do nosso (HTML/JS estático + JSON). Mudar pra isso significaria abandonar a arquitetura atual por um projeto de programação C# de verdade. Fica só como referência de modelo de dados (`BibleVerse`, `BibleWord`, `BibleReference`, `BibleFootnote`) — já coberto, pro nosso propósito, por `dados/versiculos.json`.
+
+---
+
+# Referência — SharpSword
+
+[sktzofrenic/sharpsword](https://github.com/sktzofrenic/sharpsword) — app bíblico Go (backend) + Vue + Tailwind (PWA mobile-first), foco em performance de busca (resultado a cada tecla digitada) e navegação por teclado entre livro/capítulo/versículo.
+
+**Não adotar a stack** (Go/Vue é outro ecossistema). **Ideia de UX a aproveitar:** busca com resultado instantâneo (a cada tecla), sem precisar apertar enter — já é parcialmente o que a página de busca (Artifact) faz, vale reforçar isso no Leitor Bíblico também quando tiver mais conteúdo pra buscar.
