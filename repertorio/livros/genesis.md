@@ -78,7 +78,7 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - *Elohim* (Deus) tem forma plural em hebraico mas verbo no singular — indica "plenitude de poder", grandeza ilimitada. *Bara* ("criou") é verbo usado exclusivamente para com Deus: descreve o milagre de algo absolutamente novo, criado do nada pelo poder soberano de Deus.
 *Fonte: [MOODY]*
 
-- Introdução ao livro parte de uma reflexão sobre pensar com clareza sobre a existência de Deus, usando os "Doze Primeiros Princípios" (lógica clássica sobre Ser Necessário vs. ser contingente) pra mostrar que a existência de Deus é racionalmente sustentável, não só uma questão de fé cega. Bom pra conversas com quem está em dúvida racional. Ver resumo completo em [garrett-genesis.md](../fontes/comentarios/garrett-genesis.md).
+- Estudo em 4 partes: o Deus **da** Criação (eterno, imutável, monoteísmo demonstrado por lógica — os "Doze Primeiros Princípios"), o Deus **acima** da Criação (criou do nada — *Ex Nihilo* — e sustenta tudo, contra o Deísmo), o Deus **na** Criação (presente e ativo, fora do tempo, mas agindo nele), e o Deus **Pessoal** (se revela por profetas, pela Escritura, e pela encarnação de Cristo). Bom pra dúvida racional ("não consigo crer") e pra sensação de distância de Deus. Ver texto completo em [garrett-genesis.md](../fontes/comentarios/garrett-genesis.md).
 *Fonte: [GARRETT]*
 
 ### Gênesis 1:2
