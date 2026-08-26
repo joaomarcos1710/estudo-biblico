@@ -12,6 +12,7 @@ Repertório de textos, vídeos e comentários para consulta em emocionais (acons
 - `fontes/_BIBLIOTECA.md` — **registro de todas as fontes** (traduções, comentários, autores, instituições, país de origem). Toda citação usada no repertório carrega um código daqui (`*Fonte: [CÓDIGO]*`), pra sempre dar pra rastrear de onde veio.
 - `dados/` — versículos e entidades (personagens, lugares, eventos, temas) em JSON, interligados entre si. É a base que alimenta a página de busca.
 - `design/guia-de-marca.md` — identidade visual (cores, tipografia, forma) usada em qualquer peça nova do repertório (páginas de busca, artifacts, exports).
+- `genealogias/` — linhagens, famílias, tribos, linhagens reais e sacerdotais, com diagramas (SVG) e dados estruturados em `dados/genealogias.json`. Ver [`genealogias/README.md`](genealogias/README.md).
 
 ## Formato de cada entrada (em `livros/`)
 

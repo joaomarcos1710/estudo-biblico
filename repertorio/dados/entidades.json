@@ -42,7 +42,13 @@
     "aliases": ["o homem", "primeiro homem"],
     "resumo": "O primeiro ser humano, formado do pó da terra por Deus, que recebeu o fôlego de vida diretamente d'Ele. Vivia no jardim do Éden, com a missão de cultivá-lo e guardá-lo.",
     "versiculos": ["gen-2-7", "gen-2-18", "gen-2-21-24"],
-    "relacionados": ["deus", "eden", "mulher", "homem"]
+    "relacionados": ["deus", "eden", "mulher", "homem"],
+    "pai": null,
+    "mae": null,
+    "conjuges": ["mulher"],
+    "filhos": [],
+    "irmaos": [],
+    "genealogias": ["linhagem-adao-noe"]
   },
   {
     "id": "eden",
@@ -60,7 +66,13 @@
     "aliases": ["Eva", "'ishshâ"],
     "resumo": "Formada por Deus a partir de uma costela de Adão, como resposta à declaração \"não é bom que o homem esteja só\". Recebe o nome próprio Eva só em Gênesis 3:20.",
     "versiculos": ["gen-2-18", "gen-2-21-24"],
-    "relacionados": ["adao", "deus", "casamento"]
+    "relacionados": ["adao", "deus", "casamento"],
+    "pai": null,
+    "mae": null,
+    "conjuges": ["adao"],
+    "filhos": [],
+    "irmaos": [],
+    "genealogias": ["linhagem-adao-noe"]
   },
   {
     "id": "casamento",

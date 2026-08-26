@@ -5,6 +5,10 @@ Esta pasta é a camada de dados por trás da busca e das interligações — o q
 ## Arquivos
 
 - **`entidades.json`** — todo personagem, lugar, evento ou tema recorrente vira uma entidade com identidade própria (id, nome, apelidos/nomes alternativos, resumo, quais versículos fala dela, e com quais outras entidades se relaciona). É isso que permite navegar de "Nínive" pra "Jonas" pra "arrependimento" sem precisar ir e voltar em arquivos soltos.
+
+  Pessoas (`tipo: "pessoa"` ou `"pessoa-divina"`) também podem ter campos de parentesco: `pai`, `mae` (ids de outra entidade, ou `null` se não informado no texto), `conjuges` (array de ids), `filhos` (array de ids), `irmaos` (array de ids), e `genealogias` (array de ids de `genealogias.json` onde essa pessoa aparece). Isso é o que permite, no futuro, clicar numa pessoa e navegar pais → filhos → cônjuges sem duplicar dado em outro lugar.
+
+- **`genealogias.json`** — catálogo de genealogias nomeadas (linhagens, famílias, tribos, linhagens reais/sacerdotais, a genealogia de Jesus). Cada registro aponta pra pessoas/eventos já existentes em `entidades.json` por id — não duplica a relação de parentesco, só organiza um "recorte" com nome, passagens, fontes e imagens disponíveis. Ver [`../genealogias/README.md`](../genealogias/README.md) pra estrutura completa e a ficha humana (Markdown) de cada uma.
 - **`versiculos.json`** — cada versículo-chave cadastrado, com texto, fonte da tradução, tags, comentários (com fonte) e a lista de entidades que aparecem nele. Campos que espelham os 6 blocos do formato em `livros/` (ver `_INDICE.md`): `observacao`, `comentarios` ("o que dizem as fontes"), `interpretacao` ("nossa interpretação" — sempre marcada como leitura nossa, não como texto bíblico), `aplicacaoPastoral`, `videos`, `referenciasCruzadas`, `questoesEmAberto`. Nem todo campo precisa estar preenchido em toda entrada.
 
 ### Campo `nivelConfianca`
