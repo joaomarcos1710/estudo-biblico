@@ -95,6 +95,17 @@ Sacerdotes, levitas em função sacerdotal, Arão, linhagens sacerdotais. Em gen
 
 Texto explícito / Inferência / Reconstrução / Interpretação / Debate — classificados por rótulo em texto, **não** por cores diferentes (isso já é o que fazemos com `nivelConfianca` em `dados/versiculos.json` e os blocos "Nossa interpretação" / "Questões em aberto" em `livros/`).
 
+## Gênero em genealogias e fichas de personagem
+
+Duas cores adicionais, fora da paleta semântica principal, exclusivas pra indicar gênero — nunca usadas fora desse contexto, pra não colidir com os significados já fixados (ex: azul de divergência):
+
+| Gênero | Cor | Hex |
+|---|---|---|
+| Homem | Azul-ardósia | `#4B6580` |
+| Mulher | Rosa-terroso | `#B0637A` |
+
+**Aplicação:** um indicador discreto (ponto/tag pequeno, 6-8px) no canto da caixa ou ao lado do nome — nunca preenchendo a caixa inteira. A caixa em si continua seguindo as regras de linhagem (contorno preto grosso = linhagem principal, tracejado cinza = fora da linhagem, pontilhado = ainda não cadastrado). Gênero é informação complementar, não substitui as outras marcações.
+
 ## Genealogias
 
 Priorizar clareza, gerações, relações, referências, distinção entre explícito e reconstrução. Evitar árvores ornamentadas.

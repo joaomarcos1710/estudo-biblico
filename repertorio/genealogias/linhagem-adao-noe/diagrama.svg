@@ -1,19 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="Arial, Helvetica, sans-serif">
   <style>
-    .box { fill: #ffffff; stroke: #0e0e0e; stroke-width: 1.5; }
-    .box-main { fill: #0e0e0e; stroke: #0e0e0e; }
+    .box { fill: #ffffff; stroke: #e4e4e2; stroke-width: 1.5; }
+    .box-main { fill: #ffffff; stroke: #0e0e0e; stroke-width: 2.5; }
     .box-excluded { fill: #ffffff; stroke: #6b6b68; stroke-width: 1.5; stroke-dasharray: 4 3; }
+    .box-pending { fill: #ffffff; stroke: #6b6b68; stroke-width: 1.5; stroke-dasharray: 2 4; }
     .name { font-size: 16px; font-weight: 700; fill: #0e0e0e; }
-    .name-main { fill: #ffffff; }
-    .name-excluded { fill: #6b6b68; }
+    .name-main { font-weight: 800; }
+    .name-excluded { fill: #6b6b68; font-weight: 600; }
+    .name-pending { fill: #6b6b68; font-weight: 600; }
     .ref { font-size: 10px; fill: #6b6b68; }
-    .ref-main { fill: #0e0e0e; font-weight: 600; }
     .line { stroke: #0e0e0e; stroke-width: 1.5; fill: none; }
-    .line-main { stroke: #0e0e0e; stroke-width: 2; fill: none; }
+    .line-main { stroke: #0e0e0e; stroke-width: 2.5; fill: none; }
     .line-dashed { stroke: #6b6b68; stroke-width: 1.5; stroke-dasharray: 4 3; fill: none; }
     .label { font-size: 11px; fill: #6b6b68; font-style: italic; }
     .title { font-size: 26px; font-weight: 800; fill: #0e0e0e; letter-spacing: 0.5px; }
     .gap { font-size: 20px; fill: #6b6b68; }
+    .g-homem { fill: #4b6580; }
+    .g-mulher { fill: #b0637a; }
   </style>
 
   <rect width="900" height="620" fill="#ffffff"/>
@@ -21,8 +24,10 @@
   <text x="30" y="62" class="label">linhagem — rascunho (parcial, Gênesis 4:25-26 e 5:22,24)</text>
 
   <!-- Adão + Eva -->
-  <rect x="360" y="90" width="180" height="46" class="box"/>
-  <text x="450" y="112" text-anchor="middle" class="name">Adão + Eva</text>
+  <rect x="360" y="90" width="180" height="46" class="box-main"/>
+  <circle cx="522" cy="100" r="5" class="g-homem"/>
+  <circle cx="534" cy="100" r="5" class="g-mulher"/>
+  <text x="450" y="112" text-anchor="middle" class="name name-main">Adão + Eva</text>
   <text x="450" y="128" text-anchor="middle" class="ref">Gênesis 2-3</text>
 
   <!-- lines down to three children -->
@@ -32,26 +37,30 @@
 
   <!-- Caim -->
   <rect x="70" y="175" width="180" height="46" class="box-excluded"/>
+  <circle cx="240" cy="185" r="5" class="g-homem"/>
   <text x="160" y="197" text-anchor="middle" class="name name-excluded">Caim</text>
   <text x="160" y="213" text-anchor="middle" class="ref">Gn 4:1-16 — excluído da linhagem</text>
 
   <!-- Abel -->
   <rect x="360" y="175" width="180" height="46" class="box-excluded"/>
+  <circle cx="530" cy="185" r="5" class="g-homem"/>
   <text x="450" y="197" text-anchor="middle" class="name name-excluded">Abel</text>
   <text x="450" y="213" text-anchor="middle" class="ref">Gn 4:2-8 — morto sem filhos</text>
 
   <!-- Sete -->
   <rect x="530" y="175" width="180" height="46" class="box-main"/>
+  <circle cx="700" cy="185" r="5" class="g-homem"/>
   <text x="620" y="197" text-anchor="middle" class="name name-main">Sete</text>
-  <text x="620" y="213" text-anchor="middle" class="ref ref-main">Gn 4:25 — "destinado" no lugar de Abel</text>
+  <text x="620" y="213" text-anchor="middle" class="ref">Gn 4:25 — "destinado" no lugar de Abel</text>
 
   <!-- line Sete -> Enos -->
   <path d="M620,221 L620,260" class="line-main"/>
 
   <!-- Enos -->
   <rect x="530" y="260" width="180" height="46" class="box-main"/>
+  <circle cx="700" cy="270" r="5" class="g-homem"/>
   <text x="620" y="282" text-anchor="middle" class="name name-main">Enos</text>
-  <text x="620" y="298" text-anchor="middle" class="ref ref-main">Gn 4:26 — início da adoração coletiva</text>
+  <text x="620" y="298" text-anchor="middle" class="ref">Gn 4:26 — início da adoração coletiva</text>
 
   <!-- gap -->
   <path d="M620,306 L620,345" class="line-main"/>
@@ -61,8 +70,9 @@
 
   <!-- Enoque -->
   <rect x="530" y="360" width="180" height="46" class="box-main"/>
+  <circle cx="700" cy="370" r="5" class="g-homem"/>
   <text x="620" y="382" text-anchor="middle" class="name name-main">Enoque</text>
-  <text x="620" y="398" text-anchor="middle" class="ref ref-main">Gn 5:22,24 — "andou com Deus", trasladado</text>
+  <text x="620" y="398" text-anchor="middle" class="ref">Gn 5:22,24 — "andou com Deus", trasladado</text>
 
   <!-- gap 2 -->
   <path d="M620,406 L620,445" class="line-main"/>
@@ -71,17 +81,23 @@
   <text x="700" y="445" class="label">(Gn 5:25-32 — ainda não processado)</text>
 
   <!-- Noé -->
-  <rect x="530" y="460" width="180" height="46" class="box" stroke-dasharray="5 4"/>
-  <text x="620" y="482" text-anchor="middle" class="name" fill="#6b6b68">Noé</text>
+  <rect x="530" y="460" width="180" height="46" class="box-pending"/>
+  <circle cx="700" cy="470" r="5" class="g-homem" opacity="0.5"/>
+  <text x="620" y="482" text-anchor="middle" class="name name-pending">Noé</text>
   <text x="620" y="498" text-anchor="middle" class="ref">Gn 6-9 — ainda não cadastrado</text>
 
   <!-- legend -->
   <rect x="30" y="545" width="14" height="14" class="box-main"/>
-  <text x="52" y="557" class="label">linha principal (já processada)</text>
-  <rect x="30" y="568" width="14" height="14" class="box-excluded"/>
-  <text x="52" y="580" class="label">fora da linhagem escolhida</text>
-  <rect x="330" y="545" width="14" height="14" class="box" stroke-dasharray="5 4"/>
-  <text x="352" y="557" class="label">ainda não cadastrado no repertório</text>
+  <text x="52" y="557" class="label">linhagem principal (borda grossa preta)</text>
+  <rect x="330" y="545" width="14" height="14" class="box-excluded"/>
+  <text x="352" y="557" class="label">fora da linhagem escolhida (tracejado cinza)</text>
+  <rect x="30" y="568" width="14" height="14" class="box-pending"/>
+  <text x="52" y="580" class="label">ainda não cadastrado no repertório (pontilhado)</text>
+
+  <circle cx="637" cy="551" r="5" class="g-homem"/>
+  <text x="652" y="557" class="label">homem</text>
+  <circle cx="712" cy="551" r="5" class="g-mulher"/>
+  <text x="727" y="557" class="label">mulher</text>
 
   <text x="30" y="605" class="label">Fonte: Comentário Bíblico Moody (Gênesis) — repertorio/fontes/comentarios/moody-genesis.md</text>
 </svg>
