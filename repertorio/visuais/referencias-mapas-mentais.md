@@ -63,3 +63,11 @@ Mesma base: os relacionamentos de parentesco devem primeiro existir em [`../dado
 [bibleforge/BibleForge](https://github.com/bibleforge/BibleForge) — app de estudo bíblico open source (MIT), código de 2008, último commit 2022. Não vale portar o código (JS puro sem framework, servidor Node/DB próprio que não precisamos — nosso leitor é estático a partir de `dados/*.json`).
 
 **Ideia a guardar pro futuro:** o diferencial do BibleForge é análise interlinear — clicar numa palavra do versículo e ver o termo original em hebraico/grego. Não é prioridade agora, mas é um recurso possível pro Leitor Bíblico (protótipo em Artifact) quando o conteúdo estiver mais maduro.
+
+---
+
+# Referência — OpenBible (danzuep)
+
+[danzuep/OpenBible](https://github.com/danzuep/OpenBible) — app de estudo bíblico multiplataforma sério e ativo (C#/.NET MAUI + Blazor), com parsing de formatos bíblicos padrão (USX/USJ) e romanização de idiomas (japonês, cantonês etc.).
+
+**Não adotar a stack** — é .NET, ecossistema diferente do nosso (HTML/JS estático + JSON). Mudar pra isso significaria abandonar a arquitetura atual por um projeto de programação C# de verdade. Fica só como referência de modelo de dados (`BibleVerse`, `BibleWord`, `BibleReference`, `BibleFootnote`) — já coberto, pro nosso propósito, por `dados/versiculos.json`.
