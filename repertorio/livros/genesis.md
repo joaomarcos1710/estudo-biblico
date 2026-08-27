@@ -507,4 +507,64 @@ Bom exemplo de que é possível uma vida de comunhão genuína com Deus mesmo nu
 
 ---
 
+### Gênesis 6:1-8
+
+**Texto bíblico**
+> Quando os homens começaram a multiplicar-se na terra e lhes nasceram filhas, os filhos de Deus viram que as filhas dos homens eram bonitas, e escolheram para si aquelas que lhes agradaram. Então disse o SENHOR: "Por causa da perversidade do homem, meu Espírito não contenderá com ele para sempre; ele só viverá cento e vinte anos". Naqueles dias, havia nefilins na terra [...] Eles foram os heróis do passado, homens famosos. O SENHOR viu que a perversidade do homem tinha aumentado na terra [...] Então o SENHOR arrependeu-se de ter feito o homem sobre a terra, e isso cortou-lhe o coração. Disse o Senhor: "Farei desaparecer da face da terra o homem que criei [...]" A Noé, porém, o SENHOR mostrou benevolência.
+*Fonte: [NVI]*
+
+**Tags:** #pecado #dilúvio #juízo #graça
+
+**Observação**
+Um dos trechos mais discutidos de Gênesis — a identidade dos "filhos de Deus" (*benê 'Elohim*) e dos "nefilins" não tem consenso entre intérpretes cristãos sérios.
+
+**O que dizem as fontes**
+- *'Elohim* é plural na forma, normalmente traduzido "Deus", mas pode indicar "deuses" ou o círculo celestial de seres em comunhão com Jeová (cf. Jó 1:6). A leitura mais fiel ao texto, na avaliação do comentário, é a de que seres do grupo celeste (anjos/mensageiros) tomaram mulheres terrestres à força (cf. 2 Pe 2:4; Jd 6) — mas essa leitura enfrenta a dificuldade de Mt 22:30 (anjos "nem casam nem são dados em casamento"). Outras leituras propostas: união entre a linhagem piedosa de Sete e os descendentes ímpios de Caim, ou casamento entre classes sociais diferentes. Quanto ao arrependimento de Deus (v.6): descreve o amor de Deus sofrendo desapontamento genuíno, não uma mudança de plano por surpresa — "através de tudo isto, o amor de Deus brilhava claramente".
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom pra mostrar que o juízo de Deus sobre o pecado não é frieza — o texto descreve Deus "com o coração cortado" pela maldade humana, e mesmo assim preservando graça (Noé) no meio do juízo. Útil em conversas sobre a tensão entre justiça e misericórdia de Deus.
+
+**Questões em aberto**
+A identidade dos "filhos de Deus" e dos "nefilins" é genuinamente disputada — nenhuma das leituras propostas é isenta de dificuldades textuais. Bom não apresentar nenhuma delas como certeza absoluta.
+
+---
+
+### Gênesis 6:9
+
+**Texto bíblico**
+> Esta é a história da família de Noé: Noé era homem justo, íntegro entre o povo da sua época; ele andava com Deus.
+*Fonte: [NVI]*
+
+**Tags:** #Noé #integridade #comunhão
+
+**O que dizem as fontes**
+- Três características de uma vida piedosa: justiça, pureza e santidade. *Tsaddiq* ("justo") descreve honestidade e honra no trato com outras pessoas (cf. Ez 14:14,20). *Tamim* ("íntegro") descreve o produto perfeito de um construtor sábio — inteiro, completo, imaculado. "Ele andava com Deus" liga Noé à mesma expressão usada de Enoque (Gn 5:22) — um espírito e caráter que o tornava aceito para relacionamento espiritual íntimo (cf. Mq 6:8; Ml 2:6).
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Noé manteve integridade num contexto de corrupção generalizada — útil pra falar de fidelidade pessoal que não depende do ambiente ao redor, tema que já apareceu com Enoque (Gn 5:22-24).
+
+---
+
+### Gênesis 6:14-22
+
+**Texto bíblico**
+> Você, porém, fará uma arca de madeira de cipreste [...] Eis que vou trazer águas sobre a terra, o Dilúvio, para destruir debaixo do céu toda criatura que tem fôlego de vida [...] Mas com você estabelecerei a minha aliança, e você entrará na arca com seus filhos, sua mulher e as mulheres de seus filhos. [...] Noé fez tudo exatamente como Deus lhe tinha ordenado.
+*Fonte: [NVI]*
+
+**Tags:** #Noé #aliança #obediência #dilúvio
+
+**O que dizem as fontes**
+- A arca (*têbâ*, provavelmente de origem egípcia) era uma espécie de jangada grande e coberta, com três andares — cerca de 13,85m de altura, 138,46m de comprimento e 23,08m de largura. Calafetada com betume por dentro e por fora. *Mabbûl* ("dilúvio") só é usada em relação a essa inundação no hebraico bíblico. Durante os 120 anos de construção, Noé pregou ao povo buscando levá-lo ao arrependimento — a arca tomando forma diante dos olhos de todos era, em si, parte da mensagem.
+*Fonte: [MOODY]*
+
+**Nossa interpretação**
+"Noé fez tudo exatamente como Deus lhe tinha ordenado" (v.22) é o resumo de uma obediência sustentada por décadas, sem confirmação visível de chuva ou dilúvio até o fim — fé de longo prazo, não decisão pontual.
+
+**Aplicação pastoral**
+Útil pra falar de obediência que precisa ser sustentada por muito tempo sem ver resultado imediato — Noé pregou e construiu por mais de um século antes de qualquer sinal do que anunciava.
+
+---
+
 *(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*
