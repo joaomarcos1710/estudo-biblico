@@ -687,5 +687,27 @@
     ],
     "aplicacaoPastoral": "Bom modelo pra depois de uma crise superada: o primeiro impulso pode ser adoração e gratidão, não só alívio ou retomada da rotina — Noé parou pra reconhecer a Deus antes de qualquer outra coisa.",
     "videos": []
+  },
+  {
+    "id": "gen-9-9-15",
+    "ref": "Gênesis 9:9-15",
+    "livro": "genesis",
+    "capitulo": 9,
+    "versiculoInicio": 9,
+    "versiculoFim": 15,
+    "texto": "\"Vou estabelecer a minha aliança com vocês e com os seus futuros descendentes [...] Nunca mais será ceifada nenhuma forma de vida pelas águas de um dilúvio; nunca mais haverá dilúvio para destruir a terra\". E Deus prosseguiu: \"Este é o sinal da aliança [...] o meu arco que coloquei nas nuvens [...] então me lembrarei da minha aliança com vocês e com os seres vivos de todas as espécies.\"",
+    "fonteTexto": "NVI",
+    "tags": ["aliança", "graça", "arco-íris"],
+    "entidades": ["noe", "deus"],
+    "observacao": "A aliança é feita não só com Noé e sua família, mas com \"todo ser vivo\" (v.10) e com \"todas as gerações futuras\" (v.12) — inclui toda a humanidade posterior, não apenas quem estava na arca.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A formação de uma aliança envolve a junção solene de duas partes até então livres de obrigações mútuas — a ligação de Deus com esse grupo familiar foi um ato voluntário de livre graça. Noé nada tinha que merecesse o relacionamento da aliança, e Deus não tinha obrigações para com ele. A aliança precisava de um sinal externo e visível como lembrete constante do acordo — o arco-íris ('ôt, \"sinal\"). É provável que o arco já existisse nas nuvens antes disso, e que a partir daquele momento tenha assumido um novo significado: certeza da graça e misericórdia de Deus, lembrete visível do Seu amor.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Um dos melhores textos pra falar de graça incondicional — a aliança não depende do mérito de Noé, é dada por livre iniciativa de Deus. Útil também com quem associa o arco-íris só a uma imagem estética: no texto, é um sinal concreto de compromisso divino de não repetir a destruição total.",
+    "videos": []
   }
 ]
