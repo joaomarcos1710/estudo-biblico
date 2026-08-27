@@ -86,6 +86,10 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - "No princípio... Deus" responde a duas perguntas: "quem fez todas as coisas?" e "quem é anterior e maior que todas as coisas?". O céu e a terra não são Deus nem deuses, nem Deus é igual à natureza — Deus é o Criador, a natureza é Seu trabalho manual. Embora feita por Deus, a terra ainda não estava pronta pro homem (v.2): desordem, sem forma, vazia, sem luz — mas já havia atividade, o Espírito de Deus se movendo sobre as águas.
 *Fonte: [BEACON]*
 
+**Vídeos**
+Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "quando Deus usa o verbo *bará*, está se referindo a uma obra criadora sem matéria pré-existente — é aquilo que os teólogos chamam de *ex nihilo*, criar sem matéria preexistente, criar do nada [...] este universo foi criado por Deus sem qualquer matéria pré-existente." Também destacou que "no princípio criou Deus os céus e a terra" nega, ao mesmo tempo, o ateísmo, o politeísmo (*Elohim* é plural na forma, mas o verbo "criou" vem no singular — um só Deus em três pessoas) e o panteísmo (o Criador existia antes da criação, logo é eterno, diferente da criatura). Ver transcrição completa em [hdl-como-entender-genesis.md](../fontes/videos/hdl-como-entender-genesis.md).
+*Fonte: [HDL-GEN1]*
+
 ### Gênesis 1:2
 > Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
 *Fonte: [NVI]*
@@ -98,6 +102,10 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 - "Sem forma e vazia" (*tohu v'vohu*) — mesma expressão usada só mais uma vez na Bíblia, em Jeremias 4:23, descrevendo juízo. *Rúâh* ("Espírito") pode significar "vento", mas "Espírito" faz mais sentido no contexto e paralela João 3. Aplicação: se o Espírito pairava sobre a criação então, ainda paira sobre ela agora — Deus continua presente e dirigindo Sua criação.
 *Fonte: [GARRETT]*
+
+**Vídeos**
+Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "o Espírito de Deus pairava... sobre as águas — e essa palavra 'pairar' é a mesma palavra usada para uma ave que está chocando os seus ovos, energizando-os para dar vida. É o Espírito de Deus que dá vida [...] o homem, com toda a ciência, fabrica um grão de feijão [...] mas o homem não consegue colocar vida ali dentro, porque vida só procede de vida." Também apontou o versículo 2 como referência ao Deus Espírito Santo atuando na criação, ao lado do Pai (v.1) e do Filho/Verbo (v.3) — as três pessoas da Trindade presentes já nos primeiros três versículos da Bíblia. Ver transcrição completa em [hdl-como-entender-genesis.md](../fontes/videos/hdl-como-entender-genesis.md).
+*Fonte: [HDL-GEN1]*
 
 ### Gênesis 1:3-5
 > Disse Deus: "Haja luz", e houve luz. [...] Deus chamou à luz dia, e às trevas chamou noite. Passaram-se a tarde e a manhã; esse foi o primeiro dia.
@@ -117,6 +125,10 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 **Questões em aberto**
 Moody e Garrett discordam sobre se "dia" em Gênesis 1 é literal (24h) ou não — reflexo de um debate real e não resolvido entre cristãos que levam o texto a sério (não é questão de "quem tem mais fé", é diferença de leitura exegética/científica genuína). Bom não apresentar nenhum dos dois lados como o único cristianismo legítimo.
+
+**Vídeos**
+Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "'disse Deus: haja luz, e houve luz.' Deus cria pela palavra, pela palavra do seu poder [...] o agente da criação é a segunda pessoa da Trindade — 'todas as coisas foram feitas por intermédio dele, as visíveis e as invisíveis' [Cl 1:16]." Sobre a "teoria do hiato" (que colocaria uma queda de Satanás e milhões de anos entre os v.1 e v.3), ele foi enfático: "não há qualquer amparo bíblico, exegético para ancorarmos essa teoria [...] toda a criação foi começada e concluída [n]uma semana de seis dias." Ver transcrição completa em [hdl-como-entender-genesis.md](../fontes/videos/hdl-como-entender-genesis.md).
+*Fonte: [HDL-GEN1]*
 
 ### Gênesis 1:6-8
 
@@ -504,6 +516,200 @@ No meio de uma lista repetitiva de nascimentos e mortes ("viveu... gerou... morr
 
 **Aplicação pastoral**
 Bom exemplo de que é possível uma vida de comunhão genuína com Deus mesmo num contexto de decadência geral ao redor — não depende do ambiente, depende da caminhada pessoal.
+
+---
+
+### Gênesis 6:1-8
+
+**Texto bíblico**
+> Quando os homens começaram a multiplicar-se na terra e lhes nasceram filhas, os filhos de Deus viram que as filhas dos homens eram bonitas, e escolheram para si aquelas que lhes agradaram. Então disse o SENHOR: "Por causa da perversidade do homem, meu Espírito não contenderá com ele para sempre; ele só viverá cento e vinte anos". Naqueles dias, havia nefilins na terra [...] Eles foram os heróis do passado, homens famosos. O SENHOR viu que a perversidade do homem tinha aumentado na terra [...] Então o SENHOR arrependeu-se de ter feito o homem sobre a terra, e isso cortou-lhe o coração. Disse o Senhor: "Farei desaparecer da face da terra o homem que criei [...]" A Noé, porém, o SENHOR mostrou benevolência.
+*Fonte: [NVI]*
+
+**Tags:** #pecado #dilúvio #juízo #graça
+
+**Observação**
+Um dos trechos mais discutidos de Gênesis — a identidade dos "filhos de Deus" (*benê 'Elohim*) e dos "nefilins" não tem consenso entre intérpretes cristãos sérios.
+
+**O que dizem as fontes**
+- *'Elohim* é plural na forma, normalmente traduzido "Deus", mas pode indicar "deuses" ou o círculo celestial de seres em comunhão com Jeová (cf. Jó 1:6). A leitura mais fiel ao texto, na avaliação do comentário, é a de que seres do grupo celeste (anjos/mensageiros) tomaram mulheres terrestres à força (cf. 2 Pe 2:4; Jd 6) — mas essa leitura enfrenta a dificuldade de Mt 22:30 (anjos "nem casam nem são dados em casamento"). Outras leituras propostas: união entre a linhagem piedosa de Sete e os descendentes ímpios de Caim, ou casamento entre classes sociais diferentes. Quanto ao arrependimento de Deus (v.6): descreve o amor de Deus sofrendo desapontamento genuíno, não uma mudança de plano por surpresa — "através de tudo isto, o amor de Deus brilhava claramente".
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom pra mostrar que o juízo de Deus sobre o pecado não é frieza — o texto descreve Deus "com o coração cortado" pela maldade humana, e mesmo assim preservando graça (Noé) no meio do juízo. Útil em conversas sobre a tensão entre justiça e misericórdia de Deus.
+
+**Questões em aberto**
+A identidade dos "filhos de Deus" e dos "nefilins" é genuinamente disputada — nenhuma das leituras propostas é isenta de dificuldades textuais. Bom não apresentar nenhuma delas como certeza absoluta.
+
+---
+
+### Gênesis 6:9
+
+**Texto bíblico**
+> Esta é a história da família de Noé: Noé era homem justo, íntegro entre o povo da sua época; ele andava com Deus.
+*Fonte: [NVI]*
+
+**Tags:** #Noé #integridade #comunhão
+
+**O que dizem as fontes**
+- Três características de uma vida piedosa: justiça, pureza e santidade. *Tsaddiq* ("justo") descreve honestidade e honra no trato com outras pessoas (cf. Ez 14:14,20). *Tamim* ("íntegro") descreve o produto perfeito de um construtor sábio — inteiro, completo, imaculado. "Ele andava com Deus" liga Noé à mesma expressão usada de Enoque (Gn 5:22) — um espírito e caráter que o tornava aceito para relacionamento espiritual íntimo (cf. Mq 6:8; Ml 2:6).
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Noé manteve integridade num contexto de corrupção generalizada — útil pra falar de fidelidade pessoal que não depende do ambiente ao redor, tema que já apareceu com Enoque (Gn 5:22-24).
+
+---
+
+### Gênesis 6:14-22
+
+**Texto bíblico**
+> Você, porém, fará uma arca de madeira de cipreste [...] Eis que vou trazer águas sobre a terra, o Dilúvio, para destruir debaixo do céu toda criatura que tem fôlego de vida [...] Mas com você estabelecerei a minha aliança, e você entrará na arca com seus filhos, sua mulher e as mulheres de seus filhos. [...] Noé fez tudo exatamente como Deus lhe tinha ordenado.
+*Fonte: [NVI]*
+
+**Tags:** #Noé #aliança #obediência #dilúvio
+
+**O que dizem as fontes**
+- A arca (*têbâ*, provavelmente de origem egípcia) era uma espécie de jangada grande e coberta, com três andares — cerca de 13,85m de altura, 138,46m de comprimento e 23,08m de largura. Calafetada com betume por dentro e por fora. *Mabbûl* ("dilúvio") só é usada em relação a essa inundação no hebraico bíblico. Durante os 120 anos de construção, Noé pregou ao povo buscando levá-lo ao arrependimento — a arca tomando forma diante dos olhos de todos era, em si, parte da mensagem.
+*Fonte: [MOODY]*
+
+**Nossa interpretação**
+"Noé fez tudo exatamente como Deus lhe tinha ordenado" (v.22) é o resumo de uma obediência sustentada por décadas, sem confirmação visível de chuva ou dilúvio até o fim — fé de longo prazo, não decisão pontual.
+
+**Aplicação pastoral**
+Útil pra falar de obediência que precisa ser sustentada por muito tempo sem ver resultado imediato — Noé pregou e construiu por mais de um século antes de qualquer sinal do que anunciava.
+
+---
+
+### Gênesis 7:11-12
+
+**Texto bíblico**
+> No dia em que Noé completou seiscentos anos, um mês e dezessete dias, nesse mesmo dia todas as fontes das grandes profundezas jorraram, e as comportas do céu se abriram. E a chuva caiu sobre a terra quarenta dias e quarenta noites.
+*Fonte: [NVI]*
+
+**Tags:** #dilúvio #juízo
+
+**O que dizem as fontes**
+- Enormes reservatórios de água estavam armazenados sob a terra — essa massa era chamada *tehôm*, "o grande abismo" (cf. Gn 1:2), confinada ali desde o segundo dia da criação. *Baqa'* ("romperam-se") indica uma convulsão terrestre que destruiu toda barreira restritiva — não foi uma enchente comum, mas uma gigantesca maré súbita. Além da sublevação vinda de baixo, abriram-se as comportas dos reservatórios de água acima da terra, derramando chuva continuamente por quarenta dias e quarenta noites.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Útil pra falar do tamanho real do juízo de Deus sobre o pecado quando alguém banaliza a ideia de consequência — o texto descreve algo de escala além da compreensão humana, não um evento administrável.
+
+---
+
+### Gênesis 7:16-18
+
+**Texto bíblico**
+> Os animais que entraram foram um macho e uma fêmea de cada ser vivo, conforme Deus ordenara a Noé. Então o SENHOR fechou a porta. Quarenta dias durou o Dilúvio, e as águas aumentaram e elevaram a arca acima da terra. As águas prevaleceram, aumentando muito sobre a terra, e a arca flutuava na superfície das águas.
+*Fonte: [NVI]*
+
+**Tags:** #dilúvio #proteção #graça
+
+**Observação**
+É Deus quem fecha a porta da arca (v.16), não Noé — o mesmo ato de fechar que protege quem está dentro é parte do mesmo evento que destrói quem está fora.
+
+**O que dizem as fontes**
+- Jeová, o Deus da aliança, estendeu o braço da misericórdia e fechou a porta da arca pra guardar Seu povo em segurança, ao mesmo tempo em que derramava torrentes de água para destruir os pecadores — "a mesma mão divina" em ambos os atos. Os ocupantes da arca podiam viajar sobre as águas com senso de segurança porque confiavam em Deus. *Gabar* ("predominaram") indica poderio e sujeição — as águas foram assumindo controle até as mais altas montanhas ficarem submersas.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom pra ilustrar que segurança em meio à crise não vem de estar livre da tempestade, mas de estar dentro do lugar de proteção que Deus mesmo fechou — útil com quem sente medo em meio a circunstâncias que não controla.
+
+---
+
+### Gênesis 8:4
+
+**Texto bíblico**
+> E, no décimo sétimo dia do sétimo mês, a arca pousou nas montanhas de Ararate.
+*Fonte: [NVI]*
+
+**Tags:** #dilúvio #Noé
+
+**O que dizem as fontes**
+- Depois de 150 dias, a arca repousou sobre um dos picos de uma alta cordilheira na Armênia (*Urartu*, cognato acadiano de "Ararate"; o monte hoje chamado Ararate tem 5.204,92m). A Épica de Gilgamesh traz um relato babilônico paralelo de dilúvio, cujo herói também constrói uma arca, embarca animais e ancora numa montanha (Monte Nisir) depois da inundação.
+*Fonte: [MOODY]*
+
+**Questões em aberto**
+A existência de relatos de dilúvio em outras culturas antigas (como Gilgamesh) é citada sem entrar na discussão sobre o que isso implica pra historicidade — vale registrar como ponto a aprofundar se surgir fonte específica sobre comparação de relatos de dilúvio no antigo Oriente Próximo.
+
+---
+
+### Gênesis 8:20
+
+**Texto bíblico**
+> Depois Noé construiu um altar dedicado ao SENHOR e, tomando alguns animais e aves puros, ofereceu-os como holocausto, queimando-os sobre o altar.
+*Fonte: [NVI]*
+
+**Tags:** #adoração #gratidão #Noé
+
+**Observação**
+Primeiro altar mencionado na Bíblia é erguido não em pedido, mas em gratidão — a primeira ação de Noé ao sair da arca foi adorar, não reconstruir sua vida.
+
+**O que dizem as fontes**
+- A coisa mais natural que Noé tinha a fazer, ao sair pra claridade do novo dia, foi encontrar terreno elevado pra edificar um *mizbêah* — reconhecendo o fim do juízo e o despontar de esperança. O holocausto (*'ôlâ*, "subir") sugere que a fumaça do sacrifício sobe a Deus, levando a gratidão do ofertante — um sacrifício verdadeiramente propiciatório, de sincera adoração. Deus foi agradado; Noé encontrou favor diante d'Ele.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom modelo pra depois de uma crise superada: o primeiro impulso pode ser adoração e gratidão, não só alívio ou retomada da rotina — Noé parou pra reconhecer a Deus antes de qualquer outra coisa.
+
+---
+
+### Gênesis 9:9-15
+
+**Texto bíblico**
+> "Vou estabelecer a minha aliança com vocês e com os seus futuros descendentes [...] Nunca mais será ceifada nenhuma forma de vida pelas águas de um dilúvio; nunca mais haverá dilúvio para destruir a terra". E Deus prosseguiu: "Este é o sinal da aliança [...] o meu arco que coloquei nas nuvens [...] então me lembrarei da minha aliança com vocês e com os seres vivos de todas as espécies."
+*Fonte: [NVI]*
+
+**Tags:** #aliança #graça #arco-íris
+
+**Observação**
+A aliança é feita não só com Noé e sua família, mas com "todo ser vivo" (v.10) e com "todas as gerações futuras" (v.12) — inclui toda a humanidade posterior, não apenas quem estava na arca.
+
+**O que dizem as fontes**
+- A formação de uma aliança envolve a junção solene de duas partes até então livres de obrigações mútuas — a ligação de Deus com esse grupo familiar foi um ato voluntário de livre graça. Noé nada tinha que merecesse o relacionamento da aliança, e Deus não tinha obrigações para com ele. A aliança precisava de um sinal externo e visível como lembrete constante do acordo — o arco-íris (*'ôt*, "sinal"). É provável que o arco já existisse nas nuvens antes disso, e que a partir daquele momento tenha assumido um novo significado: certeza da graça e misericórdia de Deus, lembrete visível do Seu amor. "Então me lembrarei" (v.15).
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Um dos melhores textos pra falar de graça incondicional — a aliança não depende do mérito de Noé, é dada por livre iniciativa de Deus. Útil também com quem associa o arco-íris só a uma imagem estética: no texto, é um sinal concreto de compromisso divino de não repetir a destruição total.
+
+---
+
+### Gênesis 9:18-19
+
+**Texto bíblico**
+> Os filhos de Noé que saíram da arca foram Sem, Cam e Jafé. Cam é o pai de Canaã. Esses foram os três filhos de Noé; a partir deles toda a terra foi povoada.
+*Fonte: [NVI]*
+
+**Tags:** #Noé #povos #genealogia
+
+**Observação**
+Este versículo introduz a divisão das "três grandes famílias da humanidade" (Sem, Cam, Jafé) que a tradição usa pra mapear os povos conhecidos do mundo antigo.
+
+**O que dizem as fontes**
+- Sem foi o primeiro mencionado, ocupando lugar de liderança nos planos divinos — os semitas seriam os líderes espirituais dos povos, e o Messias viria através de sua linhagem. Jafé seria pai de um ramo gentio que se espalharia buscando lucro e poder material. Cam seria pai de outro ramo gentio (egípcios, etíopes, abissínios e afins); seu filho Canaã foi pai dos cananitas, mais tarde desalojados pelos hebreus.
+*Fonte: [MOODY]*
+
+**Questões em aberto**
+A fonte é explícita ao afastar qualquer uso da maldição de Canaã (Gn 9:25, adiante no capítulo) como justificativa pra escravidão ou segregação racial — registro importante porque essa passagem foi historicamente distorcida com esse propósito. Ao processar o versículo da maldição em si (9:25), reforçar essa mesma ressalva.
+
+---
+
+### Gênesis 10 — A Tabela das Nações
+
+**Texto bíblico**
+> Cuxe gerou também Ninrode, o primeiro homem poderoso na terra. Ele foi o mais valente dos caçadores [...] Dessa terra ele partiu para a Assíria, onde fundou Nínive [...] Sem foi o antepassado de todos os filhos de Héber.
+*Fonte: [NVI]*
+
+**Tags:** #povos #genealogia #história
+
+**Observação**
+O capítulo 10 mapeia os povos conhecidos do mundo antigo a partir dos três filhos de Noé — não é uma lista aleatória, é o pano de fundo geográfico e histórico de tudo que vem depois em Gênesis 11-50 (Babel, Abraão, os povos que Israel vai encontrar em Canaã).
+
+**O que dizem as fontes**
+- Ninrode (Cuxe, v.8-9) fundou o império babilônico e Nínive — depois centro do reino assírio sob Senaqueribe, Esaradom e Assurbanipal, alvo das profecias de Jonas e Naum. Os filisteus (v.14) deram nome à "Palestina" e foram "espinho na carne" dos israelitas por séculos. Os hititas (Hete, v.15) tiveram grande império (1600-700 a.C.) e testemunharam a compra da Caverna de Macpela por Abraão (Gn 23:8-10); Esaú se casaria com uma mulher dessa tribo. Os "filhos de Éber" (v.21) dão origem ao termo "hebreu" — racial, diferente de "israelita", que é nacional (mais tarde os termos se tornam sinônimos). Arã (v.22) origina o povo aramaico, cuja língua acabaria substituindo o hebraico como língua falada no tempo de Jesus. Sabá e Ofir (v.28-29) eram povos ricos em ouro e comércio — Ofir seria depois a origem de boa parte do ouro do Templo de Salomão.
+*Fonte: [MOODY]*
+
+**Questões em aberto**
+Localização exata de vários desses povos/lugares (Társis, Ofir, Sabá) não é consenso entre os estudiosos — a fonte apresenta as hipóteses mais aceitas, não certezas geográficas definitivas.
 
 ---
 

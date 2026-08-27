@@ -20,6 +20,7 @@ Todo material que entra no repertório (comentário, verbete, vídeo, artigo) re
 | `GRACA-SOBERANA` | Coletânea de sermões | Holanda/Inglaterra/EUA (trad. português) | HARINCK, C.; SPURGEON, C. H.; EDWARDS, J.; WHITEFIELD, G. *Graça soberana*. Compilado por W. Chr. Hammink. [S. l.]: Dutch Reformed Tract Society, [20--?]. |
 | `GARRETT` | Comentário bíblico (verse-by-verse) | EUA (original em inglês) | GARRETT, Charlie. *Genesis*: a verse-by-verse study. [S. l.: s. n.], 2021. |
 | `BEACON` | Comentário bíblico (coleção) | EUA (trad. CPAD, Brasil) | COMENTÁRIO BÍBLICO BEACON: Gênesis. Tradução: Luís Aron de Macedo. 4. impr. Rio de Janeiro: CPAD, 2012. ISBN 85-263-0685-5. Título original: Beacon Bible Commentary (10 Volume Set). Kansas City: Beacon Hill Press of Kansas City / Nazarene Publishing House, 1969. |
+| `HDL-GEN1` | Vídeo (mensagem pastoral) | Brasil | LOPES, Hernandes Dias. *Como entender Gênesis e fortalecer sua fé cristã*. [S. l.: s. n.], 2025. 1 vídeo. Mensagem pregada na Igreja Presbiteriana de Pinheiros, sobre Gênesis 1:1-3. Publicado pelo canal [não identificado] em 30 maio 2025. Disponível em: https://www.youtube.com/watch?v=0z_s46fPfBU. Acesso em: 26 ago. 2026. |
 
 *Campos entre colchetes (`[S. l.]`, `[s. n.]`, `[19--?]`) indicam dado que a fonte recebida não informou — não foi inventado. Se você tiver a edição/ano exatos de algum desses materiais, me manda que eu atualizo a referência.*
 
@@ -49,6 +50,19 @@ AUTOR. Título: subtítulo. Local: Editora, ano. E-book. Disponível em: [link].
 ```
 TÍTULO DA PÁGINA. Local: Instituição responsável, ano. Disponível em: [link]. Acesso em: [data].
 ```
+
+## Formato de citação de conteúdo vindo de vídeo/mensagem pastoral
+
+Diferente de um comentário escrito, o conteúdo extraído de um vídeo (sermão, mensagem, palestra) é sempre apresentado dizendo quem falou, quando e onde, antes da citação — nunca como um comentário genérico "achatado". Formato padrão:
+
+```markdown
+Mensagem do pastor/pregador NOME, pregada em DATA (local/igreja, se houver) — ele disse: "trecho citado".
+*Fonte: [CÓDIGO]*
+```
+
+Exemplo real:
+> Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "bará é um verbo específico que só pode ser usado para Deus [...] é aquilo que os teólogos chamam de ex nihilo, criar sem matéria preexistente, criar do nada."
+*Fonte: [HDL-GEN1]*
 
 Sempre que eu cadastrar uma fonte nova, preencho o modelo certo acima e adiciono a linha na tabela — sem precisar você pedir.
 

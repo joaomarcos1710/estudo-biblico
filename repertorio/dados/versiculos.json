@@ -8,8 +8,14 @@
     "versiculoFim": 1,
     "texto": "No princípio Deus criou os céus e a terra.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "Deus"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação",
+      "Deus"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "MOODY",
@@ -27,7 +33,18 @@
         "nivelConfianca": "alto"
       }
     ],
-    "videos": []
+    "videos": [
+      {
+        "titulo": "Como entender Gênesis e fortalecer sua fé cristã",
+        "autor": "Hernandes Dias Lopes",
+        "descricao": "Mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros.",
+        "url": "https://www.youtube.com/watch?v=0z_s46fPfBU",
+        "fonte": "HDL-GEN1",
+        "citacao": "Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: \"quando Deus usa o verbo bará, está se referindo a uma obra criadora sem matéria pré-existente — é aquilo que os teólogos chamam de ex nihilo, criar sem matéria preexistente, criar do nada [...] este universo foi criado por Deus sem qualquer matéria pré-existente.\" Também destacou que \"no princípio criou Deus os céus e a terra\" nega o ateísmo, o politeísmo (Elohim é plural na forma, mas o verbo \"criou\" vem no singular) e o panteísmo (o Criador existia antes da criação, logo é eterno, diferente da criatura).",
+        "dataPregacao": "30 maio 2025 (publicação no YouTube)",
+        "transcricao": "repertorio/fontes/videos/hdl-como-entender-genesis.md"
+      }
+    ]
   },
   {
     "id": "gen-1-2",
@@ -38,8 +55,15 @@
     "versiculoFim": 2,
     "texto": "Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "Espírito Santo"],
-    "entidades": ["deus", "espirito-santo", "criacao"],
+    "tags": [
+      "criação",
+      "Espírito Santo"
+    ],
+    "entidades": [
+      "deus",
+      "espirito-santo",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "MOODY",
@@ -52,7 +76,18 @@
         "nivelConfianca": "medio"
       }
     ],
-    "videos": []
+    "videos": [
+      {
+        "titulo": "Como entender Gênesis e fortalecer sua fé cristã",
+        "autor": "Hernandes Dias Lopes",
+        "descricao": "Mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros.",
+        "url": "https://www.youtube.com/watch?v=0z_s46fPfBU",
+        "fonte": "HDL-GEN1",
+        "citacao": "Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: \"o Espírito de Deus pairava... sobre as águas — e essa palavra 'pairar' é a mesma palavra usada para uma ave que está chocando os seus ovos, energizando-os para dar vida. É o Espírito de Deus que dá vida [...] vida só procede de vida.\" Apontou o v.2 como referência ao Deus Espírito Santo atuando na criação, ao lado do Pai (v.1) e do Filho/Verbo (v.3) — a Trindade presente já nos três primeiros versículos da Bíblia.",
+        "dataPregacao": "30 maio 2025 (publicação no YouTube)",
+        "transcricao": "repertorio/fontes/videos/hdl-como-entender-genesis.md"
+      }
+    ]
   },
   {
     "id": "gen-1-3-5",
@@ -63,8 +98,14 @@
     "versiculoFim": 5,
     "texto": "Disse Deus: \"Haja luz\", e houve luz. [...] Deus chamou à luz dia, e às trevas chamou noite. Passaram-se a tarde e a manhã; esse foi o primeiro dia.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "luz"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação",
+      "luz"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "MOODY",
@@ -83,7 +124,18 @@
       }
     ],
     "questoesEmAberto": "Moody e Garrett discordam sobre se \"dia\" em Gênesis 1 é literal (24h) ou não — debate real e não resolvido entre cristãos que levam o texto a sério, não questão de \"quem tem mais fé\".",
-    "videos": []
+    "videos": [
+      {
+        "titulo": "Como entender Gênesis e fortalecer sua fé cristã",
+        "autor": "Hernandes Dias Lopes",
+        "descricao": "Mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros.",
+        "url": "https://www.youtube.com/watch?v=0z_s46fPfBU",
+        "fonte": "HDL-GEN1",
+        "citacao": "Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: \"'disse Deus: haja luz, e houve luz.' Deus cria pela palavra, pela palavra do seu poder [...] o agente da criação é a segunda pessoa da Trindade.\" Sobre a \"teoria do hiato\": \"não há qualquer amparo bíblico, exegético para ancorarmos essa teoria [...] toda a criação foi começada e concluída [n]uma semana de seis dias.\"",
+        "dataPregacao": "30 maio 2025 (publicação no YouTube)",
+        "transcricao": "repertorio/fontes/videos/hdl-como-entender-genesis.md"
+      }
+    ]
   },
   {
     "id": "gen-1-6-8",
@@ -94,8 +146,13 @@
     "versiculoFim": 8,
     "texto": "Depois disse Deus: \"Haja entre as águas um firmamento que separe águas de águas\". Então Deus fez o firmamento e separou as águas que ficaram abaixo do firmamento das que ficaram por cima. E assim foi. Ao firmamento, Deus chamou céu. Passaram-se a tarde e a manhã; esse foi o segundo dia.",
     "fonteTexto": "NVI",
-    "tags": ["criação"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "GARRETT",
@@ -120,8 +177,13 @@
     "versiculoFim": 10,
     "texto": "E disse Deus: \"Ajuntem-se num só lugar as águas que estão debaixo do céu, e apareça a parte seca\". E assim foi. À parte seca Deus chamou terra, e chamou mares ao conjunto das águas. E Deus viu que ficou bom.",
     "fonteTexto": "NVI",
-    "tags": ["criação"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "GARRETT",
@@ -145,8 +207,14 @@
     "versiculoFim": 13,
     "texto": "Então disse Deus: \"Cubra-se a terra de vegetação [...]\" E assim foi. [...] E Deus viu que ficou bom.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "provisão"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação",
+      "provisão"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "observacao": "Único dia da criação em que \"e Deus viu que era bom\" aparece duas vezes no relato (v.10 e v.12).",
     "comentarios": [
       {
@@ -171,8 +239,14 @@
     "versiculoFim": 19,
     "texto": "Disse Deus: \"Haja luminares no firmamento do céu [...] Sirvam eles de sinais para marcar estações, dias e anos [...]\" Deus fez os dois grandes luminares [...] fez também as estrelas.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "propósito"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação",
+      "propósito"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "GARRETT",
@@ -197,8 +271,17 @@
     "versiculoFim": 28,
     "texto": "Então disse Deus: \"Façamos o homem à nossa imagem, conforme a nossa semelhança...\" Criou Deus o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou. Deus os abençoou e lhes disse: \"Sejam férteis e multipliquem-se! Encham e subjuguem a terra!...\"",
     "fonteTexto": "NVI",
-    "tags": ["criação", "identidade", "propósito", "Deus"],
-    "entidades": ["deus", "homem", "criacao"],
+    "tags": [
+      "criação",
+      "identidade",
+      "propósito",
+      "Deus"
+    ],
+    "entidades": [
+      "deus",
+      "homem",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "MOODY",
@@ -227,8 +310,14 @@
     "versiculoFim": 31,
     "texto": "E Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; esse foi o sexto dia.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "bondade de Deus"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação",
+      "bondade de Deus"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "comentarios": [
       {
         "fonte": "MOODY",
@@ -247,8 +336,15 @@
     "versiculoFim": 3,
     "texto": "Assim foram concluídos os céus e a terra, e tudo o que neles há. No sétimo dia Deus já havia concluído a obra que realizara, e nesse dia descansou. Abençoou Deus o sétimo dia e o santificou, porque nele descansou de toda a obra que realizara na criação.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "descanso", "sábado"],
-    "entidades": ["deus", "criacao"],
+    "tags": [
+      "criação",
+      "descanso",
+      "sábado"
+    ],
+    "entidades": [
+      "deus",
+      "criacao"
+    ],
     "observacao": "Primeiro item declarado \"santo\" em toda a Bíblia não é uma coisa, um lugar, um animal ou uma pessoa — é uma porção de tempo.",
     "comentarios": [
       {
@@ -275,8 +371,17 @@
     "versiculoFim": 7,
     "texto": "Então o SENHOR Deus formou o homem do pó da terra e soprou em suas narinas o fôlego de vida, e o homem se tornou um ser vivente.",
     "fonteTexto": "NVI",
-    "tags": ["criação", "Adão", "identidade"],
-    "entidades": ["deus", "adao", "eden", "homem"],
+    "tags": [
+      "criação",
+      "Adão",
+      "identidade"
+    ],
+    "entidades": [
+      "deus",
+      "adao",
+      "eden",
+      "homem"
+    ],
     "observacao": "Primeira aparição do nome composto \"SENHOR Deus\" (Yahweh + Elohim) — liga o Deus pessoal da aliança ao Criador de Gênesis 1. Três verbos em sequência: formou, soprou, o homem \"passou a ser\".",
     "comentarios": [
       {
@@ -298,8 +403,17 @@
     "versiculoFim": 18,
     "texto": "Então o SENHOR Deus declarou: \"Não é bom que o homem esteja só; farei para ele alguém que o auxilie e lhe corresponda\".",
     "fonteTexto": "NVI",
-    "tags": ["solidão", "casamento", "Adão"],
-    "entidades": ["deus", "adao", "mulher", "casamento"],
+    "tags": [
+      "solidão",
+      "casamento",
+      "Adão"
+    ],
+    "entidades": [
+      "deus",
+      "adao",
+      "mulher",
+      "casamento"
+    ],
     "observacao": "Primeira vez em Gênesis 1-2 que Deus declara algo \"não bom\" — contraste com o refrão \"e viu Deus que era bom\" do capítulo 1. Isso ocorre antes da queda.",
     "comentarios": [
       {
@@ -321,8 +435,17 @@
     "versiculoFim": 24,
     "texto": "Então o SENHOR Deus fez o homem cair em profundo sono e, enquanto este dormia, tirou-lhe uma das costelas, fechando o lugar com carne. Com a costela que havia tirado do homem, o SENHOR Deus fez uma mulher e a levou até ele. Disse então o homem: \"Esta, sim, é osso dos meus ossos e carne da minha carne! Ela será chamada mulher, porque do homem foi tirada\". Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, e eles se tornarão uma só carne.",
     "fonteTexto": "NVI",
-    "tags": ["casamento", "Adão", "mulher"],
-    "entidades": ["deus", "adao", "mulher", "casamento"],
+    "tags": [
+      "casamento",
+      "Adão",
+      "mulher"
+    ],
+    "entidades": [
+      "deus",
+      "adao",
+      "mulher",
+      "casamento"
+    ],
     "observacao": "A mulher é formada a partir do próprio corpo do homem (não do pó, como ele) — o texto enfatiza igualdade de natureza antes de estabelecer o padrão do casamento.",
     "comentarios": [
       {
@@ -345,8 +468,17 @@
     "versiculoFim": 7,
     "texto": "Quando a mulher viu que a árvore parecia agradável ao paladar, era atraente aos olhos e, além disso, desejável para dela se obter discernimento, tomou do seu fruto, comeu-o e o deu a seu marido, que comeu também. Os olhos dos dois se abriram, e perceberam que estavam nus; então juntaram folhas de figueira para cobrir-se.",
     "fonteTexto": "NVI",
-    "tags": ["queda", "vergonha", "culpa"],
-    "entidades": ["adao", "mulher", "serpente", "queda"],
+    "tags": [
+      "queda",
+      "vergonha",
+      "culpa"
+    ],
+    "entidades": [
+      "adao",
+      "mulher",
+      "serpente",
+      "queda"
+    ],
     "observacao": "Sequência de verbos rápida e direta: viu, tomou, comeu, deu. Nenhuma hesitação registrada depois da decisão. A primeira reação após o pecado não é medo de punição, é vergonha da própria nudez.",
     "comentarios": [
       {
@@ -367,8 +499,16 @@
     "versiculoFim": 9,
     "texto": "Mas o SENHOR Deus chamou o homem, perguntando: \"Onde está você?\"",
     "fonteTexto": "NVI",
-    "tags": ["queda", "busca de Deus", "graça"],
-    "entidades": ["deus", "adao", "queda"],
+    "tags": [
+      "queda",
+      "busca de Deus",
+      "graça"
+    ],
+    "entidades": [
+      "deus",
+      "adao",
+      "queda"
+    ],
     "observacao": "Deus pergunta sabendo a resposta — a pergunta não é informativa, é relacional. É Deus quem toma a iniciativa de ir atrás do homem escondido, não o contrário.",
     "comentarios": [
       {
@@ -390,8 +530,18 @@
     "versiculoFim": 15,
     "texto": "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela; este ferirá a sua cabeça, e você lhe ferirá o calcanhar.",
     "fonteTexto": "NVI",
-    "tags": ["queda", "esperança", "Jesus", "protoevangelho"],
-    "entidades": ["deus", "serpente", "mulher", "queda"],
+    "tags": [
+      "queda",
+      "esperança",
+      "Jesus",
+      "protoevangelho"
+    ],
+    "entidades": [
+      "deus",
+      "serpente",
+      "mulher",
+      "queda"
+    ],
     "observacao": "Ainda dentro da sentença de julgamento sobre a serpente, aparece a primeira promessa de vitória futura — antes de qualquer punição ser anunciada ao homem ou à mulher.",
     "comentarios": [
       {
@@ -412,8 +562,18 @@
     "versiculoFim": 24,
     "texto": "Então disse o SENHOR Deus: \"Agora o homem se tornou como um de nós, conhecendo o bem e o mal. Não se deve, pois, permitir que ele tome também do fruto da árvore da vida e o coma, e viva para sempre\". Por isso o SENHOR Deus o mandou embora do jardim do Éden [...] Depois de expulsar o homem, colocou a leste do jardim do Éden querubins e uma espada flamejante que se movia, guardando o caminho para a árvore da vida.",
     "fonteTexto": "NVI",
-    "tags": ["queda", "julgamento", "misericórdia"],
-    "entidades": ["deus", "adao", "mulher", "eden", "queda"],
+    "tags": [
+      "queda",
+      "julgamento",
+      "misericórdia"
+    ],
+    "entidades": [
+      "deus",
+      "adao",
+      "mulher",
+      "eden",
+      "queda"
+    ],
     "observacao": "A expulsão impede o acesso à árvore da vida — a consequência é apresentada como proteção contra algo pior (viver para sempre em estado caído), não só punição.",
     "comentarios": [
       {
@@ -435,8 +595,17 @@
     "versiculoFim": 7,
     "texto": "O SENHOR disse a Caim: \"Por que você está furioso? Por que se transtornou o seu rosto? Se você fizer o bem, não será aceito? Mas, se não o fizer, saiba que o pecado o ameaça à porta; ele deseja conquistá-lo, mas você deve dominá-lo\".",
     "fonteTexto": "NVI",
-    "tags": ["ira", "pecado", "escolha", "Caim"],
-    "entidades": ["deus", "caim", "abel"],
+    "tags": [
+      "ira",
+      "pecado",
+      "escolha",
+      "Caim"
+    ],
+    "entidades": [
+      "deus",
+      "caim",
+      "abel"
+    ],
     "observacao": "Deus fala com Caim antes de qualquer ato de violência acontecer — a advertência vem no estágio da emoção (ira), não depois do crime.",
     "comentarios": [
       {
@@ -457,8 +626,16 @@
     "versiculoFim": 9,
     "texto": "Então o SENHOR perguntou a Caim: \"Onde está seu irmão Abel?\" Respondeu ele: \"Não sei; sou eu o responsável por meu irmão?\"",
     "fonteTexto": "NVI",
-    "tags": ["Caim", "responsabilidade", "negação"],
-    "entidades": ["deus", "caim", "abel"],
+    "tags": [
+      "Caim",
+      "responsabilidade",
+      "negação"
+    ],
+    "entidades": [
+      "deus",
+      "caim",
+      "abel"
+    ],
     "observacao": "Paralelo direto com \"Onde estás?\" de 3:9 — mas aqui a resposta de Caim é hostil, não medrosa. Ele nega responsabilidade em vez de se esconder.",
     "comentarios": [
       {
@@ -479,8 +656,15 @@
     "versiculoFim": 15,
     "texto": "Mas o SENHOR lhe respondeu: \"Não será assim; se alguém matar Caim, sofrerá sete vezes a vingança\". E o SENHOR colocou em Caim um sinal, para que ninguém que viesse a encontrá-lo o matasse.",
     "fonteTexto": "NVI",
-    "tags": ["graça", "Caim", "misericórdia"],
-    "entidades": ["deus", "caim"],
+    "tags": [
+      "graça",
+      "Caim",
+      "misericórdia"
+    ],
+    "entidades": [
+      "deus",
+      "caim"
+    ],
     "observacao": "Mesmo após um assassinato confesso e uma resposta hostil (v.9), Deus ainda protege Caim — a proteção vem depois da culpa estabelecida, não antes.",
     "comentarios": [
       {
@@ -501,8 +685,20 @@
     "versiculoFim": 26,
     "texto": "Novamente Adão teve relações com sua mulher, e ela deu à luz outro filho, a quem chamou Sete, dizendo: \"Deus me concedeu um filho no lugar de Abel, visto que Caim o matou\". Também a Sete nasceu um filho, a quem deu o nome de Enos. Nessa época começou-se a invocar o nome do SENHOR.",
     "fonteTexto": "NVI",
-    "tags": ["Sete", "Enos", "esperança", "adoração"],
-    "entidades": ["adao", "mulher", "sete", "enos", "caim", "abel"],
+    "tags": [
+      "Sete",
+      "Enos",
+      "esperança",
+      "adoração"
+    ],
+    "entidades": [
+      "adao",
+      "mulher",
+      "sete",
+      "enos",
+      "caim",
+      "abel"
+    ],
     "observacao": "Depois da perda de Abel e da desgraça de Caim, a narrativa retoma esperança através de um terceiro filho — e é só nessa geração (Enos) que a adoração coletiva a Deus começa a acontecer.",
     "comentarios": [
       {
@@ -523,8 +719,16 @@
     "versiculoFim": 24,
     "texto": "Depois que gerou Matusalém, Enoque andou com Deus 300 anos e gerou outros filhos e filhas. [...] Enoque andou com Deus; e já não foi encontrado, pois Deus o havia arrebatado.",
     "fonteTexto": "NVI",
-    "tags": ["Enoque", "comunhão", "fé"],
-    "entidades": ["enoque", "sete", "deus"],
+    "tags": [
+      "Enoque",
+      "comunhão",
+      "fé"
+    ],
+    "entidades": [
+      "enoque",
+      "sete",
+      "deus"
+    ],
     "observacao": "No meio de uma lista repetitiva de nascimentos e mortes (\"viveu... gerou... morreu\"), a vida de Enoque quebra o padrão — é descrita em termos de relacionamento (\"andou com Deus\"), não só de biografia.",
     "comentarios": [
       {
@@ -534,6 +738,299 @@
       }
     ],
     "aplicacaoPastoral": "Bom exemplo de que é possível uma vida de comunhão genuína com Deus mesmo num contexto de decadência geral ao redor — não depende do ambiente, depende da caminhada pessoal.",
+    "videos": []
+  },
+  {
+    "id": "gen-6-1-8",
+    "ref": "Gênesis 6:1-8",
+    "livro": "genesis",
+    "capitulo": 6,
+    "versiculoInicio": 1,
+    "versiculoFim": 8,
+    "texto": "Quando os homens começaram a multiplicar-se na terra e lhes nasceram filhas, os filhos de Deus viram que as filhas dos homens eram bonitas, e escolheram para si aquelas que lhes agradaram. Então disse o SENHOR: \"Por causa da perversidade do homem, meu Espírito não contenderá com ele para sempre; ele só viverá cento e vinte anos\". Naqueles dias, havia nefilins na terra [...] Eles foram os heróis do passado, homens famosos. O SENHOR viu que a perversidade do homem tinha aumentado na terra [...] Então o SENHOR arrependeu-se de ter feito o homem sobre a terra, e isso cortou-lhe o coração. Disse o Senhor: \"Farei desaparecer da face da terra o homem que criei [...]\" A Noé, porém, o SENHOR mostrou benevolência.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "pecado",
+      "dilúvio",
+      "juízo",
+      "graça"
+    ],
+    "entidades": [
+      "deus",
+      "noe"
+    ],
+    "observacao": "Um dos trechos mais discutidos de Gênesis — a identidade dos \"filhos de Deus\" (benê 'Elohim) e dos \"nefilins\" não tem consenso entre intérpretes cristãos sérios.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "'Elohim é plural na forma, normalmente traduzido \"Deus\", mas pode indicar \"deuses\" ou o círculo celestial de seres em comunhão com Jeová (cf. Jó 1:6). A leitura mais fiel ao texto, na avaliação do comentário, é a de que seres do grupo celeste (anjos/mensageiros) tomaram mulheres terrestres à força (cf. 2 Pe 2:4; Jd 6) — mas essa leitura enfrenta a dificuldade de Mt 22:30 (anjos \"nem casam nem são dados em casamento\"). Outras leituras propostas: união entre a linhagem piedosa de Sete e os descendentes ímpios de Caim, ou casamento entre classes sociais diferentes. Quanto ao arrependimento de Deus (v.6): descreve o amor de Deus sofrendo desapontamento genuíno, não uma mudança de plano por surpresa.",
+        "nivelConfianca": "baixo"
+      }
+    ],
+    "aplicacaoPastoral": "Bom pra mostrar que o juízo de Deus sobre o pecado não é frieza — o texto descreve Deus \"com o coração cortado\" pela maldade humana, e mesmo assim preservando graça (Noé) no meio do juízo. Útil em conversas sobre a tensão entre justiça e misericórdia de Deus.",
+    "questoesEmAberto": "A identidade dos \"filhos de Deus\" e dos \"nefilins\" é genuinamente disputada — nenhuma das leituras propostas é isenta de dificuldades textuais. Bom não apresentar nenhuma delas como certeza absoluta.",
+    "videos": []
+  },
+  {
+    "id": "gen-6-9",
+    "ref": "Gênesis 6:9",
+    "livro": "genesis",
+    "capitulo": 6,
+    "versiculoInicio": 9,
+    "versiculoFim": 9,
+    "texto": "Esta é a história da família de Noé: Noé era homem justo, íntegro entre o povo da sua época; ele andava com Deus.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "Noé",
+      "integridade",
+      "comunhão"
+    ],
+    "entidades": [
+      "noe",
+      "deus"
+    ],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Três características de uma vida piedosa: justiça, pureza e santidade. Tsaddiq (\"justo\") descreve honestidade e honra no trato com outras pessoas (cf. Ez 14:14,20). Tamim (\"íntegro\") descreve o produto perfeito de um construtor sábio — inteiro, completo, imaculado. \"Ele andava com Deus\" liga Noé à mesma expressão usada de Enoque (Gn 5:22).",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Noé manteve integridade num contexto de corrupção generalizada — útil pra falar de fidelidade pessoal que não depende do ambiente ao redor.",
+    "videos": []
+  },
+  {
+    "id": "gen-6-14-22",
+    "ref": "Gênesis 6:14-22",
+    "livro": "genesis",
+    "capitulo": 6,
+    "versiculoInicio": 14,
+    "versiculoFim": 22,
+    "texto": "Você, porém, fará uma arca de madeira de cipreste [...] Eis que vou trazer águas sobre a terra, o Dilúvio, para destruir debaixo do céu toda criatura que tem fôlego de vida [...] Mas com você estabelecerei a minha aliança, e você entrará na arca com seus filhos, sua mulher e as mulheres de seus filhos. [...] Noé fez tudo exatamente como Deus lhe tinha ordenado.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "Noé",
+      "aliança",
+      "obediência",
+      "dilúvio"
+    ],
+    "entidades": [
+      "noe",
+      "deus"
+    ],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A arca (têbâ, provavelmente de origem egípcia) era uma espécie de jangada grande e coberta, com três andares — cerca de 13,85m de altura, 138,46m de comprimento e 23,08m de largura. Calafetada com betume por dentro e por fora. Durante os 120 anos de construção, Noé pregou ao povo buscando levá-lo ao arrependimento.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "interpretacao": "\"Noé fez tudo exatamente como Deus lhe tinha ordenado\" (v.22) é o resumo de uma obediência sustentada por décadas, sem confirmação visível de chuva ou dilúvio até o fim — fé de longo prazo, não decisão pontual.",
+    "aplicacaoPastoral": "Útil pra falar de obediência que precisa ser sustentada por muito tempo sem ver resultado imediato — Noé pregou e construiu por mais de um século antes de qualquer sinal do que anunciava.",
+    "videos": []
+  },
+  {
+    "id": "gen-7-11-12",
+    "ref": "Gênesis 7:11-12",
+    "livro": "genesis",
+    "capitulo": 7,
+    "versiculoInicio": 11,
+    "versiculoFim": 12,
+    "texto": "No dia em que Noé completou seiscentos anos, um mês e dezessete dias, nesse mesmo dia todas as fontes das grandes profundezas jorraram, e as comportas do céu se abriram. E a chuva caiu sobre a terra quarenta dias e quarenta noites.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "dilúvio",
+      "juízo"
+    ],
+    "entidades": [
+      "noe",
+      "deus"
+    ],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Enormes reservatórios de água estavam armazenados sob a terra — essa massa era chamada tehôm, \"o grande abismo\" (cf. Gn 1:2), confinada ali desde o segundo dia da criação. Baqa' (\"romperam-se\") indica uma convulsão terrestre que destruiu toda barreira restritiva — não foi uma enchente comum, mas uma gigantesca maré súbita. Além da sublevação vinda de baixo, abriram-se as comportas dos reservatórios de água acima da terra, derramando chuva continuamente por quarenta dias e quarenta noites.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Útil pra falar do tamanho real do juízo de Deus sobre o pecado quando alguém banaliza a ideia de consequência — o texto descreve algo de escala além da compreensão humana, não um evento administrável.",
+    "videos": []
+  },
+  {
+    "id": "gen-7-16-18",
+    "ref": "Gênesis 7:16-18",
+    "livro": "genesis",
+    "capitulo": 7,
+    "versiculoInicio": 16,
+    "versiculoFim": 18,
+    "texto": "Os animais que entraram foram um macho e uma fêmea de cada ser vivo, conforme Deus ordenara a Noé. Então o SENHOR fechou a porta. Quarenta dias durou o Dilúvio, e as águas aumentaram e elevaram a arca acima da terra. As águas prevaleceram, aumentando muito sobre a terra, e a arca flutuava na superfície das águas.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "dilúvio",
+      "proteção",
+      "graça"
+    ],
+    "entidades": [
+      "noe",
+      "deus"
+    ],
+    "observacao": "É Deus quem fecha a porta da arca (v.16), não Noé — o mesmo ato de fechar que protege quem está dentro é parte do mesmo evento que destrói quem está fora.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Jeová, o Deus da aliança, estendeu o braço da misericórdia e fechou a porta da arca pra guardar Seu povo em segurança, ao mesmo tempo em que derramava torrentes de água para destruir os pecadores — \"a mesma mão divina\" em ambos os atos. Os ocupantes da arca podiam viajar sobre as águas com senso de segurança porque confiavam em Deus. Gabar (\"predominaram\") indica poderio e sujeição — as águas foram assumindo controle até as mais altas montanhas ficarem submersas.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Bom pra ilustrar que segurança em meio à crise não vem de estar livre da tempestade, mas de estar dentro do lugar de proteção que Deus mesmo fechou — útil com quem sente medo em meio a circunstâncias que não controla.",
+    "videos": []
+  },
+  {
+    "id": "gen-8-4",
+    "ref": "Gênesis 8:4",
+    "livro": "genesis",
+    "capitulo": 8,
+    "versiculoInicio": 4,
+    "versiculoFim": 4,
+    "texto": "E, no décimo sétimo dia do sétimo mês, a arca pousou nas montanhas de Ararate.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "dilúvio",
+      "Noé"
+    ],
+    "entidades": [
+      "noe"
+    ],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Depois de 150 dias, a arca repousou sobre um dos picos de uma alta cordilheira na Armênia (Urartu, cognato acadiano de \"Ararate\"; o monte hoje chamado Ararate tem 5.204,92m). A Épica de Gilgamesh traz um relato babilônico paralelo de dilúvio, cujo herói também constrói uma arca, embarca animais e ancora numa montanha (Monte Nisir) depois da inundação.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "questoesEmAberto": "A existência de relatos de dilúvio em outras culturas antigas (como Gilgamesh) é citada sem entrar na discussão sobre o que isso implica pra historicidade — vale registrar como ponto a aprofundar se surgir fonte específica sobre comparação de relatos de dilúvio no antigo Oriente Próximo.",
+    "videos": []
+  },
+  {
+    "id": "gen-8-20",
+    "ref": "Gênesis 8:20",
+    "livro": "genesis",
+    "capitulo": 8,
+    "versiculoInicio": 20,
+    "versiculoFim": 20,
+    "texto": "Depois Noé construiu um altar dedicado ao SENHOR e, tomando alguns animais e aves puros, ofereceu-os como holocausto, queimando-os sobre o altar.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "adoração",
+      "gratidão",
+      "Noé"
+    ],
+    "entidades": [
+      "noe",
+      "deus"
+    ],
+    "observacao": "Primeiro altar mencionado na Bíblia é erguido não em pedido, mas em gratidão — a primeira ação de Noé ao sair da arca foi adorar, não reconstruir sua vida.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A coisa mais natural que Noé tinha a fazer, ao sair pra claridade do novo dia, foi encontrar terreno elevado pra edificar um mizbêah — reconhecendo o fim do juízo e o despontar de esperança. O holocausto ('ôlâ, \"subir\") sugere que a fumaça do sacrifício sobe a Deus, levando a gratidão do ofertante — um sacrifício verdadeiramente propiciatório, de sincera adoração. Deus foi agradado; Noé encontrou favor diante d'Ele.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Bom modelo pra depois de uma crise superada: o primeiro impulso pode ser adoração e gratidão, não só alívio ou retomada da rotina — Noé parou pra reconhecer a Deus antes de qualquer outra coisa.",
+    "videos": []
+  },
+  {
+    "id": "gen-9-9-15",
+    "ref": "Gênesis 9:9-15",
+    "livro": "genesis",
+    "capitulo": 9,
+    "versiculoInicio": 9,
+    "versiculoFim": 15,
+    "texto": "\"Vou estabelecer a minha aliança com vocês e com os seus futuros descendentes [...] Nunca mais será ceifada nenhuma forma de vida pelas águas de um dilúvio; nunca mais haverá dilúvio para destruir a terra\". E Deus prosseguiu: \"Este é o sinal da aliança [...] o meu arco que coloquei nas nuvens [...] então me lembrarei da minha aliança com vocês e com os seres vivos de todas as espécies.\"",
+    "fonteTexto": "NVI",
+    "tags": [
+      "aliança",
+      "graça",
+      "arco-íris"
+    ],
+    "entidades": [
+      "noe",
+      "deus"
+    ],
+    "observacao": "A aliança é feita não só com Noé e sua família, mas com \"todo ser vivo\" (v.10) e com \"todas as gerações futuras\" (v.12) — inclui toda a humanidade posterior, não apenas quem estava na arca.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A formação de uma aliança envolve a junção solene de duas partes até então livres de obrigações mútuas — a ligação de Deus com esse grupo familiar foi um ato voluntário de livre graça. Noé nada tinha que merecesse o relacionamento da aliança, e Deus não tinha obrigações para com ele. A aliança precisava de um sinal externo e visível como lembrete constante do acordo — o arco-íris ('ôt, \"sinal\"). É provável que o arco já existisse nas nuvens antes disso, e que a partir daquele momento tenha assumido um novo significado: certeza da graça e misericórdia de Deus, lembrete visível do Seu amor.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Um dos melhores textos pra falar de graça incondicional — a aliança não depende do mérito de Noé, é dada por livre iniciativa de Deus. Útil também com quem associa o arco-íris só a uma imagem estética: no texto, é um sinal concreto de compromisso divino de não repetir a destruição total.",
+    "videos": []
+  },
+  {
+    "id": "gen-9-18-19",
+    "ref": "Gênesis 9:18-19",
+    "livro": "genesis",
+    "capitulo": 9,
+    "versiculoInicio": 18,
+    "versiculoFim": 19,
+    "texto": "Os filhos de Noé que saíram da arca foram Sem, Cam e Jafé. Cam é o pai de Canaã. Esses foram os três filhos de Noé; a partir deles toda a terra foi povoada.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "Noé",
+      "povos",
+      "genealogia"
+    ],
+    "entidades": [
+      "noe",
+      "sem",
+      "cam",
+      "jafe",
+      "canaa"
+    ],
+    "observacao": "Este versículo introduz a divisão das \"três grandes famílias da humanidade\" (Sem, Cam, Jafé) que a tradição usa pra mapear os povos conhecidos do mundo antigo.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Sem foi o primeiro mencionado, ocupando lugar de liderança nos planos divinos — os semitas seriam os líderes espirituais dos povos, e o Messias viria através de sua linhagem. Jafé seria pai de um ramo gentio que se espalharia buscando lucro e poder material. Cam seria pai de outro ramo gentio (egípcios, etíopes, abissínios e afins); seu filho Canaã foi pai dos cananitas, mais tarde desalojados pelos hebreus.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "questoesEmAberto": "A fonte é explícita ao afastar qualquer uso da maldição de Canaã (Gn 9:25) como justificativa pra escravidão ou segregação racial — registro importante porque essa passagem foi historicamente distorcida com esse propósito.",
+    "videos": []
+  },
+  {
+    "id": "gen-10",
+    "ref": "Gênesis 10 (Tabela das Nações)",
+    "livro": "genesis",
+    "capitulo": 10,
+    "versiculoInicio": 1,
+    "versiculoFim": 32,
+    "texto": "Cuxe gerou também Ninrode, o primeiro homem poderoso na terra. Ele foi o mais valente dos caçadores [...] Dessa terra ele partiu para a Assíria, onde fundou Nínive [...] Sem foi o antepassado de todos os filhos de Héber.",
+    "fonteTexto": "NVI",
+    "tags": [
+      "povos",
+      "genealogia",
+      "história"
+    ],
+    "entidades": [
+      "noe",
+      "sem",
+      "cam",
+      "jafe",
+      "ninrode"
+    ],
+    "observacao": "O capítulo 10 mapeia os povos conhecidos do mundo antigo a partir dos três filhos de Noé — não é uma lista aleatória, é o pano de fundo geográfico e histórico de tudo que vem depois em Gênesis 11-50 (Babel, Abraão, os povos que Israel vai encontrar em Canaã).",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Ninrode (Cuxe, v.8-9) fundou o império babilônico e Nínive — depois centro do reino assírio sob Senaqueribe, Esaradom e Assurbanipal, alvo das profecias de Jonas e Naum. Os filisteus (v.14) deram nome à \"Palestina\" e foram \"espinho na carne\" dos israelitas por séculos. Os hititas (Hete, v.15) tiveram grande império (1600-700 a.C.) e testemunharam a compra da Caverna de Macpela por Abraão (Gn 23:8-10). Os \"filhos de Éber\" (v.21) dão origem ao termo \"hebreu\" — racial, diferente de \"israelita\", que é nacional. Arã (v.22) origina o povo aramaico. Sabá e Ofir (v.28-29) eram povos ricos em ouro e comércio — Ofir seria depois a origem de boa parte do ouro do Templo de Salomão.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "questoesEmAberto": "Localização exata de vários desses povos/lugares (Társis, Ofir, Sabá) não é consenso entre os estudiosos — a fonte apresenta as hipóteses mais aceitas, não certezas geográficas definitivas.",
     "videos": []
   }
 ]
