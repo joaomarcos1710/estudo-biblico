@@ -567,4 +567,41 @@ Noé manteve integridade num contexto de corrupção generalizada — útil pra 
 
 ---
 
+### Gênesis 7:11-12
+
+**Texto bíblico**
+> No dia em que Noé completou seiscentos anos, um mês e dezessete dias, nesse mesmo dia todas as fontes das grandes profundezas jorraram, e as comportas do céu se abriram. E a chuva caiu sobre a terra quarenta dias e quarenta noites.
+*Fonte: [NVI]*
+
+**Tags:** #dilúvio #juízo
+
+**O que dizem as fontes**
+- Enormes reservatórios de água estavam armazenados sob a terra — essa massa era chamada *tehôm*, "o grande abismo" (cf. Gn 1:2), confinada ali desde o segundo dia da criação. *Baqa'* ("romperam-se") indica uma convulsão terrestre que destruiu toda barreira restritiva — não foi uma enchente comum, mas uma gigantesca maré súbita. Além da sublevação vinda de baixo, abriram-se as comportas dos reservatórios de água acima da terra, derramando chuva continuamente por quarenta dias e quarenta noites.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Útil pra falar do tamanho real do juízo de Deus sobre o pecado quando alguém banaliza a ideia de consequência — o texto descreve algo de escala além da compreensão humana, não um evento administrável.
+
+---
+
+### Gênesis 7:16-18
+
+**Texto bíblico**
+> Os animais que entraram foram um macho e uma fêmea de cada ser vivo, conforme Deus ordenara a Noé. Então o SENHOR fechou a porta. Quarenta dias durou o Dilúvio, e as águas aumentaram e elevaram a arca acima da terra. As águas prevaleceram, aumentando muito sobre a terra, e a arca flutuava na superfície das águas.
+*Fonte: [NVI]*
+
+**Tags:** #dilúvio #proteção #graça
+
+**Observação**
+É Deus quem fecha a porta da arca (v.16), não Noé — o mesmo ato de fechar que protege quem está dentro é parte do mesmo evento que destrói quem está fora.
+
+**O que dizem as fontes**
+- Jeová, o Deus da aliança, estendeu o braço da misericórdia e fechou a porta da arca pra guardar Seu povo em segurança, ao mesmo tempo em que derramava torrentes de água para destruir os pecadores — "a mesma mão divina" em ambos os atos. Os ocupantes da arca podiam viajar sobre as águas com senso de segurança porque confiavam em Deus. *Gabar* ("predominaram") indica poderio e sujeição — as águas foram assumindo controle até as mais altas montanhas ficarem submersas.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom pra ilustrar que segurança em meio à crise não vem de estar livre da tempestade, mas de estar dentro do lugar de proteção que Deus mesmo fechou — útil com quem sente medo em meio a circunstâncias que não controla.
+
+---
+
 *(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*

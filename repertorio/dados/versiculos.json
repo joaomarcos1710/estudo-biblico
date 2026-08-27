@@ -601,5 +601,48 @@
     "interpretacao": "\"Noé fez tudo exatamente como Deus lhe tinha ordenado\" (v.22) é o resumo de uma obediência sustentada por décadas, sem confirmação visível de chuva ou dilúvio até o fim — fé de longo prazo, não decisão pontual.",
     "aplicacaoPastoral": "Útil pra falar de obediência que precisa ser sustentada por muito tempo sem ver resultado imediato — Noé pregou e construiu por mais de um século antes de qualquer sinal do que anunciava.",
     "videos": []
+  },
+  {
+    "id": "gen-7-11-12",
+    "ref": "Gênesis 7:11-12",
+    "livro": "genesis",
+    "capitulo": 7,
+    "versiculoInicio": 11,
+    "versiculoFim": 12,
+    "texto": "No dia em que Noé completou seiscentos anos, um mês e dezessete dias, nesse mesmo dia todas as fontes das grandes profundezas jorraram, e as comportas do céu se abriram. E a chuva caiu sobre a terra quarenta dias e quarenta noites.",
+    "fonteTexto": "NVI",
+    "tags": ["dilúvio", "juízo"],
+    "entidades": ["noe", "deus"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Enormes reservatórios de água estavam armazenados sob a terra — essa massa era chamada tehôm, \"o grande abismo\" (cf. Gn 1:2), confinada ali desde o segundo dia da criação. Baqa' (\"romperam-se\") indica uma convulsão terrestre que destruiu toda barreira restritiva — não foi uma enchente comum, mas uma gigantesca maré súbita. Além da sublevação vinda de baixo, abriram-se as comportas dos reservatórios de água acima da terra, derramando chuva continuamente por quarenta dias e quarenta noites.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Útil pra falar do tamanho real do juízo de Deus sobre o pecado quando alguém banaliza a ideia de consequência — o texto descreve algo de escala além da compreensão humana, não um evento administrável.",
+    "videos": []
+  },
+  {
+    "id": "gen-7-16-18",
+    "ref": "Gênesis 7:16-18",
+    "livro": "genesis",
+    "capitulo": 7,
+    "versiculoInicio": 16,
+    "versiculoFim": 18,
+    "texto": "Os animais que entraram foram um macho e uma fêmea de cada ser vivo, conforme Deus ordenara a Noé. Então o SENHOR fechou a porta. Quarenta dias durou o Dilúvio, e as águas aumentaram e elevaram a arca acima da terra. As águas prevaleceram, aumentando muito sobre a terra, e a arca flutuava na superfície das águas.",
+    "fonteTexto": "NVI",
+    "tags": ["dilúvio", "proteção", "graça"],
+    "entidades": ["noe", "deus"],
+    "observacao": "É Deus quem fecha a porta da arca (v.16), não Noé — o mesmo ato de fechar que protege quem está dentro é parte do mesmo evento que destrói quem está fora.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Jeová, o Deus da aliança, estendeu o braço da misericórdia e fechou a porta da arca pra guardar Seu povo em segurança, ao mesmo tempo em que derramava torrentes de água para destruir os pecadores — \"a mesma mão divina\" em ambos os atos. Os ocupantes da arca podiam viajar sobre as águas com senso de segurança porque confiavam em Deus. Gabar (\"predominaram\") indica poderio e sujeição — as águas foram assumindo controle até as mais altas montanhas ficarem submersas.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Bom pra ilustrar que segurança em meio à crise não vem de estar livre da tempestade, mas de estar dentro do lugar de proteção que Deus mesmo fechou — útil com quem sente medo em meio a circunstâncias que não controla.",
+    "videos": []
   }
 ]
