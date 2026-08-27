@@ -86,6 +86,10 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - "No princípio... Deus" responde a duas perguntas: "quem fez todas as coisas?" e "quem é anterior e maior que todas as coisas?". O céu e a terra não são Deus nem deuses, nem Deus é igual à natureza — Deus é o Criador, a natureza é Seu trabalho manual. Embora feita por Deus, a terra ainda não estava pronta pro homem (v.2): desordem, sem forma, vazia, sem luz — mas já havia atividade, o Espírito de Deus se movendo sobre as águas.
 *Fonte: [BEACON]*
 
+**Vídeos:**
+- LOPES, Hernandes Dias. *Como entender Gênesis e fortalecer sua fé cristã* — mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros. Disponível em: https://www.youtube.com/watch?v=0z_s46fPfBU
+*Fonte: [HDL-GEN1]*
+
 ### Gênesis 1:2
 > Era a terra sem forma e vazia; trevas cobriam a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
 *Fonte: [NVI]*
@@ -98,6 +102,10 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 - "Sem forma e vazia" (*tohu v'vohu*) — mesma expressão usada só mais uma vez na Bíblia, em Jeremias 4:23, descrevendo juízo. *Rúâh* ("Espírito") pode significar "vento", mas "Espírito" faz mais sentido no contexto e paralela João 3. Aplicação: se o Espírito pairava sobre a criação então, ainda paira sobre ela agora — Deus continua presente e dirigindo Sua criação.
 *Fonte: [GARRETT]*
+
+**Vídeos:**
+- LOPES, Hernandes Dias. *Como entender Gênesis e fortalecer sua fé cristã* — mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros. Disponível em: https://www.youtube.com/watch?v=0z_s46fPfBU
+*Fonte: [HDL-GEN1]*
 
 ### Gênesis 1:3-5
 > Disse Deus: "Haja luz", e houve luz. [...] Deus chamou à luz dia, e às trevas chamou noite. Passaram-se a tarde e a manhã; esse foi o primeiro dia.
@@ -117,6 +125,10 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 
 **Questões em aberto**
 Moody e Garrett discordam sobre se "dia" em Gênesis 1 é literal (24h) ou não — reflexo de um debate real e não resolvido entre cristãos que levam o texto a sério (não é questão de "quem tem mais fé", é diferença de leitura exegética/científica genuína). Bom não apresentar nenhum dos dois lados como o único cristianismo legítimo.
+
+**Vídeos:**
+- LOPES, Hernandes Dias. *Como entender Gênesis e fortalecer sua fé cristã* — mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros. Disponível em: https://www.youtube.com/watch?v=0z_s46fPfBU
+*Fonte: [HDL-GEN1]*
 
 ### Gênesis 1:6-8
 
