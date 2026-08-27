@@ -51,6 +51,19 @@ AUTOR. Título: subtítulo. Local: Editora, ano. E-book. Disponível em: [link].
 TÍTULO DA PÁGINA. Local: Instituição responsável, ano. Disponível em: [link]. Acesso em: [data].
 ```
 
+## Formato de citação de conteúdo vindo de vídeo/mensagem pastoral
+
+Diferente de um comentário escrito, o conteúdo extraído de um vídeo (sermão, mensagem, palestra) é sempre apresentado dizendo quem falou, quando e onde, antes da citação — nunca como um comentário genérico "achatado". Formato padrão:
+
+```markdown
+Mensagem do pastor/pregador NOME, pregada em DATA (local/igreja, se houver) — ele disse: "trecho citado".
+*Fonte: [CÓDIGO]*
+```
+
+Exemplo real:
+> Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "bará é um verbo específico que só pode ser usado para Deus [...] é aquilo que os teólogos chamam de ex nihilo, criar sem matéria preexistente, criar do nada."
+*Fonte: [HDL-GEN1]*
+
 Sempre que eu cadastrar uma fonte nova, preencho o modelo certo acima e adiciono a linha na tabela — sem precisar você pedir.
 
 ## Formato de citação nos arquivos

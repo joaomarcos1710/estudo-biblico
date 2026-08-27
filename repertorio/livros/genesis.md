@@ -86,8 +86,8 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - "No princípio... Deus" responde a duas perguntas: "quem fez todas as coisas?" e "quem é anterior e maior que todas as coisas?". O céu e a terra não são Deus nem deuses, nem Deus é igual à natureza — Deus é o Criador, a natureza é Seu trabalho manual. Embora feita por Deus, a terra ainda não estava pronta pro homem (v.2): desordem, sem forma, vazia, sem luz — mas já havia atividade, o Espírito de Deus se movendo sobre as águas.
 *Fonte: [BEACON]*
 
-**Vídeos:**
-- LOPES, Hernandes Dias. *Como entender Gênesis e fortalecer sua fé cristã* — mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros. Disponível em: https://www.youtube.com/watch?v=0z_s46fPfBU
+**Vídeos**
+Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "quando Deus usa o verbo *bará*, está se referindo a uma obra criadora sem matéria pré-existente — é aquilo que os teólogos chamam de *ex nihilo*, criar sem matéria preexistente, criar do nada [...] este universo foi criado por Deus sem qualquer matéria pré-existente." Também destacou que "no princípio criou Deus os céus e a terra" nega, ao mesmo tempo, o ateísmo, o politeísmo (*Elohim* é plural na forma, mas o verbo "criou" vem no singular — um só Deus em três pessoas) e o panteísmo (o Criador existia antes da criação, logo é eterno, diferente da criatura). Ver transcrição completa em [hdl-como-entender-genesis.md](../fontes/videos/hdl-como-entender-genesis.md).
 *Fonte: [HDL-GEN1]*
 
 ### Gênesis 1:2
@@ -103,8 +103,8 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 - "Sem forma e vazia" (*tohu v'vohu*) — mesma expressão usada só mais uma vez na Bíblia, em Jeremias 4:23, descrevendo juízo. *Rúâh* ("Espírito") pode significar "vento", mas "Espírito" faz mais sentido no contexto e paralela João 3. Aplicação: se o Espírito pairava sobre a criação então, ainda paira sobre ela agora — Deus continua presente e dirigindo Sua criação.
 *Fonte: [GARRETT]*
 
-**Vídeos:**
-- LOPES, Hernandes Dias. *Como entender Gênesis e fortalecer sua fé cristã* — mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros. Disponível em: https://www.youtube.com/watch?v=0z_s46fPfBU
+**Vídeos**
+Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "o Espírito de Deus pairava... sobre as águas — e essa palavra 'pairar' é a mesma palavra usada para uma ave que está chocando os seus ovos, energizando-os para dar vida. É o Espírito de Deus que dá vida [...] o homem, com toda a ciência, fabrica um grão de feijão [...] mas o homem não consegue colocar vida ali dentro, porque vida só procede de vida." Também apontou o versículo 2 como referência ao Deus Espírito Santo atuando na criação, ao lado do Pai (v.1) e do Filho/Verbo (v.3) — as três pessoas da Trindade presentes já nos primeiros três versículos da Bíblia. Ver transcrição completa em [hdl-como-entender-genesis.md](../fontes/videos/hdl-como-entender-genesis.md).
 *Fonte: [HDL-GEN1]*
 
 ### Gênesis 1:3-5
@@ -126,8 +126,8 @@ Livro das origens: criação, queda, dilúvio, povos, e os patriarcas (Abraão, 
 **Questões em aberto**
 Moody e Garrett discordam sobre se "dia" em Gênesis 1 é literal (24h) ou não — reflexo de um debate real e não resolvido entre cristãos que levam o texto a sério (não é questão de "quem tem mais fé", é diferença de leitura exegética/científica genuína). Bom não apresentar nenhum dos dois lados como o único cristianismo legítimo.
 
-**Vídeos:**
-- LOPES, Hernandes Dias. *Como entender Gênesis e fortalecer sua fé cristã* — mensagem sobre Gênesis 1:1-3, pregada na Igreja Presbiteriana de Pinheiros. Disponível em: https://www.youtube.com/watch?v=0z_s46fPfBU
+**Vídeos**
+Mensagem do pastor Hernandes Dias Lopes, pregada na Igreja Presbiteriana de Pinheiros (publicada no YouTube em 30 maio 2025) — ele disse: "'disse Deus: haja luz, e houve luz.' Deus cria pela palavra, pela palavra do seu poder [...] o agente da criação é a segunda pessoa da Trindade — 'todas as coisas foram feitas por intermédio dele, as visíveis e as invisíveis' [Cl 1:16]." Sobre a "teoria do hiato" (que colocaria uma queda de Satanás e milhões de anos entre os v.1 e v.3), ele foi enfático: "não há qualquer amparo bíblico, exegético para ancorarmos essa teoria [...] toda a criação foi começada e concluída [n]uma semana de seis dias." Ver transcrição completa em [hdl-como-entender-genesis.md](../fontes/videos/hdl-como-entender-genesis.md).
 *Fonte: [HDL-GEN1]*
 
 ### Gênesis 1:6-8
