@@ -661,4 +661,24 @@ Um dos melhores textos pra falar de graça incondicional — a aliança não dep
 
 ---
 
+### Gênesis 9:18-19
+
+**Texto bíblico**
+> Os filhos de Noé que saíram da arca foram Sem, Cam e Jafé. Cam é o pai de Canaã. Esses foram os três filhos de Noé; a partir deles toda a terra foi povoada.
+*Fonte: [NVI]*
+
+**Tags:** #Noé #povos #genealogia
+
+**Observação**
+Este versículo introduz a divisão das "três grandes famílias da humanidade" (Sem, Cam, Jafé) que a tradição usa pra mapear os povos conhecidos do mundo antigo.
+
+**O que dizem as fontes**
+- Sem foi o primeiro mencionado, ocupando lugar de liderança nos planos divinos — os semitas seriam os líderes espirituais dos povos, e o Messias viria através de sua linhagem. Jafé seria pai de um ramo gentio que se espalharia buscando lucro e poder material. Cam seria pai de outro ramo gentio (egípcios, etíopes, abissínios e afins); seu filho Canaã foi pai dos cananitas, mais tarde desalojados pelos hebreus.
+*Fonte: [MOODY]*
+
+**Questões em aberto**
+A fonte é explícita ao afastar qualquer uso da maldição de Canaã (Gn 9:25, adiante no capítulo) como justificativa pra escravidão ou segregação racial — registro importante porque essa passagem foi historicamente distorcida com esse propósito. Ao processar o versículo da maldição em si (9:25), reforçar essa mesma ressalva.
+
+---
+
 *(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*

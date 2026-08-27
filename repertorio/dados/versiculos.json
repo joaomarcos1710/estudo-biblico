@@ -709,5 +709,27 @@
     ],
     "aplicacaoPastoral": "Um dos melhores textos pra falar de graça incondicional — a aliança não depende do mérito de Noé, é dada por livre iniciativa de Deus. Útil também com quem associa o arco-íris só a uma imagem estética: no texto, é um sinal concreto de compromisso divino de não repetir a destruição total.",
     "videos": []
+  },
+  {
+    "id": "gen-9-18-19",
+    "ref": "Gênesis 9:18-19",
+    "livro": "genesis",
+    "capitulo": 9,
+    "versiculoInicio": 18,
+    "versiculoFim": 19,
+    "texto": "Os filhos de Noé que saíram da arca foram Sem, Cam e Jafé. Cam é o pai de Canaã. Esses foram os três filhos de Noé; a partir deles toda a terra foi povoada.",
+    "fonteTexto": "NVI",
+    "tags": ["Noé", "povos", "genealogia"],
+    "entidades": ["noe", "sem", "cam", "jafe", "canaa"],
+    "observacao": "Este versículo introduz a divisão das \"três grandes famílias da humanidade\" (Sem, Cam, Jafé) que a tradição usa pra mapear os povos conhecidos do mundo antigo.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Sem foi o primeiro mencionado, ocupando lugar de liderança nos planos divinos — os semitas seriam os líderes espirituais dos povos, e o Messias viria através de sua linhagem. Jafé seria pai de um ramo gentio que se espalharia buscando lucro e poder material. Cam seria pai de outro ramo gentio (egípcios, etíopes, abissínios e afins); seu filho Canaã foi pai dos cananitas, mais tarde desalojados pelos hebreus.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "questoesEmAberto": "A fonte é explícita ao afastar qualquer uso da maldição de Canaã (Gn 9:25) como justificativa pra escravidão ou segregação racial — registro importante porque essa passagem foi historicamente distorcida com esse propósito.",
+    "videos": []
   }
 ]
