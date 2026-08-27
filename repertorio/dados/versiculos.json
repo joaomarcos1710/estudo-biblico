@@ -731,5 +731,27 @@
     ],
     "questoesEmAberto": "A fonte é explícita ao afastar qualquer uso da maldição de Canaã (Gn 9:25) como justificativa pra escravidão ou segregação racial — registro importante porque essa passagem foi historicamente distorcida com esse propósito.",
     "videos": []
+  },
+  {
+    "id": "gen-10",
+    "ref": "Gênesis 10 (Tabela das Nações)",
+    "livro": "genesis",
+    "capitulo": 10,
+    "versiculoInicio": 1,
+    "versiculoFim": 32,
+    "texto": "Cuxe gerou também Ninrode, o primeiro homem poderoso na terra. Ele foi o mais valente dos caçadores [...] Dessa terra ele partiu para a Assíria, onde fundou Nínive [...] Sem foi o antepassado de todos os filhos de Héber.",
+    "fonteTexto": "NVI",
+    "tags": ["povos", "genealogia", "história"],
+    "entidades": ["noe", "sem", "cam", "jafe", "ninrode"],
+    "observacao": "O capítulo 10 mapeia os povos conhecidos do mundo antigo a partir dos três filhos de Noé — não é uma lista aleatória, é o pano de fundo geográfico e histórico de tudo que vem depois em Gênesis 11-50 (Babel, Abraão, os povos que Israel vai encontrar em Canaã).",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Ninrode (Cuxe, v.8-9) fundou o império babilônico e Nínive — depois centro do reino assírio sob Senaqueribe, Esaradom e Assurbanipal, alvo das profecias de Jonas e Naum. Os filisteus (v.14) deram nome à \"Palestina\" e foram \"espinho na carne\" dos israelitas por séculos. Os hititas (Hete, v.15) tiveram grande império (1600-700 a.C.) e testemunharam a compra da Caverna de Macpela por Abraão (Gn 23:8-10). Os \"filhos de Éber\" (v.21) dão origem ao termo \"hebreu\" — racial, diferente de \"israelita\", que é nacional. Arã (v.22) origina o povo aramaico. Sabá e Ofir (v.28-29) eram povos ricos em ouro e comércio — Ofir seria depois a origem de boa parte do ouro do Templo de Salomão.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "questoesEmAberto": "Localização exata de vários desses povos/lugares (Társis, Ofir, Sabá) não é consenso entre os estudiosos — a fonte apresenta as hipóteses mais aceitas, não certezas geográficas definitivas.",
+    "videos": []
   }
 ]

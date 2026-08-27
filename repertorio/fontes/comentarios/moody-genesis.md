@@ -205,3 +205,25 @@ A referência ao casamento dos *benê 'Elohim* com as filhas dos homens tem sido
 A aliança precisava de um sinal externo e visível que servisse de lembrete constante do acordo sagrado. Esse sinal (*'ôt*) seria um penhor do laço espiritual interior, garantindo sua segurança eterna. O tempo perfeito do hebraico pode ser traduzido "Eu estabeleci" ou "Neste momento estabeleço". O arco nas nuvens seria o "sinal" — Deus poderia ter criado o arco-íris naquele momento, investindo-o desse significado; é provável, no entanto, que o arco já existisse nas nuvens, e que a partir daquele momento tenha assumido um novo significado, dando certeza da graça e misericórdia de Deus, um lembrete visível do Seu amor. Ele disse: "Então me lembrarei" (v.15).
 
 **v.18 — "Sem, Cão e Jafé".** O autor esclarece que esses três filhos de Noé foram os pais das três grandes famílias da humanidade. Sem foi o primeiro mencionado, ocupando o lugar de liderança e destaque nos planos divinos para os povos — os semitas seriam os líderes espirituais dos homens, e os escolhidos de Deus dentro dessa linhagem ensinariam a religião de Jeová ao mundo; sabemos que o Messias viria através dos descendentes de Sem. Jafé seria o pai de um grande ramo do mundo gentio, cujos descendentes se espalhariam por toda parte em busca de lucro e poder material — prósperos e excessivamente poderosos. Cão seria o pai de outro ramo dos gentios, incluindo egípcios, etíopes, abissínios e grupos afins; seu filho Canaã foi o pai dos cananitas, habitantes de Canaã mais tarde desalojados pelos hebreus. A maldição pronunciada sobre Canaã por Noé não foi, de maneira nenhuma, destinada a ser prova textual de escravidão ou segregação racial.
+
+### Gênesis 10 — A Tabela das Nações (notas geográficas e históricas)
+
+**v.4 — Társis.** A famosa cidade espanhola procurada pelos comerciantes fenícios; séculos mais tarde, o profeta Jonas tomou um navio com destino a essa cidade distante. Os gregos a chamavam de Tartessus.
+
+**v.6 — Mizraim.** A palavra hebraica correta para o Egito, incluindo as divisões inferior e superior daquela terra. As duas capitais do Egito foram Mênfis e Tebas.
+
+**v.8,9 — Ninrode, filho de Cuxe.** Fundou o antigo império babilônico e edificou a cidade de Nínive. Foi um grandioso caçador e notável líder de exércitos; seu poder se estendeu sobre as cidades da Mesopotâmia.
+
+**v.11,12 — Nínive.** Conhecida desde 2800 a.C., foi o centro do poderoso reino assírio, que alcançou suas alturas sob o governo de Senaqueribe, Esaradom e Assurbanipal. Estava situada sobre o rio Tigre, cerca de 250 milhas da cidade de Babilônia. Foi contra essa fortaleza que Jonas e Naum dirigiram suas profecias.
+
+**v.14 — Os filisteus.** Recebem o crédito de ter dado seu nome à terra da "Palestina". Amós e Jeremias referem-se a eles como vindos de Caftor. Suas cinco principais cidades eram Asdode, Asquelom, Gaza, Gate e Ecrom. Foram, durante séculos, um espinho na carne dos israelitas.
+
+**v.15 — Hete.** Ancestral dos hititas, cujo grande império dominou de 1600 a 700 a.C. As principais cidades hititas foram Carquemis, sobre o Eufrates, e Cades, sobre o Orontes. Esses povos se estabeleceram nas cercanias de Hebrom e testemunharam a compra que Abraão fez da Caverna de Macpela, que pertencia a Efrom (23:8-10). Esaú se casou com uma mulher dessa tribo. Os hititas são encontrados nas inscrições assírias e egípcias, e a arqueologia já recuperou restos valiosos da civilização desse poderoso império.
+
+**v.21 — Os filhos de Éber.** Compreendiam muitos e diferentes grupos entre os filhos de Sem. O nome Éber é associado à palavra "hebreu", nome pelo qual os israelitas foram conhecidos por outros povos — os que possuíam o conhecimento do verdadeiro Deus. O termo "hebreu" é racial, enquanto "israelita" é nacional; mais tarde essas palavras se tornaram sinônimas.
+
+**v.22 — Arã.** O povo aramaico, formando o grupo em torno de e incluindo Damasco. Destacaram-se na história do povo de Israel. A língua aramaica tornou-se a língua comercial e diplomática, deslocando gradualmente o hebraico até que, no tempo de Jesus, o aramaico era a língua usada na conversa e na escrita.
+
+**v.28 — Sabá.** Frequentemente mencionada no A.T., indicando um povo rico cuja principal ocupação era a extração de ouro, perfumes e pedras preciosas para exportar à Palestina e ao Egito. São identificados com os sabeus, que se destacavam no comércio e nas realizações governamentais. A rainha de Sabá é a mais famosa figura desse povo, entre os interesses dos estudiosos da Bíblia.
+
+**v.29 — Ofir.** Famosa por seu ouro fino. Salomão enviou seus homens, sob a direção de Hirão, para extraí-lo e transportá-lo à Palestina; além do ouro, descobriram metais e pedras preciosas em grandes quantidades, e o reino de Salomão passou a rivalizar com as terras vizinhas em riqueza. Ofir era provavelmente um porto marítimo no litoral da Arábia, embora também tenha sido localizado na distante foz do Indo. Grande parte do ouro que revestia o Templo de Salomão veio de Ofir.

@@ -681,4 +681,24 @@ A fonte é explícita ao afastar qualquer uso da maldição de Canaã (Gn 9:25, 
 
 ---
 
+### Gênesis 10 — A Tabela das Nações
+
+**Texto bíblico**
+> Cuxe gerou também Ninrode, o primeiro homem poderoso na terra. Ele foi o mais valente dos caçadores [...] Dessa terra ele partiu para a Assíria, onde fundou Nínive [...] Sem foi o antepassado de todos os filhos de Héber.
+*Fonte: [NVI]*
+
+**Tags:** #povos #genealogia #história
+
+**Observação**
+O capítulo 10 mapeia os povos conhecidos do mundo antigo a partir dos três filhos de Noé — não é uma lista aleatória, é o pano de fundo geográfico e histórico de tudo que vem depois em Gênesis 11-50 (Babel, Abraão, os povos que Israel vai encontrar em Canaã).
+
+**O que dizem as fontes**
+- Ninrode (Cuxe, v.8-9) fundou o império babilônico e Nínive — depois centro do reino assírio sob Senaqueribe, Esaradom e Assurbanipal, alvo das profecias de Jonas e Naum. Os filisteus (v.14) deram nome à "Palestina" e foram "espinho na carne" dos israelitas por séculos. Os hititas (Hete, v.15) tiveram grande império (1600-700 a.C.) e testemunharam a compra da Caverna de Macpela por Abraão (Gn 23:8-10); Esaú se casaria com uma mulher dessa tribo. Os "filhos de Éber" (v.21) dão origem ao termo "hebreu" — racial, diferente de "israelita", que é nacional (mais tarde os termos se tornam sinônimos). Arã (v.22) origina o povo aramaico, cuja língua acabaria substituindo o hebraico como língua falada no tempo de Jesus. Sabá e Ofir (v.28-29) eram povos ricos em ouro e comércio — Ofir seria depois a origem de boa parte do ouro do Templo de Salomão.
+*Fonte: [MOODY]*
+
+**Questões em aberto**
+Localização exata de vários desses povos/lugares (Társis, Ofir, Sabá) não é consenso entre os estudiosos — a fonte apresenta as hipóteses mais aceitas, não certezas geográficas definitivas.
+
+---
+
 *(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*
