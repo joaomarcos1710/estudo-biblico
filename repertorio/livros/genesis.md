@@ -604,4 +604,41 @@ Bom pra ilustrar que segurança em meio à crise não vem de estar livre da temp
 
 ---
 
+### Gênesis 8:4
+
+**Texto bíblico**
+> E, no décimo sétimo dia do sétimo mês, a arca pousou nas montanhas de Ararate.
+*Fonte: [NVI]*
+
+**Tags:** #dilúvio #Noé
+
+**O que dizem as fontes**
+- Depois de 150 dias, a arca repousou sobre um dos picos de uma alta cordilheira na Armênia (*Urartu*, cognato acadiano de "Ararate"; o monte hoje chamado Ararate tem 5.204,92m). A Épica de Gilgamesh traz um relato babilônico paralelo de dilúvio, cujo herói também constrói uma arca, embarca animais e ancora numa montanha (Monte Nisir) depois da inundação.
+*Fonte: [MOODY]*
+
+**Questões em aberto**
+A existência de relatos de dilúvio em outras culturas antigas (como Gilgamesh) é citada sem entrar na discussão sobre o que isso implica pra historicidade — vale registrar como ponto a aprofundar se surgir fonte específica sobre comparação de relatos de dilúvio no antigo Oriente Próximo.
+
+---
+
+### Gênesis 8:20
+
+**Texto bíblico**
+> Depois Noé construiu um altar dedicado ao SENHOR e, tomando alguns animais e aves puros, ofereceu-os como holocausto, queimando-os sobre o altar.
+*Fonte: [NVI]*
+
+**Tags:** #adoração #gratidão #Noé
+
+**Observação**
+Primeiro altar mencionado na Bíblia é erguido não em pedido, mas em gratidão — a primeira ação de Noé ao sair da arca foi adorar, não reconstruir sua vida.
+
+**O que dizem as fontes**
+- A coisa mais natural que Noé tinha a fazer, ao sair pra claridade do novo dia, foi encontrar terreno elevado pra edificar um *mizbêah* — reconhecendo o fim do juízo e o despontar de esperança. O holocausto (*'ôlâ*, "subir") sugere que a fumaça do sacrifício sobe a Deus, levando a gratidão do ofertante — um sacrifício verdadeiramente propiciatório, de sincera adoração. Deus foi agradado; Noé encontrou favor diante d'Ele.
+*Fonte: [MOODY]*
+
+**Aplicação pastoral**
+Bom modelo pra depois de uma crise superada: o primeiro impulso pode ser adoração e gratidão, não só alívio ou retomada da rotina — Noé parou pra reconhecer a Deus antes de qualquer outra coisa.
+
+---
+
 *(continue apontando versículos-chave dos próximos capítulos, ou mande o próximo trecho do Moody que eu extraio e organizo.)*

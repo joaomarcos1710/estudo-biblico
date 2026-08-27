@@ -644,5 +644,48 @@
     ],
     "aplicacaoPastoral": "Bom pra ilustrar que segurança em meio à crise não vem de estar livre da tempestade, mas de estar dentro do lugar de proteção que Deus mesmo fechou — útil com quem sente medo em meio a circunstâncias que não controla.",
     "videos": []
+  },
+  {
+    "id": "gen-8-4",
+    "ref": "Gênesis 8:4",
+    "livro": "genesis",
+    "capitulo": 8,
+    "versiculoInicio": 4,
+    "versiculoFim": 4,
+    "texto": "E, no décimo sétimo dia do sétimo mês, a arca pousou nas montanhas de Ararate.",
+    "fonteTexto": "NVI",
+    "tags": ["dilúvio", "Noé"],
+    "entidades": ["noe"],
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "Depois de 150 dias, a arca repousou sobre um dos picos de uma alta cordilheira na Armênia (Urartu, cognato acadiano de \"Ararate\"; o monte hoje chamado Ararate tem 5.204,92m). A Épica de Gilgamesh traz um relato babilônico paralelo de dilúvio, cujo herói também constrói uma arca, embarca animais e ancora numa montanha (Monte Nisir) depois da inundação.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "questoesEmAberto": "A existência de relatos de dilúvio em outras culturas antigas (como Gilgamesh) é citada sem entrar na discussão sobre o que isso implica pra historicidade — vale registrar como ponto a aprofundar se surgir fonte específica sobre comparação de relatos de dilúvio no antigo Oriente Próximo.",
+    "videos": []
+  },
+  {
+    "id": "gen-8-20",
+    "ref": "Gênesis 8:20",
+    "livro": "genesis",
+    "capitulo": 8,
+    "versiculoInicio": 20,
+    "versiculoFim": 20,
+    "texto": "Depois Noé construiu um altar dedicado ao SENHOR e, tomando alguns animais e aves puros, ofereceu-os como holocausto, queimando-os sobre o altar.",
+    "fonteTexto": "NVI",
+    "tags": ["adoração", "gratidão", "Noé"],
+    "entidades": ["noe", "deus"],
+    "observacao": "Primeiro altar mencionado na Bíblia é erguido não em pedido, mas em gratidão — a primeira ação de Noé ao sair da arca foi adorar, não reconstruir sua vida.",
+    "comentarios": [
+      {
+        "fonte": "MOODY",
+        "texto": "A coisa mais natural que Noé tinha a fazer, ao sair pra claridade do novo dia, foi encontrar terreno elevado pra edificar um mizbêah — reconhecendo o fim do juízo e o despontar de esperança. O holocausto ('ôlâ, \"subir\") sugere que a fumaça do sacrifício sobe a Deus, levando a gratidão do ofertante — um sacrifício verdadeiramente propiciatório, de sincera adoração. Deus foi agradado; Noé encontrou favor diante d'Ele.",
+        "nivelConfianca": "alto"
+      }
+    ],
+    "aplicacaoPastoral": "Bom modelo pra depois de uma crise superada: o primeiro impulso pode ser adoração e gratidão, não só alívio ou retomada da rotina — Noé parou pra reconhecer a Deus antes de qualquer outra coisa.",
+    "videos": []
   }
 ]
