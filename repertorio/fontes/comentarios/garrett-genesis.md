@@ -1,6 +1,6 @@
 # Genesis: A Verse-By-Verse Study — Pastor Charlie Garrett
 
-*Fonte: [GARRETT]* — ver registro em [`_BIBLIOTECA.md`](_BIBLIOTECA.md). Original em inglês; resumo/tradução do trecho abaixo feita para uso no repertório.
+*Fonte: [GARRETT]* — ver registro em [`_BIBLIOTECA.md`](../_BIBLIOTECA.md). Original em inglês; resumo/tradução do trecho abaixo feita para uso no repertório.
 
 ## Gênesis 1:1 — "No princípio"
 
