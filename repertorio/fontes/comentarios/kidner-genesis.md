@@ -1,6 +1,6 @@
 # Gênesis: Introdução e Comentário — Derek Kidner (Tyndale)
 
-*Fonte: [KIDNER]* — ver registro em [`_BIBLIOTECA.md`](_BIBLIOTECA.md).
+*Fonte: [KIDNER]* — ver registro em [`_BIBLIOTECA.md`](../_BIBLIOTECA.md).
 
 Título original: *Genesis: An Introduction and Commentary*. InterVarsity Press (Leicester, Inglaterra), 1ª edição 1979. Publicado no Brasil por Sociedade Religiosa Edições Vida Nova, São Paulo-SP. Tradução: Odayr Olivetti.
 

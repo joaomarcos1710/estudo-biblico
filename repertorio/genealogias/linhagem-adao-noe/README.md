@@ -7,8 +7,8 @@
 
 - **Personagem principal:** [Adão](../../dados/entidades.json) (id `adao`)
 - **Origem da linhagem:** Adão
-- **Destino da linhagem:** Noé (ainda não processado)
-- **Passagens bíblicas:** Gênesis 4:25-26, Gênesis 5
+- **Destino da linhagem:** Noé, com extensão até seus três filhos (Sem, Cam, Jafé) e o filho de Cam (Canaã)
+- **Passagens bíblicas:** Gênesis 4:25-26, Gênesis 5, Gênesis 6-9 (Noé), Gênesis 9:18-19 (Sem, Cam, Jafé, Canaã)
 - **Pessoas relacionadas até agora:**
   - Adão + Eva
     - Caim (excluído da linhagem escolhida após matar Abel)
@@ -17,7 +17,10 @@
       - Enos (em seus dias, "começou-se a invocar o nome do SENHOR")
         - *(gerações intermediárias de Gênesis 5 ainda não processadas: Cainã, Maalaleel, Jarede)*
           - Enoque ("andou com Deus", trasladado sem ver a morte — Gn 5:22,24)
-            - *(Matusalém, Lameque, e por fim Noé — ainda não processados)*
+            - *(Matusalém, Lameque — ainda não processados)*
+              - Noé ("homem justo e íntegro", construiu a arca, recebeu a aliança do arco-íris em Gn 9:9-15)
+                - Sem, Cam e Jafé (Gn 9:18-19 — origem dos povos pós-dilúvio, ver [Tabela das Nações](../../livros/genesis.md))
+                  - Canaã (filho de Cam)
 - **Eventos relacionados:** [A Criação](../../dados/entidades.json), [A Queda](../../dados/entidades.json)
 
 ## Reconstrução / lacunas
@@ -34,5 +37,5 @@ Note-se que Gênesis também menciona um Enoque filho de Caim (Gn 4:17) — pess
 
 ## Imagens disponíveis
 
-- `diagrama.png` — pré-visualização rápida, exportada do Figma. Árvore parcial (Adão até Noé, com as lacunas marcadas), seguindo o [sistema visual do estudo bíblico](../../design/sistema-visual.md). Linha em preto (borda grossa) porque ainda não é tratada como a genealogia messiânica confirmada — o vermelho fica reservado pra quando cruzarmos com a Genealogia de Jesus. Gênero indicado por ponto azul-ardósia (homem) / rosa-terroso (mulher) no cabeçalho de cada caixa.
+- `diagrama.png` — pré-visualização rápida, exportada do Figma. **Desatualizado**: cobre só o trecho Adão–Enoque (com as lacunas marcadas), seguindo o [sistema visual do estudo bíblico](../../design/sistema-visual.md). Os dados já avançaram até Noé, Sem, Cam, Jafé e Canaã (texto/JSON), mas o diagrama ainda não foi refeito no Figma pra incluir essa parte — pendente. Linha em preto (borda grossa) porque ainda não é tratada como a genealogia messiânica confirmada — o vermelho fica reservado pra quando cruzarmos com a Genealogia de Jesus. Gênero indicado por ponto azul-ardósia (homem) / rosa-terroso (mulher) no cabeçalho de cada caixa.
 - **Arquivo editável no Figma:** [Estudo Bíblico — Genealogias](https://www.figma.com/design/0vyDCNSrEPu6K0CkFUsEw4) — frame "Genealogia - Adão a Noé". Usar auto-layout no Figma evita sobreposição automaticamente; ajustar/expandir a árvore lá conforme novas gerações forem processadas, depois re-exportar o PNG pra cá.

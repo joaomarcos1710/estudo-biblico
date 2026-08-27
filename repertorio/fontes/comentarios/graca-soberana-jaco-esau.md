@@ -1,6 +1,6 @@
 # Graça Soberana — "Jacó e Esaú" (C. Harinck)
 
-*Fonte: [GRACA-SOBERANA]* — ver registro em [`_BIBLIOTECA.md`](_BIBLIOTECA.md).
+*Fonte: [GRACA-SOBERANA]* — ver registro em [`_BIBLIOTECA.md`](../_BIBLIOTECA.md).
 
 Livreto "Graça Soberana" (sermões de C. Harinck, C. H. Spurgeon, Jonathan Edwards e George Whitefield, compilado por W. Chr. Hammink, Dutch Reformed Tract Society). Trecho recebido: prefácio completo + sermão "Jacó e Esaú", de C. Harinck, sobre Romanos 9:13.
 

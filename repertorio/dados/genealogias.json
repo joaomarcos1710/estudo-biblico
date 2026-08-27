@@ -7,15 +7,38 @@
     "personagemPrincipal": "adao",
     "origem": "adao",
     "destino": "noe",
-    "passagens": ["Gênesis 4:25-26", "Gênesis 5"],
-    "pessoasRelacionadas": ["adao", "mulher", "caim", "abel", "sete", "enos", "enoque"],
+    "passagens": [
+      "Gênesis 4:25-26",
+      "Gênesis 5"
+    ],
+    "pessoasRelacionadas": [
+      "adao",
+      "mulher",
+      "caim",
+      "abel",
+      "sete",
+      "enos",
+      "enoque",
+      "noe",
+      "sem",
+      "cam",
+      "jafe",
+      "canaa"
+    ],
     "tribosRelacionadas": [],
     "reisRelacionados": [],
     "sacerdotesRelacionados": [],
-    "eventosRelacionados": ["criacao", "queda"],
-    "observacoes": "Parcialmente processada: Adão e Eva → Caim, Abel, Sete (Caim excluído da linhagem escolhida após o homicídio; Abel morto; Sete \"destinado\" a assumir seu lugar) → Enos (início da adoração coletiva) → [gerações intermediárias de Gênesis 5 ainda não processadas: Cainã, Maalaleel, Jarede] → Enoque (\"andou com Deus\", trasladado) → [Matusalém, Lameque ainda não processados] → Noé (ainda não processado).",
-    "fontes": ["MOODY"],
-    "imagensDisponiveis": ["genealogias/linhagem-adao-noe/diagrama.png"],
+    "eventosRelacionados": [
+      "criacao",
+      "queda"
+    ],
+    "observacoes": "Adão e Eva → Caim, Abel, Sete (Caim excluído da linhagem escolhida após o homicídio; Abel morto; Sete \"destinado\" a assumir seu lugar) → Enos (início da adoração coletiva) → [gerações intermediárias de Gênesis 5 ainda não processadas: Cainã, Maalaleel, Jarede] → Enoque (\"andou com Deus\", trasladado) → [Matusalém, Lameque ainda não processados] → Noé (\"homem justo e íntegro\", construiu a arca, recebeu a aliança do arco-íris em Gn 9) → Sem, Cam e Jafé (Gn 9:18-19, origem dos povos pós-dilúvio) → Canaã (filho de Cam, Gn 9:18). A árvore visual (diagrama.png) ainda cobre só o trecho Adão–Enoque; falta atualizar pra incluir Noé e seus filhos.",
+    "fontes": [
+      "MOODY"
+    ],
+    "imagensDisponiveis": [
+      "genealogias/linhagem-adao-noe/diagrama.png"
+    ],
     "figmaUrl": "https://www.figma.com/design/0vyDCNSrEPu6K0CkFUsEw4"
   },
   {
@@ -26,14 +49,18 @@
     "personagemPrincipal": null,
     "origem": null,
     "destino": null,
-    "passagens": ["Gênesis 11-25"],
+    "passagens": [
+      "Gênesis 11-25"
+    ],
     "pessoasRelacionadas": [],
     "tribosRelacionadas": [],
     "reisRelacionados": [],
     "sacerdotesRelacionados": [],
     "eventosRelacionados": [],
     "observacoes": "Aguardando cadastro de Abraão, Sara, Agar, Ismael e Isaque em entidades.json. Já há material de apoio sobre Jacó/Esaú em fontes/comentarios/graca-soberana-jaco-esau.md, útil quando esta genealogia avançar.",
-    "fontes": ["GRACA-SOBERANA"],
+    "fontes": [
+      "GRACA-SOBERANA"
+    ],
     "imagensDisponiveis": []
   },
   {
@@ -44,7 +71,11 @@
     "personagemPrincipal": null,
     "origem": null,
     "destino": null,
-    "passagens": ["Gênesis 29-30", "Gênesis 35:23-26", "Gênesis 49"],
+    "passagens": [
+      "Gênesis 29-30",
+      "Gênesis 35:23-26",
+      "Gênesis 49"
+    ],
     "pessoasRelacionadas": [],
     "tribosRelacionadas": [],
     "reisRelacionados": [],
@@ -62,7 +93,10 @@
     "personagemPrincipal": null,
     "origem": null,
     "destino": null,
-    "passagens": ["1 Crônicas 3", "2 Samuel 7"],
+    "passagens": [
+      "1 Crônicas 3",
+      "2 Samuel 7"
+    ],
     "pessoasRelacionadas": [],
     "tribosRelacionadas": [],
     "reisRelacionados": [],
@@ -80,7 +114,10 @@
     "personagemPrincipal": null,
     "origem": null,
     "destino": null,
-    "passagens": ["Êxodo 6:16-25", "Números 3"],
+    "passagens": [
+      "Êxodo 6:16-25",
+      "Números 3"
+    ],
     "pessoasRelacionadas": [],
     "tribosRelacionadas": [],
     "reisRelacionados": [],
@@ -98,7 +135,10 @@
     "personagemPrincipal": null,
     "origem": null,
     "destino": null,
-    "passagens": ["Mateus 1:1-17", "Lucas 3:23-38"],
+    "passagens": [
+      "Mateus 1:1-17",
+      "Lucas 3:23-38"
+    ],
     "pessoasRelacionadas": [],
     "tribosRelacionadas": [],
     "reisRelacionados": [],

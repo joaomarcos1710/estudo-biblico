@@ -1,6 +1,6 @@
 # Comentário Bíblico Moody — Gênesis
 
-*Fonte: [MOODY]* — ver registro em [`_BIBLIOTECA.md`](_BIBLIOTECA.md). Trecho recebido: Introdução (Título, Natureza, Autoria, Gênesis e a Ciência) e Esboço completo.
+*Fonte: [MOODY]* — ver registro em [`_BIBLIOTECA.md`](../_BIBLIOTECA.md). Trecho recebido: Introdução (Título, Natureza, Autoria, Gênesis e a Ciência) e Esboço completo.
 
 ## Introdução
 
