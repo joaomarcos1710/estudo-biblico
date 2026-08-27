@@ -1,6 +1,6 @@
 # Comentário Bíblico Beacon — Gênesis
 
-*Fonte: [BEACON]* — ver registro em [`_BIBLIOTECA.md`](_BIBLIOTECA.md).
+*Fonte: [BEACON]* — ver registro em [`_BIBLIOTECA.md`](../_BIBLIOTECA.md).
 
 ## Esboço
 
