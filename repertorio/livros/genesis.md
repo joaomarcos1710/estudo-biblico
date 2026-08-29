@@ -225,6 +225,86 @@ O texto sugere que:
 - **Quando exatamente morre Terá**: Terá "viveu cento e cinco anos" (11:32). Se Abrão saiu de Ur aos 75 anos, Terá teria 145 — continuou vivo! Alguns estudiosos dizem que Abrão partiu de Harã (não de Ur) após morte de Terá. Há ambiguidade no texto hebraico.
 
 - **Paganismo em Ur**: Terá adorava deuses (Josué 24:2 — "Vossos pais... serviram a outros deuses no outro lado do Rio"). Qual era a conversão espiritual de Abrão? O chamado de Gênesis 12:1 pressupõe já fé ou marca o início?
+
+---
+
+## Gênesis 12:1-9 — A Chamada de Abraão
+
+**Texto bíblico**
+> Ora disse o SENHOR a Abrão: "Sai da tua terra, da tua parentela e da casa de teu pai, para a terra que te mostrarei. Farei de ti uma grande nação, e te abençoarei, e te engrandecerei o nome, e serás uma bênção. Abençoarei aos que te abençoarem, e amaldiçoarei aquele que te amaldiçoar; em ti serão benditas todas as famílias da terra." Abrão partiu, como o SENHOR lhe tinha dito, e Ló foi com ele. Abrão tinha setenta e cinco anos quando saiu de Harã. Abrão tomou sua esposa Sarai, seu sobrinho Ló, todos os bens que haviam adquirido e as pessoas que tinham adquirido em Harã, e saíram para ir à terra de Canaã. Quando chegaram à terra de Canaã, Abrão atravessou a terra até ao lugar de Siquém, até ao carvalho de Moré. Naquele tempo os cananeus estavam na terra. Apareceu o SENHOR a Abrão e disse: "À tua descendência darei esta terra." Então Abrão edificou um altar ao SENHOR que lhe havia aparecido. Dali se trasladou para a montanha ao oriente de Betel, e armou sua tenda, com Betel ao ocidente e Ai ao oriente; e edificou um altar ao SENHOR e invocou o nome do SENHOR. Abrão andava, pois, seguindo rumo ao Neguebe.
+*Fonte: [NVI]*
+
+**Tags:** #chamado #fé #obediência #promessa #renúncia #aliança #confiança #Canaã
+
+**Observação**
+
+O texto apresenta seis movimentos distintos:
+
+1. **Chamado verbal** (v.1-3): Deus fala. Três imperativos (sai, recebe bênção, sê bênção) + três promessas (grande nação, bênção pessoal, bênção universal).
+
+2. **Desprendimento material e familiar** (v.1): "Sai da tua terra, da tua parentela e da casa de teu pai" — tripla renúncia: (a) terra natal (segurança geográfica), (b) parentela (rede social), (c) casa de pai (autoridade familiar e herança).
+
+3. **Promessa sem localização específica** (v.1b): "para a terra que te mostrarei" — sem nome, descrição, prazo. Teste de fé: abraça o desconhecido.
+
+4. **Promessas de aliança** (v.2-3): (a) Grande nação (descendência abundante), (b) Bênção pessoal (prosperidade, engrandecimento de nome), (c) Papel mediador (serás bênção), (d) Reciprocidade divina (Deus abençoará/amaldiçoará conforme tratarem Abrão), (e) Universalidade (em ti serão benditas todas as famílias da terra).
+
+5. **Obediência imediata** (v.4): "Abrão partiu, como o SENHOR lhe tinha dito" — sem hesitação, reuniu família, servos, gado, posses.
+
+6. **Peregrinação em Canaã** (v.5-9): 
+   - Chegada em Siquém (entre Monte Gerizim e Ebal)
+   - Aparição de Deus em Siquém: reafirma promessa da terra
+   - Edifica altar (ato de adoração + tomada de posse)
+   - Move para Betel (10-11 milhas ao norte de Jerusalém)
+   - Edifica segundo altar, invoca nome de Deus
+   - Continua para Neguebe (sudeste árido)
+
+**O que dizem as fontes**
+
+- **Tripla renúncia como teste de fé**: Abrão recebeu ordem de "a) renunciar às certezas do passado, b) enfrentar as incertezas do futuro, c) olhar e seguir a direção da vontade de Deus" (Bispo Ryle). Cada elo — terra, povo, parentes — foi cortado em Ur, depois novamente em Harã. Foi "grande exigência" (Hebreus 11:8). *Fonte: [MOODY]*
+
+- **Promessa abraâmica abrange Cristo**: A promessa "em ti serão benditas todas as famílias da terra" é chave messiânica. Gálatas 3:16 ("a promessa foi feita a Abrão e à sua descendência... Cristo") aponta que promessa tem cumprimento em Cristo. Todos os povos — judeus e gentios — recebem bênção por fé em Cristo, descendência espiritual de Abrão. *Fonte: [MOODY]*
+
+- **Altar como ato duplo**: Edificar altar = submissão a Jeová (culto) + armar tenda = tomada de posse permanente da terra. "Dois atos simbólicos" revelam "fé resoluta no poder de Jeová dos exércitos para execução de todas as Suas promessas". *Fonte: [MOODY]*
+
+- **Siquém e Betel como centros de revelação**: Siquém — "primeiro santuário" datado c. 2500 A.C., provavelmente lugar de instrução ou ensino espiritual. Betel — também antigo santuário (mencionado mais vezes que qualquer cidade exceto Jerusalém), mais tarde nomeado por Jacó após sua visão (28:19). Ambos os locais são marcos de encontro com Deus. *Fonte: [MOODY]*
+
+**Nossa interpretação**
+
+1. **Fé sem promessa geográfica é fé pura**: Deus não disse "vai para Canaã". Disse "vai para a terra que te mostrarei". Abrão não sabe o destino — apenas obedece. Isso força fé em *Deus*, não em *plano*. A segurança está em quem promete, não no que é prometido.
+
+2. **Renúncia não é punição, é libertação**: Deixar "terra, parentela, casa de pai" pode parecer perda. Mas Deus oferece em troca grande nação, bênção pessoal, papel universal. Renúncia é precondição para receber algo maior que o possível dentro do sistema anterior.
+
+3. **Aliança abraâmica tem alcance universal**: Não é bênção só de Abrão/seus filhos, mas "todas as famílias da terra". Isso aponta para universalismo — Deus quer que toda humanidade seja abençoada. Mais tarde, em Cristo, bênção abraâmica alcança gentios (Gálatas 3).
+
+4. **Altares como declaração pública**: Cada altar edifica é confissão de fé visível. Em contexto pagão (Canaã), altar de Abrão a Jeová é provocação teológica — declara que Jeová (não Baal, Astarote, ou deuses cananeus) é Deus legítimo daquela terra.
+
+5. **Peregrinar é padrão de fé**: Abrão não se fixa em Siquém nem em Betel. Segue para Neguebe. Vida de fé = movimento constante, não enraizamento permanente. Hebreus 11:9-10 aproveita isso: "Habitar em terra estranha como em terra alheia... esperava a cidade cujo fundador e construtor é Deus."
+
+**Aplicação pastoral**
+
+- **Para quem ouve chamado radical**: Deixar segurança (profissão, relacionamentos, localidade) é legítimo quando Deus chama. Abrão não conhecia o destino — você também pode não saber todos os detalhes. Fé é estar disposto a partir.
+
+- **Para quem questiona "Deus sabe o que faz?"**: Sim — mas ele não promete revelar tudo antes. Promete "te mostrarei" no caminho, não antes de partir. Confiar em Deus é confiar nele mais que em planos claros.
+
+- **Para comunidades cristãs**: Nossas igrejas/ministérios precisam ser altares públicos em contexto de descrença. Como Abrão edifica altar em terra de cananeus, você professa fé visível em ambiente hostil?
+
+- **Para quem busca bênção universal**: A promessa abraâmica é para todos os povos em Cristo. Seu chamado pode incluir ser "bênção" a pessoas/culturas/povos diferentes do seu. Universalidade não é acidente narrativo — é propósito.
+
+- **Para liderança em transição**: Abrão move de Ur → Harã → Siquém → Betel → Neguebe. Cada parada é aprofundamento. Não espere estar "pronto" antes de começar. Comece, edifique altar, avance conforme Deus revela.
+
+**Vídeos**
+
+*(A ser adicionado: vídeos sobre chamado de Abrão, fé, renúncia, promessa abraâmica)*
+
+**Questões em aberto**
+
+- **Cronologia do chamado**: Atos 7:2 diz que Deus chamou Abrão em Ur antes de sair para Harã. Gênesis 12:1 parece situar o chamado em Harã. Qual é a sequência exata? Duas revelações (Ur + Harã)?
+
+- **"Terra que te mostrarei" vs conhecimento prévio**: Como Abrão soube que destino era Canaã se Deus não especificou? Revelação oral não registrada? Dedução? Conhecimento prévio?
+
+- **Relação com Ló**: Abrão levou Ló (sobrinho, filho de Harã falecido). Mais tarde separam (13:11-13). Era Ló incluído na promessa ou apenas acompanhante?
+
+- **Data histórica do chamado**: Se Abrão viveu c. 2000-1900 A.C., como alinha com cronologia arqueológica de Canaã/Egito? Há evidência de "invasão" amorita ou movimento arameu que corresponda?
 *Fonte: [MOODY]*
 
 - "Sem forma e vazia" (*tohu v'vohu*) — mesma expressão usada só mais uma vez na Bíblia, em Jeremias 4:23, descrevendo juízo. *Rúâh* ("Espírito") pode significar "vento", mas "Espírito" faz mais sentido no contexto e paralela João 3. Aplicação: se o Espírito pairava sobre a criação então, ainda paira sobre ela agora — Deus continua presente e dirigindo Sua criação.
