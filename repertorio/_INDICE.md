@@ -60,17 +60,23 @@ Nem toda entrada precisa preencher os seis blocos completos (um versículo simpl
 
 ## Livros já iniciados
 
-- [Gênesis](livros/genesis.md)
+- [Gênesis](livros/genesis.md) — Capítulos 1-2, 3, 4, 5, 6-8, 9-10, **11** (Torre de Babel + genealogia), **12** (Chamada de Abrão)
 
 ## Temas já iniciados
 
 - [Ira](temas/ira.md)
+- [Orgulho & Auto-suficiência](temas/orgulho.md) — *novo*
+- [Chamado & Obediência](temas/chamado-obediencia.md) — *novo*
 
 ## Assuntos já iniciados
 
 - [Graça](assuntos/graca.md)
 - [Casamento](assuntos/casamento.md)
 - [A Queda](assuntos/a-queda.md)
+- [Torre de Babel](assuntos/torre-de-babel.md) — *novo*
+- [Abrão / Abraão](assuntos/abraao.md) — *novo*
+- [Genealogia](assuntos/genealogia.md) — *novo*
+- [Promessa Abraâmica](assuntos/promessa-abraamica.md) — *novo*
 
 ## Visuais já iniciados
 
