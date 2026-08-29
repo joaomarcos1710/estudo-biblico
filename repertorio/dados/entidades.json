@@ -521,7 +521,8 @@
     ],
     "relacionados": [
       "cam",
-      "noe"
+      "noe",
+      "torre-de-babel"
     ],
     "pai": null,
     "mae": null,
@@ -529,5 +530,287 @@
     "filhos": [],
     "irmaos": [],
     "genealogias": []
+  },
+  {
+    "id": "torre-de-babel",
+    "tipo": "evento",
+    "nome": "A Torre de Babel",
+    "aliases": [
+      "Babel",
+      "confusão de línguas"
+    ],
+    "resumo": "Evento em Gênesis 11:1-9 onde a humanidade, unida em linguagem e propósito, tenta construir uma torre que chegue aos céus. Deus intervém confundindo as línguas e dispersando os povos — julgamento sobre a auto-suficiência e orgulho humanos.",
+    "versiculos": [
+      "gen-11-1-9"
+    ],
+    "relacionados": [
+      "deus",
+      "ninrode",
+      "orgulho",
+      "promessa-abraamica"
+    ],
+    "aplicacaoPastoral": "Mostra perigo de unidade sem Deus. Contraste providencial com Pentecostes (Atos 2) onde confusão de Babel é revertida — unidade verdadeira vem quando foco está em Deus, não em si mesmo.",
+    "temasAssocius": [
+      "orgulho",
+      "auto-suficiencia",
+      "julgamento-divino"
+    ]
+  },
+  {
+    "id": "terah",
+    "tipo": "pessoa",
+    "nome": "Terá",
+    "aliases": [
+      "Terá",
+      "Terah"
+    ],
+    "resumo": "Pai de Abrão, Naor e Harã (Gênesis 11:27-32). Viveu em Ur dos Caldeus, cidade rica em comercio e cultura religiosa (adoração de Sin, deusa-lua). Iniciou migração para Canaã mas parou em Harã, onde morreu aos 105 anos. Representa geração anterior que não completa a jornada de fé.",
+    "versiculos": [
+      "gen-11-27-32"
+    ],
+    "relacionados": [
+      "abraao",
+      "haran",
+      "ur",
+      "sarai"
+    ],
+    "pai": null,
+    "mae": null,
+    "conjuges": [],
+    "filhos": [
+      "abraao",
+      "haran"
+    ],
+    "irmaos": [],
+    "aplicacaoPastoral": "Terá representa a geração que reconhece chamado (inicia migração para Canaã) mas não completa a jornada. Sua morte em Harã marca fim de era — Abrão continua. Útil para liderança em transição e passagem de legado.",
+    "genealogias": [
+      "linhagem-adao-noe"
+    ]
+  },
+  {
+    "id": "abraao",
+    "tipo": "pessoa",
+    "nome": "Abraão / Abrão",
+    "aliases": [
+      "Abrão",
+      "Abram",
+      "Avram",
+      "pai da multidão"
+    ],
+    "resumo": "Patriarca central de Gênesis 12-25. Nascido em Ur dos Caldeus (c. 2100-2000 A.C.), chamado por Deus aos 75 anos para deixar terra, parentela e casa de pai para ir a Canaã. Recebeu promessas de grande nação, bênção pessoal e bênção universal. Viveu vida de fé e obediência apesar de infertilidade de Sarai, cumprimento de promessa em Isaque, e testes severos.",
+    "versiculos": [
+      "gen-11-27-32",
+      "gen-12-1-9"
+    ],
+    "relacionados": [
+      "deus",
+      "sarai",
+      "lo",
+      "terah",
+      "promessa-abraamica",
+      "canaa",
+      "isaque"
+    ],
+    "pai": "terah",
+    "mae": null,
+    "conjuges": [
+      "sarai"
+    ],
+    "filhos": [
+      "isaque"
+    ],
+    "irmaos": [
+      "haran"
+    ],
+    "aplicacaoPastoral": "Modelo de fé em obediência (deixou segurança sem saber destino), perseverança (esperou promessa por décadas), e confiança em impossível (filho prometido a casal estéril). Também ilustra teste de fé genuína (sacrifício de Isaque) e comunhão com Deus (visitação, aliança).",
+    "temasAssocius": [
+      "chamado-obediencia",
+      "fe",
+      "promessa",
+      "alianca"
+    ],
+    "cronologia": "c. 2100-2000 A.C. (Abraham, Isaque, Jacob formam os 3 patriarcas; datas convencionais variam entre eruditos - arqueologia ainda debatida)",
+    "genealogias": [
+      "linhagem-adao-noe"
+    ]
+  },
+  {
+    "id": "sarai",
+    "tipo": "pessoa",
+    "nome": "Sarai / Sara",
+    "aliases": [
+      "Sara",
+      "Sarai",
+      "Sharai"
+    ],
+    "resumo": "Esposa de Abrão, mãe de Isaque (Gênesis 11-23). Descrita como estéril até avançada idade (90 anos) quando miraculosamente concebe Isaque. Representa tema bíblico recorrente: impossibilidade humana como ocasião para milagre divino. Nome significa \"princesa\"; muda de Sarai para Sara quando Deus reafirma promessa em Gênesis 17.",
+    "versiculos": [
+      "gen-11-27-32",
+      "gen-12-1-9"
+    ],
+    "relacionados": [
+      "abraao",
+      "deus",
+      "isaque",
+      "promessa-abraamica"
+    ],
+    "pai": null,
+    "mae": null,
+    "conjuges": [
+      "abraao"
+    ],
+    "filhos": [
+      "isaque"
+    ],
+    "irmaos": [],
+    "aplicacaoPastoral": "Sarai ilustra temas de infertilidade/vazio, humilhação por não ter filhos (cultural pressão da época), e fé que Deus age apesar (não apesar) de impossibilidade. Menção de que era \"meia-irmã\" de Abrão (20:12) reflete padrões matrimoniais antigos.",
+    "temasAssocius": [
+      "infertilidade",
+      "milagre",
+      "fe",
+      "promessa"
+    ],
+    "genealogias": [
+      "linhagem-adao-noe"
+    ]
+  },
+  {
+    "id": "ur",
+    "tipo": "lugar",
+    "nome": "Ur dos Caldeus",
+    "aliases": [
+      "Ur",
+      "Uruk",
+      "Urum"
+    ],
+    "resumo": "Cidade florescente da Mesopotâmia, centro comercial e cultural no terceiro milênio A.C. Importante centro de adoração de Sin (deusa-lua). Abrão nasceu e cresceu aí, herdando civilização sofisticada e riqueza. Deixou Ur quando Deus o chamou (Atos 7:2). Hoje localizada no sul do Iraque.",
+    "versiculos": [
+      "gen-11-27-32"
+    ],
+    "relacionados": [
+      "abraao",
+      "terah",
+      "sarai"
+    ],
+    "aplicacaoPastoral": "Ur representa segurança material, status social e herança civilizada que Abrão deixou para obedecer a Deus. Tema de sacrifício voluntário de conforto/reputação ao responder chamado. Também contexto pagão (adoração de Sin) de onde Deus separou Abrão.",
+    "coordenadas": "c. 30.96°N, 46.11°E (sul do Iraque, perto da foz do Eufrates)"
+  },
+  {
+    "id": "haran",
+    "tipo": "lugar",
+    "nome": "Harã",
+    "aliases": [
+      "Haran",
+      "Hárã"
+    ],
+    "resumo": "Importante cidade comercial e religiosa na Mesopotâmia, cerca de 550 milhas ao nordeste de Ur. Centro de rotas para Nínive, Babilônia e Damasco. Como Ur, importante centro de adoração de Sin. Terá levou família para lá durante migração para Canaã, parou aí e morreu. Abrão recebeu chamado final em Harã (antes de sair aos 75 anos). Mais tarde, Rebeca e Raquel cresceram aí.",
+    "versiculos": [
+      "gen-11-27-32",
+      "gen-12-1-9"
+    ],
+    "relacionados": [
+      "abraao",
+      "terah",
+      "canaa",
+      "sarai"
+    ],
+    "aplicacaoPastoral": "Harã é parada no caminho, não destino final. Terá morre lá — sua jornada não se completa. Mas representa oportunidade de escolha: Abrão continua de Harã para Canaã. Tema de \"parada provisória\" que se torna permanente para quem não completa chamado, versus continuação para quem persevera.",
+    "coordenadas": "c. 36.87°N, 39.03°E (sul da Turquia, na região de Şanlıurfa)"
+  },
+  {
+    "id": "promessa-abraamica",
+    "tipo": "conceito-alianca",
+    "nome": "Promessa Abraâmica",
+    "aliases": [
+      "Aliança Abraâmica",
+      "Pacto Abraâmico"
+    ],
+    "resumo": "Promessa divina a Abrão em Gênesis 12:1-3, reiterada em 13, 15, 17. Elementos: (1) Grande nação — descendência numerosa; (2) Bênção pessoal — 'Engrandecerei teu nome'; (3) Papel mediador — 'Sê bênção'; (4) Reciprocidade — 'Abençoarei aos que te abençoarem'; (5) Alcance universal — 'Em ti serão benditas todas as famílias da terra'. Cumpre-se através de Isaque, depois Jacó, depois Israel, e messiânicamente em Cristo (Gálatas 3:16).",
+    "versiculos": [
+      "gen-12-1-9"
+    ],
+    "relacionados": [
+      "abraao",
+      "deus",
+      "isaque",
+      "canaa"
+    ],
+    "dimensoesTeologicas": {
+      "territorial": "Terra de Canaã prometida a Abrão e descendência — cumprimento em Êxodo (saída) e Josué (conquista)",
+      "genealogica": "Descendência numerosa através de Isaque (filho da promessa), Jacó, 12 tribos, Israel",
+      "universal-messianica": "Bênção para todas as famílias da terra, cumprimento em Cristo para judeus e gentios (Gálatas 3:28-29)",
+      "alianca-relacionamento": "Não transação ('faça isso, receba bênção') mas relacionamento: 'Serei teu Deus, você será meu povo'"
+    },
+    "aplicacao": "Crentes em Cristo são filhos espirituais de Abraão por fé, herdeiros de promessa abraâmica. Chamados a ser 'bênção' a outras culturas/povos (Missões). Espera em promessa inclui períodos de invisibilidade/aparente atraso — fé é confiar apesar de demora.",
+    "temasAssocius": [
+      "alianca",
+      "promessa",
+      "fe",
+      "missoes",
+      "messias"
+    ]
+  },
+  {
+    "id": "lo",
+    "tipo": "pessoa",
+    "nome": "Ló",
+    "aliases": [
+      "Lot",
+      "Loṭ"
+    ],
+    "resumo": "Sobrinho de Abrão, filho de Harã (Gênesis 11:27-32, 12:4 e adiante). Viajou com Abrão de Ur a Harã e depois para Canaã. Mais tarde separou-se de Abrão por desacordo sobre pastagens (Gênesis 13) — escolheu planícies de Sodoma, cidade que foi destruída por julgamento. Preservado por graça de Deus por causa de Abrão.",
+    "versiculos": [
+      "gen-11-27-32",
+      "gen-12-1-9"
+    ],
+    "relacionados": [
+      "abraao",
+      "terah",
+      "haran"
+    ],
+    "pai": "haran",
+    "mae": null,
+    "conjuges": [],
+    "filhos": [],
+    "irmaos": [],
+    "aplicacaoPastoral": "Ló representa companheiro de jornada que faz escolhas baseadas em ganho material (escolhe planícies férteis de Sodoma) em vez de fé. Sua história ilustra consequência de separação de comunidade fiel — isolamento em ambiente hostil.",
+    "temasAssocius": [
+      "chamado-obediencia",
+      "escolha",
+      "separacao"
+    ],
+    "genealogias": []
+  },
+  {
+    "id": "isaque",
+    "tipo": "pessoa",
+    "nome": "Isaque",
+    "aliases": [
+      "Isaac",
+      "Yitzhak",
+      "Yiṣḥaq"
+    ],
+    "resumo": "Filho de Abrão e Sarai, nascido miraculosamente quando ambos eram muito idosos (Abrão 100, Sarai 90). Segundo patriarca, pai de Jacó e Esaú. Chamado 'filho da promessa' — seu nascimento cumpre promessa abraâmica quando tudo biologicamente era impossível. Tema central de confiança em impossível.",
+    "versiculos": [],
+    "relacionados": [
+      "abraao",
+      "sarai",
+      "deus",
+      "promessa-abraamica"
+    ],
+    "pai": "abraao",
+    "mae": "sarai",
+    "conjuges": [],
+    "filhos": [],
+    "irmaos": [],
+    "temasAssocius": [
+      "milagre",
+      "fe",
+      "promessa",
+      "filho-promessa"
+    ],
+    "genealogias": [
+      "linhagem-adao-noe"
+    ]
   }
 ]
